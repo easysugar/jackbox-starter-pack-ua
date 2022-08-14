@@ -1,0 +1,769 @@
+{
+  "content": [
+    {
+      "id": "55670",
+      "includesPlayerName": false,
+      "isValid": "",
+      "prompt": "[EventName=HOST/AltHost]Найкращий сімейний бізнес у спадок",
+      "safetyQuips": [],
+      "us": false,
+      "x": false
+    },
+    {
+      "id": "55671",
+      "includesPlayerName": false,
+      "isValid": "",
+      "prompt": "[EventName=HOST/AltHost]Краща назва для привидів",
+      "safetyQuips": [],
+      "us": false,
+      "x": false
+    },
+    {
+      "id": "55672",
+      "includesPlayerName": false,
+      "isValid": "",
+      "prompt": "[EventName=HOST/AltHost]Єдине, чого мені не вистачало, поки я перебував в готелі - це <BLANK>",
+      "safetyQuips": [],
+      "us": false,
+      "x": false
+    },
+    {
+      "id": "55689",
+      "includesPlayerName": false,
+      "isValid": "",
+      "prompt": "[EventName=HOST/AltHost]Ідеальна назва для готелю, яким керує нежить",
+      "safetyQuips": [],
+      "us": false,
+      "x": false
+    },
+    {
+      "id": "55690",
+      "includesPlayerName": false,
+      "isValid": "",
+      "prompt": "[EventName=HOST/AltHost]Найбільш дивне використання щипчиків для нігтів",
+      "safetyQuips": [],
+      "us": false,
+      "x": false
+    },
+    {
+      "id": "55691",
+      "includesPlayerName": false,
+      "isValid": "",
+      "prompt": "[EventName=HOST/AltHost]Соціальна ситуація, яка більш болюча за тортури",
+      "safetyQuips": [],
+      "us": false,
+      "x": false
+    },
+    {
+      "id": "55692",
+      "includesPlayerName": false,
+      "isValid": "",
+      "prompt": "[EventName=HOST/AltHost]Явна ознака того, що ваше ліжко прокляте",
+      "safetyQuips": [],
+      "us": false,
+      "x": false
+    },
+    {
+      "id": "55693",
+      "includesPlayerName": false,
+      "isValid": "",
+      "prompt": "[EventName=HOST/AltHost]Найгірша форма ліжка у номері для молодят",
+      "safetyQuips": [],
+      "us": false,
+      "x": false
+    },
+    {
+      "id": "55694",
+      "includesPlayerName": false,
+      "isValid": "",
+      "prompt": "[EventName=HOST/AltHost]Що ви усвідомили, лежачи в готелі у гідромасажній ванні",
+      "safetyQuips": [],
+      "us": false,
+      "x": false
+    },
+    {
+      "id": "55697",
+      "includesPlayerName": false,
+      "isValid": "",
+      "prompt": "[EventName=HOST/AltHost]Я люблю, коли у мінібарі повно <BLANK>",
+      "safetyQuips": [],
+      "us": false,
+      "x": false
+    },
+    {
+      "id": "55730",
+      "includesPlayerName": false,
+      "isValid": "",
+      "prompt": "[EventName=HOST/AltHost]Назва наступного чудового сиквела відеоігри",
+      "safetyQuips": [],
+      "us": false,
+      "x": false
+    },
+    {
+      "id": "55731",
+      "includesPlayerName": false,
+      "isValid": "",
+      "prompt": "[EventName=HOST/AltHost]Забудьте про привидів і вампірів! Виявляється, що справжній монстр - це...",
+      "safetyQuips": [],
+      "us": false,
+      "x": false
+    },
+    {
+      "id": "55732",
+      "includesPlayerName": false,
+      "isValid": "",
+      "prompt": "[EventName=HOST/AltHost]Ознака того, що вам краще не їсти цей пиріжечок у буфеті",
+      "safetyQuips": [],
+      "us": false,
+      "x": false
+    },
+    {
+      "id": "55733",
+      "includesPlayerName": false,
+      "isValid": "",
+      "prompt": "[EventName=HOST/AltHost]Ефективніший знак, ніж «Не турбувати»",
+      "safetyQuips": [],
+      "us": false,
+      "x": false
+    },
+    {
+      "id": "55737",
+      "includesPlayerName": false,
+      "isValid": "",
+      "prompt": "[EventName=HOST/AltHost]В які слова сторони захисту суд точно повірить",
+      "safetyQuips": [],
+      "us": false,
+      "x": false
+    },
+    {
+      "id": "55779",
+      "includesPlayerName": false,
+      "isValid": "",
+      "prompt": "[EventName=HOST/AltHost]Назва для автобіографії коня",
+      "safetyQuips": [],
+      "us": false,
+      "x": false
+    },
+    {
+      "id": "55780",
+      "includesPlayerName": false,
+      "isValid": "",
+      "prompt": "[EventName=HOST/AltHost]Тривожна зворотна сторона таблички «Не турбувати»",
+      "safetyQuips": [],
+      "us": false,
+      "x": false
+    },
+    {
+      "id": "55782",
+      "includesPlayerName": false,
+      "isValid": "",
+      "prompt": "[EventName=HOST/AltHost]Ніхто ніколи не замовляв це через обслуговування номерів",
+      "safetyQuips": [],
+      "us": false,
+      "x": false
+    },
+    {
+      "id": "55783",
+      "includesPlayerName": false,
+      "isValid": "",
+      "prompt": "[EventName=HOST/AltHost]Forget mints! This is what you wish was left on your pillow...",
+      "safetyQuips": [],
+      "us": false,
+      "x": false
+    },
+    {
+      "id": "55926",
+      "includesPlayerName": false,
+      "isValid": "",
+      "prompt": "[EventName=HOST/AltHost]Найкраща назва автомобілів для агрономів",
+      "safetyQuips": [],
+      "us": false,
+      "x": false
+    },
+    {
+      "id": "55927",
+      "includesPlayerName": false,
+      "isValid": "",
+      "prompt": "[EventName=HOST/AltHost]Що варто написати на надгробку ведучого ігрового шоу",
+      "safetyQuips": [],
+      "us": false,
+      "x": false
+    },
+    {
+      "id": "55928",
+      "includesPlayerName": false,
+      "isValid": "",
+      "prompt": "[EventName=HOST/AltHost]Найтривожніше, що можна прочитати в огляді готелю",
+      "safetyQuips": [],
+      "us": false,
+      "x": false
+    },
+    {
+      "id": "55929",
+      "includesPlayerName": false,
+      "isValid": "",
+      "prompt": "[EventName=HOST/AltHost]Гарна назва для сімейного ресторану, де заправляє канібал",
+      "safetyQuips": [],
+      "us": false,
+      "x": false
+    },
+    {
+      "id": "55930",
+      "includesPlayerName": false,
+      "isValid": "",
+      "prompt": "[EventName=HOST/AltHost]Допоможіть! Я у пастці! Як мені втекти з цього готельного номера?!",
+      "safetyQuips": [],
+      "us": false,
+      "x": false
+    },
+    {
+      "id": "55931",
+      "includesPlayerName": false,
+      "isValid": "",
+      "prompt": "[EventName=HOST/AltHost]Найкрутіше, що похоронне бюро може зробити з вашими останками",
+      "safetyQuips": [],
+      "us": false,
+      "x": false
+    },
+    {
+      "id": "55932",
+      "includesPlayerName": false,
+      "isValid": "",
+      "prompt": "[EventName=HOST/AltHost]Чому бабуся й дідусь ніколи не хочуть говорити про шум, який доноситься з підвалу?",
+      "safetyQuips": [],
+      "us": false,
+      "x": false
+    },
+    {
+      "id": "55934",
+      "includesPlayerName": false,
+      "isValid": "",
+      "prompt": "[EventName=HOST/AltHost]Найкраще в тому, щоб запросити на свій день народження привида",
+      "safetyQuips": [],
+      "us": false,
+      "x": false
+    },
+    {
+      "id": "55941",
+      "includesPlayerName": false,
+      "isValid": "",
+      "prompt": "[EventName=HOST/AltHost]На крайняк це завжди можна вдіти як взуття",
+      "safetyQuips": [],
+      "us": false,
+      "x": false
+    },
+    {
+      "id": "55942",
+      "includesPlayerName": false,
+      "isValid": "",
+      "prompt": "[EventName=HOST/AltHost]Найстаріший у світі папуга помер, стискаючи у дзьобі <BLANK>",
+      "safetyQuips": [],
+      "us": false,
+      "x": false
+    },
+    {
+      "id": "55943",
+      "includesPlayerName": false,
+      "isValid": "",
+      "prompt": "[EventName=HOST/AltHost]Цей неймовірний новий соус поєднує в собі біле вино, зелену сальсу та <BLANK>",
+      "safetyQuips": [],
+      "us": false,
+      "x": false
+    },
+    {
+      "id": "55944",
+      "includesPlayerName": false,
+      "isValid": "",
+      "prompt": "[EventName=HOST/AltHost]Найважче в тому, щоб бути безсмертним",
+      "safetyQuips": [],
+      "us": false,
+      "x": false
+    },
+    {
+      "id": "55945",
+      "includesPlayerName": false,
+      "isValid": "",
+      "prompt": "[EventName=HOST/AltHost]Найгірше, що можна почути з вашої шафи",
+      "safetyQuips": [],
+      "us": false,
+      "x": false
+    },
+    {
+      "id": "55946",
+      "includesPlayerName": false,
+      "isValid": "",
+      "prompt": "[EventName=HOST/AltHost]Найбільш необачна порада, яку можна дати підлітку",
+      "safetyQuips": [],
+      "us": false,
+      "x": false
+    },
+    {
+      "id": "56003",
+      "includesPlayerName": false,
+      "isValid": "",
+      "prompt": "[EventName=HOST/AltHost]Кошмар, який постійно сниться дельфінам",
+      "safetyQuips": [],
+      "us": false,
+      "x": false
+    },
+    {
+      "id": "56004",
+      "includesPlayerName": false,
+      "isValid": "",
+      "prompt": "[EventName=HOST/AltHost]Коли зграя ворон сідає на ваше ліжко, це означає...",
+      "safetyQuips": [],
+      "us": false,
+      "x": false
+    },
+    {
+      "id": "56025",
+      "includesPlayerName": false,
+      "isValid": "",
+      "prompt": "[EventName=HOST/AltHost]Вони зафарбували це на Сикстинській капелі, тому що це було надто моторошно",
+      "safetyQuips": [],
+      "us": false,
+      "x": false
+    },
+    {
+      "id": "56026",
+      "includesPlayerName": false,
+      "isValid": "",
+      "prompt": "[EventName=HOST/AltHost]Не засовуйте це в точилку для олівців",
+      "safetyQuips": [],
+      "us": false,
+      "x": false
+    },
+    {
+      "id": "56027",
+      "includesPlayerName": false,
+      "isValid": "",
+      "prompt": "[EventName=HOST/AltHost]Приголомшливе усвідомлення, яке прийшло до вас у JYSK'у",
+      "safetyQuips": [],
+      "us": false,
+      "x": false
+    },
+    {
+      "id": "56036",
+      "includesPlayerName": false,
+      "isValid": "",
+      "prompt": "[EventName=HOST/AltHost]Річ, яка ніколи не повинна бути хрусткою",
+      "safetyQuips": [],
+      "us": false,
+      "x": false
+    },
+    {
+      "id": "56037",
+      "includesPlayerName": false,
+      "isValid": "",
+      "prompt": "[EventName=HOST/AltHost]Причина, чому «скасували» цуценят",
+      "safetyQuips": [],
+      "us": false,
+      "x": false
+    },
+    {
+      "id": "56038",
+      "includesPlayerName": false,
+      "isValid": "",
+      "prompt": "[EventName=HOST/AltHost]Найгірший смак для газованки",
+      "safetyQuips": [],
+      "us": false,
+      "x": false
+    },
+    {
+      "id": "56039",
+      "includesPlayerName": false,
+      "isValid": "",
+      "prompt": "[EventName=HOST/AltHost]Як стати гарячим фермером",
+      "safetyQuips": [],
+      "us": false,
+      "x": false
+    },
+    {
+      "id": "56040",
+      "includesPlayerName": false,
+      "isValid": "",
+      "prompt": "[EventName=HOST/AltHost]У мої часи дезодоранти робили з...",
+      "safetyQuips": [],
+      "us": false,
+      "x": false
+    },
+    {
+      "id": "56058",
+      "includesPlayerName": false,
+      "isValid": "",
+      "prompt": "[EventName=HOST/AltHost]Найкраще алібі під час розслідування вбивства в закритому приміщенні",
+      "safetyQuips": [],
+      "us": false,
+      "x": false
+    },
+    {
+      "id": "56059",
+      "includesPlayerName": false,
+      "isValid": "",
+      "prompt": "[EventName=HOST/AltHost]Якщо офіціант простягає руку, то він насправді чекає не на чайові, а на <BLANK>",
+      "safetyQuips": [],
+      "us": false,
+      "x": false
+    },
+    {
+      "id": "56061",
+      "includesPlayerName": false,
+      "isValid": "",
+      "prompt": "[EventName=HOST/AltHost]Коли я був дитиною, відьма прокляла мене нескінченними <BLANK>",
+      "safetyQuips": [],
+      "us": false,
+      "x": false
+    },
+    {
+      "id": "56062",
+      "includesPlayerName": false,
+      "isValid": "",
+      "prompt": "[EventName=HOST/AltHost]Назва марки автомобіля, що працює на криках проклятих",
+      "safetyQuips": [],
+      "us": false,
+      "x": false
+    },
+    {
+      "id": "56068",
+      "includesPlayerName": false,
+      "isValid": "",
+      "prompt": "[EventName=HOST/AltHost]Навіть не говори до мене, поки я не отримаю <BLANK>",
+      "safetyQuips": [],
+      "us": false,
+      "x": false
+    },
+    {
+      "id": "56070",
+      "includesPlayerName": false,
+      "isValid": "",
+      "prompt": "[EventName=HOST/AltHost]Річ, яка дозволить вибратися з будь-якої халепи",
+      "safetyQuips": [],
+      "us": false,
+      "x": false
+    },
+    {
+      "id": "56071",
+      "includesPlayerName": false,
+      "isValid": "",
+      "prompt": "[EventName=HOST/AltHost]Гарна заміна людського контакту",
+      "safetyQuips": [],
+      "us": false,
+      "x": false
+    },
+    {
+      "id": "56072",
+      "includesPlayerName": false,
+      "isValid": "",
+      "prompt": "[EventName=HOST/AltHost]ЗБС. Завжди будь <BLANK>.",
+      "safetyQuips": [],
+      "us": false,
+      "x": false
+    },
+    {
+      "id": "56073",
+      "includesPlayerName": false,
+      "isValid": "",
+      "prompt": "[EventName=HOST/AltHost]Найгірше, що можна знайти в кавоварці готельного номера",
+      "safetyQuips": [],
+      "us": false,
+      "x": false
+    },
+    {
+      "id": "56126",
+      "includesPlayerName": false,
+      "isValid": "",
+      "prompt": "[EventName=HOST/AltHost]Скажене завдання, яке я вам задам під час гри в Жартлист, мабуть?",
+      "safetyQuips": [],
+      "us": false,
+      "x": false
+    },
+    {
+      "id": "56127",
+      "includesPlayerName": false,
+      "isValid": "",
+      "prompt": "[EventName=HOST/AltHost]Гарний подарунок для вбивці",
+      "safetyQuips": [],
+      "us": false,
+      "x": false
+    },
+    {
+      "id": "56499",
+      "includesPlayerName": false,
+      "isValid": "",
+      "prompt": "[EventName=HOST/AltHost]Найгірше в тому, щоб бути вихованим сім’єю серійних вбивць, яка керує готелем, де таємно вбивають гостей",
+      "safetyQuips": [],
+      "us": false,
+      "x": false
+    },
+    {
+      "id": "56522",
+      "includesPlayerName": false,
+      "isValid": "",
+      "prompt": "[EventName=HOST/AltHost]Якщо я помру уві сні, Боже, то забери ще й <BLANK>\n",
+      "safetyQuips": [],
+      "us": false,
+      "x": false
+    },
+    {
+      "id": "56523",
+      "includesPlayerName": false,
+      "isValid": "",
+      "prompt": "[EventName=HOST/AltHost]Що МАВ БИ сказати ворон у тому вірші Едгара Аллена По?\n",
+      "safetyQuips": [],
+      "us": false,
+      "x": false
+    },
+    {
+      "id": "56524",
+      "includesPlayerName": false,
+      "isValid": "",
+      "prompt": "[EventName=HOST/AltHost]Найстрашніший звук дверного дзвінка\n",
+      "safetyQuips": [],
+      "us": false,
+      "x": false
+    },
+    {
+      "id": "56528",
+      "includesPlayerName": false,
+      "isValid": "",
+      "prompt": "[EventName=HOST/AltHost]The ribcage that would make the best bone xylophone\n",
+      "safetyQuips": [],
+      "us": false,
+      "x": false
+    },
+    {
+      "id": "56530",
+      "includesPlayerName": false,
+      "isValid": "",
+      "prompt": "[EventName=HOST/AltHost]Один із п’яти людей, яких ти зустрінеш... У ПЕКЛІ!",
+      "safetyQuips": [],
+      "us": false,
+      "x": false
+    },
+    {
+      "id": "56531",
+      "includesPlayerName": false,
+      "isValid": "",
+      "prompt": "[EventName=HOST/AltHost]Немає нічого кращого перед сном, ніж випити склянку файного теплого <BLANK>",
+      "safetyQuips": [],
+      "us": false,
+      "x": false
+    },
+    {
+      "id": "56532",
+      "includesPlayerName": false,
+      "isValid": "",
+      "prompt": "[EventName=HOST/AltHost]Найкраща відмазка для шефа, щоб відпроситися через хворобу\n",
+      "safetyQuips": [],
+      "us": false,
+      "x": false
+    },
+    {
+      "id": "56533",
+      "includesPlayerName": false,
+      "isValid": "",
+      "prompt": "[EventName=HOST/AltHost]Єдине місце, куди можна повісити одну з тих моторошних картин із отворами для очей, крізь які можна спостерігати",
+      "safetyQuips": [],
+      "us": false,
+      "x": false
+    },
+    {
+      "id": "56534",
+      "includesPlayerName": false,
+      "isValid": "",
+      "prompt": "[EventName=HOST/AltHost]Найменш страшна назва для банди байкерів",
+      "safetyQuips": [],
+      "us": false,
+      "x": false
+    },
+    {
+      "id": "56535",
+      "includesPlayerName": false,
+      "isValid": "",
+      "prompt": "[EventName=HOST/AltHost]У моєму гаражі є сотні банок, які по вінця повні <BLANK>\n",
+      "safetyQuips": [],
+      "us": false,
+      "x": false
+    },
+    {
+      "id": "56536",
+      "includesPlayerName": false,
+      "isValid": "",
+      "prompt": "[EventName=HOST/AltHost]Something wholesome that could be found buried underneath the floorboards",
+      "safetyQuips": [],
+      "us": false,
+      "x": false
+    },
+    {
+      "id": "56537",
+      "includesPlayerName": false,
+      "isValid": "",
+      "prompt": "[EventName=HOST/AltHost]У 1800-х роках самотні люди використовували це замість додатків для знайомств",
+      "safetyQuips": [],
+      "us": false,
+      "x": false
+    },
+    {
+      "id": "56539",
+      "includesPlayerName": false,
+      "isValid": "",
+      "prompt": "[EventName=HOST/AltHost]Під час обробки порізу затискайте рану <BLANK>, доки кровотеча не зупиниться.\n",
+      "safetyQuips": [],
+      "us": false,
+      "x": false
+    },
+    {
+      "id": "56540",
+      "includesPlayerName": false,
+      "isValid": "",
+      "prompt": "[EventName=HOST/AltHost]Це у жодному разі не можна використовувати як начинку для піци",
+      "safetyQuips": [],
+      "us": false,
+      "x": false
+    },
+    {
+      "id": "56541",
+      "includesPlayerName": false,
+      "isValid": "",
+      "prompt": "[EventName=HOST/AltHost]Як правильно передати письмом злісний сміх\n",
+      "safetyQuips": [],
+      "us": false,
+      "x": false
+    },
+    {
+      "id": "56542",
+      "includesPlayerName": false,
+      "isValid": "",
+      "prompt": "[EventName=HOST/AltHost]Найкраща назва для джаз-гурту скелетів",
+      "safetyQuips": [],
+      "us": false,
+      "x": false
+    },
+    {
+      "id": "56543",
+      "includesPlayerName": false,
+      "isValid": "",
+      "prompt": "[EventName=HOST/AltHost]Найкраща назва для телевізійного шоу 1970-х років про свавільного детектива, який розкриває злочини за допомогою спритного підлітка-перевертня",
+      "safetyQuips": [],
+      "us": false,
+      "x": false
+    },
+    {
+      "id": "56544",
+      "includesPlayerName": false,
+      "isValid": "",
+      "prompt": "[EventName=HOST/AltHost]Неприпустима заміна сиру в піці.\n",
+      "safetyQuips": [],
+      "us": false,
+      "x": false
+    },
+    {
+      "id": "56546",
+      "includesPlayerName": false,
+      "isValid": "",
+      "prompt": "[EventName=HOST/AltHost]Найменш приваблива назва для марки туалетного паперу\n",
+      "safetyQuips": [],
+      "us": false,
+      "x": false
+    },
+    {
+      "id": "56547",
+      "includesPlayerName": false,
+      "isValid": "",
+      "prompt": "[EventName=HOST/AltHost]Люди, що переживали клінічну смерть, повідомляють, що бачили <BLANK> у кінці тунелю",
+      "safetyQuips": [],
+      "us": false,
+      "x": false
+    },
+    {
+      "id": "56548",
+      "includesPlayerName": false,
+      "isValid": "",
+      "prompt": "[EventName=HOST/AltHost]Причина, чому коти цілий день вилизуються\n",
+      "safetyQuips": [],
+      "us": false,
+      "x": false
+    },
+    {
+      "id": "56549",
+      "includesPlayerName": false,
+      "isValid": "",
+      "prompt": "[EventName=HOST/AltHost]Найкращий напій, щоб випити його з келиха, зробленого з людського черепа\n",
+      "safetyQuips": [],
+      "us": false,
+      "x": false
+    },
+    {
+      "id": "56550",
+      "includesPlayerName": false,
+      "isValid": "",
+      "prompt": "[EventName=HOST/AltHost]Найсексуальніший проєкт декоративно-прикладного мистецтва, який привид і людина можуть завершити разом",
+      "safetyQuips": [],
+      "us": false,
+      "x": false
+    },
+    {
+      "id": "56551",
+      "includesPlayerName": false,
+      "isValid": "",
+      "prompt": "[EventName=HOST/AltHost]Гарячі новини! Усі собаки – хлопчики, а всі коти – <BLANK>.",
+      "safetyQuips": [],
+      "us": false,
+      "x": false
+    },
+    {
+      "id": "56552",
+      "includesPlayerName": false,
+      "isValid": "",
+      "prompt": "[EventName=HOST/AltHost]Якби ти реінкарнував у ЦЕ, ти зрозумів, що тебе точно карають",
+      "safetyQuips": [],
+      "us": false,
+      "x": false
+    },
+    {
+      "id": "56553",
+      "includesPlayerName": false,
+      "isValid": "",
+      "prompt": "[EventName=HOST/AltHost]Не витріщайтеся прямо на <BLANK>",
+      "safetyQuips": [],
+      "us": false,
+      "x": false
+    },
+    {
+      "id": "56554",
+      "includesPlayerName": false,
+      "isValid": "",
+      "prompt": "[EventName=HOST/AltHost]Як кажуть у пісні: «Все, що тебе не вбиває, робить тебе <BLANK>.»",
+      "safetyQuips": [],
+      "us": false,
+      "x": false
+    },
+    {
+      "id": "56556",
+      "includesPlayerName": false,
+      "isValid": "",
+      "prompt": "[EventName=HOST/AltHost]Чому погане трапляється з хорошими людьми?",
+      "safetyQuips": [],
+      "us": false,
+      "x": false
+    },
+    {
+      "id": "56557",
+      "includesPlayerName": false,
+      "isValid": "",
+      "prompt": "[EventName=HOST/AltHost]Якби ви у магазині взяли ОЦЕ, касир відразу викликав би поліцію",
+      "safetyQuips": [],
+      "us": false,
+      "x": false
+    },
+    {
+      "id": "56569",
+      "includesPlayerName": false,
+      "isValid": "",
+      "prompt": "[EventName=HOST/AltHost]Ваш дуже недооцінений дотеп у Жартлисті",
+      "safetyQuips": [],
+      "us": false,
+      "x": false
+    }
+  ]
+}
