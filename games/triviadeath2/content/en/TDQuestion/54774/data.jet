@@ -1,0 +1,46 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntro"
+    },
+    {
+      "t": "A",
+      "v": "introAudio",
+      "n": "Intro",
+      "s": "I love to eat avocado toes. You heard me correctly. I like to eat severed toes that are covered in avocado. "
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQ"
+    },
+    {
+      "t": "A",
+      "v": "questionAudio",
+      "n": "Q",
+      "s": "Яка країна фінансувала дослідження Христофора Колумба в 1492 році?"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasPic"
+    },
+    {
+      "t": "G",
+      "v": "image",
+      "n": "Pic"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasVamp"
+    },
+    {
+      "t": "A",
+      "v": "pictureVamp",
+      "n": "Vamp"
+    }
+  ]
+}

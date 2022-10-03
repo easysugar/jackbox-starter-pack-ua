@@ -1,0 +1,452 @@
+{
+  "content": [
+    {
+      "choices": [
+        {
+          "controllerClass": "yellow",
+          "correct": false,
+          "text": "жовтий"
+        },
+        {
+          "controllerClass": "blue",
+          "correct": false,
+          "text": "синій"
+        },
+        {
+          "controllerClass": "green",
+          "correct": true,
+          "text": "зелений"
+        },
+        {
+          "controllerClass": "white",
+          "correct": false,
+          "text": "білий"
+        }
+      ],
+      "hasIntro": false,
+      "hasOutro": false,
+      "id": "55351",
+      "isValid": "",
+      "pic": false,
+      "text": "[EventName=HOST/AltHost]Інструкція каже: \"Переріжте дріт кольору ХАКІ!\"",
+      "us": false,
+      "x": false
+    },
+    {
+      "choices": [
+        {
+          "controllerClass": "yellow",
+          "correct": false,
+          "text": "жовтий"
+        },
+        {
+          "controllerClass": "blue",
+          "correct": false,
+          "text": "синій"
+        },
+        {
+          "controllerClass": "red",
+          "correct": false,
+          "text": "червоний"
+        },
+        {
+          "controllerClass": "green",
+          "correct": true,
+          "text": "зелений"
+        }
+      ],
+      "hasIntro": false,
+      "hasOutro": false,
+      "id": "55457",
+      "isValid": "",
+      "pic": false,
+      "text": "[EventName=HOST/AltHost]Тут написано: «Переріжте дріт основного кольору світла, але не пігменту».",
+      "us": false,
+      "x": false
+    },
+    {
+      "choices": [
+        {
+          "controllerClass": "red",
+          "correct": false,
+          "text": "червоний"
+        },
+        {
+          "controllerClass": "orange",
+          "correct": false,
+          "text": "оранжевий"
+        },
+        {
+          "controllerClass": "green",
+          "correct": true,
+          "text": "зелений"
+        },
+        {
+          "controllerClass": "blue",
+          "correct": false,
+          "text": "синій"
+        }
+      ],
+      "hasIntro": false,
+      "hasOutro": false,
+      "id": "55745",
+      "isValid": "",
+      "pic": false,
+      "text": "[EventName=HOST/AltHost]Тут написано \"katkaise vihreä lanka.\"",
+      "us": false,
+      "x": false
+    },
+    {
+      "choices": [
+        {
+          "controllerClass": "yellow",
+          "correct": false,
+          "text": "сірий"
+        },
+        {
+          "controllerClass": "green",
+          "correct": false,
+          "text": "зелений"
+        },
+        {
+          "controllerClass": "white",
+          "correct": false,
+          "text": "червоний"
+        },
+        {
+          "controllerClass": "purple",
+          "correct": true,
+          "text": "рожевий"
+        }
+      ],
+      "hasIntro": false,
+      "hasOutro": false,
+      "id": "55827",
+      "isValid": "",
+      "pic": false,
+      "text": "[EventName=HOST/AltHost]Тут написано: \"Переріжте дріт, відтінком кольору якого є фрез.\"",
+      "us": false,
+      "x": false
+    },
+    {
+      "choices": [
+        {
+          "controllerClass": "yellow",
+          "correct": false,
+          "text": "жовтий"
+        },
+        {
+          "controllerClass": "blue",
+          "correct": false,
+          "text": "синій"
+        },
+        {
+          "controllerClass": "red",
+          "correct": true,
+          "text": "червоний"
+        },
+        {
+          "controllerClass": "white",
+          "correct": false,
+          "text": "білий"
+        }
+      ],
+      "hasIntro": false,
+      "hasOutro": false,
+      "id": "55875",
+      "isValid": "",
+      "pic": false,
+      "text": "[EventName=HOST/AltHost]Тут написано: «Переріжте дріт, колір якого збігаєється з тим кольором, який традиційно носять наречені в Китаї».",
+      "us": false,
+      "x": false
+    },
+    {
+      "choices": [
+        {
+          "controllerClass": "black",
+          "correct": true,
+          "text": "червоний"
+        },
+        {
+          "controllerClass": "green",
+          "correct": false,
+          "text": "чорний"
+        },
+        {
+          "controllerClass": "red",
+          "correct": false,
+          "text": "зелений"
+        },
+        {
+          "controllerClass": "blue",
+          "correct": false,
+          "text": "фіолетовий"
+        }
+      ],
+      "hasIntro": false,
+      "hasOutro": false,
+      "id": "55877",
+      "isValid": "",
+      "pic": false,
+      "text": "[EventName=HOST/AltHost]Тут сказано, що треба перерізати \"кармазиновий\" дріт",
+      "us": false,
+      "x": false
+    },
+    {
+      "choices": [
+        {
+          "controllerClass": "red",
+          "correct": false,
+          "text": "червоний"
+        },
+        {
+          "controllerClass": "green",
+          "correct": true,
+          "text": "зелений"
+        },
+        {
+          "controllerClass": "yellow",
+          "correct": false,
+          "text": "жовтий"
+        },
+        {
+          "controllerClass": "blue",
+          "correct": false,
+          "text": "синій"
+        }
+      ],
+      "hasIntro": false,
+      "hasOutro": false,
+      "id": "55905",
+      "isValid": "",
+      "pic": false,
+      "text": "[EventName=HOST/AltHost]Тут написано: \"Переріжте дріт того ж кольору, що й Камінь Часу в [i]Месниках: Війна нескінченності[/i]\"",
+      "us": false,
+      "x": false
+    },
+    {
+      "choices": [
+        {
+          "controllerClass": "red",
+          "correct": false,
+          "text": "червоний"
+        },
+        {
+          "controllerClass": "green",
+          "correct": false,
+          "text": "зелений"
+        },
+        {
+          "controllerClass": "yellow",
+          "correct": false,
+          "text": "жовтий"
+        },
+        {
+          "controllerClass": "blue",
+          "correct": true,
+          "text": "блакитний"
+        }
+      ],
+      "hasIntro": false,
+      "hasOutro": false,
+      "id": "55908",
+      "isValid": "",
+      "pic": false,
+      "text": "[EventName=HOST/AltHost]Тут написано: \"Переріжте дріт, який перерізав би Пабло Пікассо у періоді між 1901 та 1904 роками.\"",
+      "us": false,
+      "x": false
+    },
+    {
+      "choices": [
+        {
+          "controllerClass": "red",
+          "correct": false,
+          "text": "червоний"
+        },
+        {
+          "controllerClass": "green",
+          "correct": false,
+          "text": "жовтий"
+        },
+        {
+          "controllerClass": "yellow",
+          "correct": true,
+          "text": "зелений"
+        },
+        {
+          "controllerClass": "blue",
+          "correct": false,
+          "text": "синій"
+        }
+      ],
+      "hasIntro": false,
+      "hasOutro": false,
+      "id": "55910",
+      "isValid": "",
+      "pic": false,
+      "text": "[EventName=HOST/AltHost]Тут лише написано \"Переріжте дріт того ж кольору, що й волосся Мавки з мультфільму [i]Мавка. Лісова пісня[/i].\"",
+      "us": false,
+      "x": false
+    },
+    {
+      "choices": [
+        {
+          "controllerClass": "yellow",
+          "correct": false,
+          "text": "жовтий"
+        },
+        {
+          "controllerClass": "green",
+          "correct": false,
+          "text": "зелений"
+        },
+        {
+          "controllerClass": "blue",
+          "correct": true,
+          "text": "синій"
+        },
+        {
+          "controllerClass": "red",
+          "correct": false,
+          "text": "червоний"
+        }
+      ],
+      "hasIntro": false,
+      "hasOutro": false,
+      "id": "55972",
+      "isValid": "",
+      "pic": false,
+      "text": "[EventName=HOST/AltHost]Тут написано: «Переріжте дріт того ж кольору, що й у Парковки на стандартній дошці гри Монополія».",
+      "us": true,
+      "x": false
+    },
+    {
+      "choices": [
+        {
+          "controllerClass": "red",
+          "correct": true,
+          "text": "червоний"
+        },
+        {
+          "controllerClass": "green",
+          "correct": false,
+          "text": "зелений"
+        },
+        {
+          "controllerClass": "yellow",
+          "correct": false,
+          "text": "жовтий"
+        },
+        {
+          "controllerClass": "blue",
+          "correct": false,
+          "text": "синій"
+        }
+      ],
+      "hasIntro": false,
+      "hasOutro": false,
+      "id": "55990",
+      "isValid": "",
+      "pic": false,
+      "text": "[EventName=HOST/AltHost]Тут написано: \"Переріжте дріт того ж кольору, що й ім'я Моргана Фрімена з фільму [i]Втеча з Шоушенка[/i]\".",
+      "us": true,
+      "x": false
+    },
+    {
+      "choices": [
+        {
+          "controllerClass": "green",
+          "correct": false,
+          "text": "зелений"
+        },
+        {
+          "controllerClass": "red",
+          "correct": true,
+          "text": "червоний"
+        },
+        {
+          "controllerClass": "black",
+          "correct": false,
+          "text": "чорний"
+        },
+        {
+          "controllerClass": "blue",
+          "correct": false,
+          "text": "синій"
+        }
+      ],
+      "hasIntro": false,
+      "hasOutro": false,
+      "id": "56021",
+      "isValid": "",
+      "pic": false,
+      "text": "[EventName=HOST/AltHost]Тут написано: \"Переріжте дріт, який йде в тому ж порядку, що й [i]Таємна кімната[/i] в серії книг про Гаррі Поттера\"",
+      "us": false,
+      "x": false
+    },
+    {
+      "choices": [
+        {
+          "controllerClass": "red",
+          "correct": true,
+          "text": "червоний"
+        },
+        {
+          "controllerClass": "black",
+          "correct": false,
+          "text": "чорний"
+        },
+        {
+          "controllerClass": "green",
+          "correct": false,
+          "text": "зелений"
+        },
+        {
+          "controllerClass": "blue",
+          "correct": false,
+          "text": "синій"
+        }
+      ],
+      "hasIntro": false,
+      "hasOutro": false,
+      "id": "57030",
+      "isValid": "",
+      "pic": false,
+      "text": "[EventName=HOST/AltHost]Тут написано: \"Переріжте передпередпередостанній дріт\".",
+      "us": false,
+      "x": false
+    },
+    {
+      "choices": [
+        {
+          "controllerClass": "white",
+          "correct": false,
+          "text": "білий"
+        },
+        {
+          "controllerClass": "red",
+          "correct": false,
+          "text": "червоний"
+        },
+        {
+          "controllerClass": "blue",
+          "correct": true,
+          "text": "блакитний"
+        },
+        {
+          "controllerClass": "green",
+          "correct": false,
+          "text": "зелений"
+        }
+      ],
+      "hasIntro": false,
+      "hasOutro": false,
+      "id": "57031",
+      "isValid": "",
+      "pic": false,
+      "text": "[EventName=HOST/AltHost]Тут написано: \"Переріжте дріт третинного кольору\"",
+      "us": false,
+      "x": false
+    }
+  ]
+}

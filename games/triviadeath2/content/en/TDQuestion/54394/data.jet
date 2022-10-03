@@ -1,0 +1,46 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntro"
+    },
+    {
+      "t": "A",
+      "v": "introAudio",
+      "n": "Intro",
+      "s": "I’m looking for something heavy to pull up on a rope and then drop on people."
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQ"
+    },
+    {
+      "t": "A",
+      "v": "questionAudio",
+      "n": "Q",
+      "s": "Який час завжди показують годинники айфонів у їх рекламі?"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasPic"
+    },
+    {
+      "t": "G",
+      "v": "image",
+      "n": "Pic"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasVamp"
+    },
+    {
+      "t": "A",
+      "v": "pictureVamp",
+      "n": "Vamp"
+    }
+  ]
+}

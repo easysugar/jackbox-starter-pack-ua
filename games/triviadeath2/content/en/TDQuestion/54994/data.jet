@@ -1,0 +1,46 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntro"
+    },
+    {
+      "t": "A",
+      "v": "introAudio",
+      "n": "Intro",
+      "s": "If I’m going to make this hotel thing work I need to keep better track of my spending. "
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQ"
+    },
+    {
+      "t": "A",
+      "v": "questionAudio",
+      "n": "Q",
+      "s": "За що я плачу своєму хорологісту?"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasPic"
+    },
+    {
+      "t": "G",
+      "v": "image",
+      "n": "Pic"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasVamp"
+    },
+    {
+      "t": "A",
+      "v": "pictureVamp",
+      "n": "Vamp"
+    }
+  ]
+}

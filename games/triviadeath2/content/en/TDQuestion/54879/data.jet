@@ -1,0 +1,46 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntro"
+    },
+    {
+      "t": "A",
+      "v": "introAudio",
+      "n": "Intro",
+      "s": "Sure, I torture people and all, but my worst attribute is that I’m a whiskey snob."
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQ"
+    },
+    {
+      "t": "A",
+      "v": "questionAudio",
+      "n": "Q",
+      "s": "У якої із цих собак довгі та не стоячі вуха?"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasPic"
+    },
+    {
+      "t": "G",
+      "v": "image",
+      "n": "Pic"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasVamp"
+    },
+    {
+      "t": "A",
+      "v": "pictureVamp",
+      "n": "Vamp"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntro"
+    },
+    {
+      "t": "A",
+      "v": "introAudio",
+      "n": "Intro",
+      "s": "Some people think that just because I’m a serial killer that I should own rats, but I’m like, c’mon, that’s amateur hour!"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQ"
+    },
+    {
+      "t": "A",
+      "v": "questionAudio",
+      "n": "Q",
+      "s": "Капібари - найбільші гризуни у світі! А хто на другому місці?"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasPic"
+    },
+    {
+      "t": "G",
+      "v": "image",
+      "n": "Pic"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasVamp"
+    },
+    {
+      "t": "A",
+      "v": "pictureVamp",
+      "n": "Vamp"
+    }
+  ]
+}

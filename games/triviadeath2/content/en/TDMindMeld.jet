@@ -1,0 +1,2694 @@
+{
+  "content": [
+    {
+      "answers": [
+        {
+          "answer": "водень",
+          "alt": [
+            "гідроген",
+            "H2",
+            "H"
+          ]
+        },
+        {
+          "answer": "гелій",
+          "alt": [
+            "He"
+          ]
+        },
+        {
+          "answer": "літій",
+          "alt": [
+            "Li"
+          ]
+        },
+        {
+          "answer": "берилліум",
+          "alt": [
+            "берилій",
+            "бериліум",
+            "Be"
+          ]
+        },
+        {
+          "answer": "бор",
+          "alt": [
+            "B"
+          ]
+        },
+        {
+          "answer": "вуглець",
+          "alt": [
+            "карбон",
+            "C"
+          ]
+        },
+        {
+          "answer": "азот",
+          "alt": [
+            "озон",
+            "N"
+          ]
+        },
+        {
+          "answer": "кисень",
+          "alt": [
+            "оксиген",
+            "O",
+            "O2"
+          ]
+        },
+        {
+          "answer": "фтор",
+          "alt": [
+            "F"
+          ]
+        },
+        {
+          "answer": "неон",
+          "alt": [
+            "Ne"
+          ]
+        }
+      ],
+      "id": "55922",
+      "isValid": "",
+      "text": "один із перших десяти елементів періодичної таблиці",
+      "us": false,
+      "x": false
+    },
+    {
+      "answers": [
+        {
+          "answer": "лев",
+          "alt": [
+            "леви"
+          ]
+        },
+        {
+          "answer": "гієна",
+          "alt": [
+            "гієни"
+          ]
+        },
+        {
+          "answer": "червонокнижний носорог",
+          "alt": [
+            "носорог",
+            "носороги"
+          ]
+        },
+        {
+          "answer": "бородавочник",
+          "alt": [
+            "бородавчаста свиня",
+            "бойова свиня",
+            "кабан",
+            "кабани",
+            "бородавочники"
+          ]
+        },
+        {
+          "answer": "сурикат",
+          "alt": [
+            "сурикати"
+          ]
+        },
+        {
+          "answer": "бабуїн",
+          "alt": [
+            "бабуїни"
+          ]
+        },
+        {
+          "answer": "ховрашок",
+          "alt": [
+            ""
+          ]
+        }
+      ],
+      "id": "55957",
+      "isValid": "",
+      "text": "вид тварин із розмовною роллю в оригінальній версії [i]Короля Льва[/i]",
+      "us": true,
+      "x": false
+    },
+    {
+      "answers": [
+        {
+          "answer": "Labrador Retrievers",
+          "alt": [
+            "lab",
+            "labs",
+            "labrador",
+            "retriever",
+            "retrievers",
+            "labrador retriever"
+          ]
+        },
+        {
+          "answer": "German Shepherds",
+          "alt": [
+            "German shepherd",
+            "german shepherd dogs",
+            "shepherd",
+            "shepherds"
+          ]
+        },
+        {
+          "answer": "Golden Retrievers",
+          "alt": [
+            "golden retriever"
+          ]
+        },
+        {
+          "answer": "French Bulldogs",
+          "alt": [
+            "French bulldog"
+          ]
+        },
+        {
+          "answer": "Bulldogs",
+          "alt": [
+            "bulldog"
+          ]
+        },
+        {
+          "answer": "Beagles",
+          "alt": [
+            "beagle",
+            "beagel",
+            "beagels"
+          ]
+        },
+        {
+          "answer": "Poodles",
+          "alt": [
+            "poodle",
+            "poodel",
+            "poodels"
+          ]
+        },
+        {
+          "answer": "Rottweilers",
+          "alt": [
+            "rotweiler",
+            "rotweilers",
+            "rottweiler"
+          ]
+        }
+      ],
+      "id": "55958",
+      "isValid": "",
+      "text": "one of the American Kennel Club’s top eight most popular dog breeds",
+      "us": true,
+      "x": false
+    },
+    {
+      "answers": [
+        {
+          "answer": "червоний",
+          "alt": [
+            ""
+          ]
+        },
+        {
+          "answer": "жовтий",
+          "alt": [
+            ""
+          ]
+        },
+        {
+          "answer": "зелений",
+          "alt": [
+            ""
+          ]
+        },
+        {
+          "answer": "білий",
+          "alt": [
+            ""
+          ]
+        },
+        {
+          "answer": "синій",
+          "alt": [
+            ""
+          ]
+        },
+        {
+          "answer": "помаранчевий",
+          "alt": [
+            "оранжевий"
+          ]
+        }
+      ],
+      "id": "55962",
+      "isValid": "",
+      "text": "колір оригінального кубика Рубіка",
+      "us": true,
+      "x": false
+    },
+    {
+      "answers": [
+        {
+          "answer": "росія",
+          "alt": [
+            "російська федерація",
+            "рф",
+            "раша"
+          ]
+        },
+        {
+          "answer": "Канада",
+          "alt": [
+            ""
+          ]
+        },
+        {
+          "answer": "Сполучені Штати Америки",
+          "alt": [
+            "США",
+            "Америка"
+          ]
+        },
+        {
+          "answer": "Китай",
+          "alt": [
+            "Китайська Народна Республіка",
+            "КНР"
+          ]
+        },
+        {
+          "answer": "Бразилія",
+          "alt": [
+            ""
+          ]
+        },
+        {
+          "answer": "Індія",
+          "alt": [
+            "Республіка Індія"
+          ]
+        },
+        {
+          "answer": "Австралія",
+          "alt": [
+            "Австралійська Співдружність"
+          ]
+        }
+      ],
+      "id": "55963",
+      "isValid": "",
+      "text": "одна з семи найбільших країн світу за площею ",
+      "us": false,
+      "x": false
+    },
+    {
+      "answers": [
+        {
+          "answer": "Бразилія",
+          "alt": [
+            ""
+          ]
+        },
+        {
+          "answer": "Аргентина",
+          "alt": [
+            "Республіка Аргентина"
+          ]
+        },
+        {
+          "answer": "Перу",
+          "alt": [
+            "Республіка Перу"
+          ]
+        },
+        {
+          "answer": "Чилі",
+          "alt": [
+            "Республіка Чилі"
+          ]
+        },
+        {
+          "answer": "Колумбія",
+          "alt": [
+            "Республіка Колумбія"
+          ]
+        },
+        {
+          "answer": "Венесуела",
+          "alt": [
+            "Республіка Венесуала"
+          ]
+        },
+        {
+          "answer": "Еквадор",
+          "alt": [
+            "Республіка Еквадор"
+          ]
+        },
+        {
+          "answer": "Болівія",
+          "alt": [
+            "Держава Болівія",
+            "Багатонаціональна держава Болівія"
+          ]
+        },
+        {
+          "answer": "Уругвай",
+          "alt": [
+            "Республіка Уругвай"
+          ]
+        },
+        {
+          "answer": "Парагвай",
+          "alt": [
+            "Республіка Парагвай"
+          ]
+        },
+        {
+          "answer": "Сурінам",
+          "alt": [
+            "Республіка Сурінам"
+          ]
+        },
+        {
+          "answer": "Гайана",
+          "alt": [
+            "Гвіана",
+            "Гвіани"
+          ]
+        },
+        {
+          "answer": "Тринідад і Тобаго",
+          "alt": [
+            "Тринідад",
+            "Тобаго",
+            "Тринідад Тобаго"
+          ]
+        }
+      ],
+      "id": "55964",
+      "isValid": "",
+      "text": "Південноамериканська країна",
+      "us": false,
+      "x": false
+    },
+    {
+      "answers": [
+        {
+          "answer": "Пакистан",
+          "alt": [
+            "Пакестан",
+            "Пакістан"
+          ]
+        },
+        {
+          "answer": "Палау",
+          "alt": [
+            "Пелау"
+          ]
+        },
+        {
+          "answer": "Панама",
+          "alt": [
+            "Паннама"
+          ]
+        },
+        {
+          "answer": "Папуа Нова Гвінея",
+          "alt": [
+            "Папуа",
+            "Папау Нова Гвінея",
+            "Нова Гвінея",
+            "Гвінея"
+          ]
+        },
+        {
+          "answer": "Парагвай",
+          "alt": [
+            "Парагай",
+            "Паригвай",
+            "Паругвай"
+          ]
+        },
+        {
+          "answer": "Перу",
+          "alt": [
+            ""
+          ]
+        },
+        {
+          "answer": "Польща",
+          "alt": [
+            "Польша"
+          ]
+        },
+        {
+          "answer": "Палестина",
+          "alt": [
+            "Палистина"
+          ]
+        },
+        {
+          "answer": "Португалія",
+          "alt": [
+            ""
+          ]
+        }
+      ],
+      "id": "55966",
+      "isValid": "",
+      "text": "країна, яка починається на літеру «П»",
+      "us": false,
+      "x": false
+    },
+    {
+      "answers": [
+        {
+          "answer": "Автономна Республіка Крим",
+          "alt": [
+            "АР Крим",
+            "Крим"
+          ]
+        },
+        {
+          "answer": "Вінницька область",
+          "alt": [
+            "Вінниччина"
+          ]
+        },
+        {
+          "answer": "Волинська область",
+          "alt": [
+            "Волинь"
+          ]
+        },
+        {
+          "answer": "Дніпропетровська область",
+          "alt": [
+            "Дніпровщина"
+          ]
+        },
+        {
+          "answer": "Донецька область",
+          "alt": [
+            "Донеччина"
+          ]
+        },
+        {
+          "answer": "Житомирська область",
+          "alt": [
+            "Житомирщина"
+          ]
+        },
+        {
+          "answer": "Закарпатська область",
+          "alt": [
+            "Закарпаття"
+          ]
+        },
+        {
+          "answer": "Запорізька область",
+          "alt": [
+            ""
+          ]
+        },
+        {
+          "answer": "Івано-Франківська область",
+          "alt": [
+            "Івано-Франківщина"
+          ]
+        },
+        {
+          "answer": "Київська область",
+          "alt": [
+            "Київщина"
+          ]
+        },
+        {
+          "answer": "Кіровоградська область",
+          "alt": [
+            "Кіровоградщина",
+            "Кропивниччина"
+          ]
+        },
+        {
+          "answer": "Луганська область",
+          "alt": [
+            "Луганщина"
+          ]
+        },
+        {
+          "answer": "Львівська область",
+          "alt": [
+            "Львівщина"
+          ]
+        },
+        {
+          "answer": "Миколаївська область",
+          "alt": [
+            "Миколаївщина"
+          ]
+        },
+        {
+          "answer": "Одеська область",
+          "alt": [
+            "Одещина"
+          ]
+        },
+        {
+          "answer": "Полтавська область",
+          "alt": [
+            "Полтавщина"
+          ]
+        },
+        {
+          "answer": "Рівненська область",
+          "alt": [
+            "Рівненщина"
+          ]
+        },
+        {
+          "answer": "Сумська область",
+          "alt": [
+            "Сумщина"
+          ]
+        },
+        {
+          "answer": "Тернопільська область",
+          "alt": [
+            "Тернопіщина"
+          ]
+        },
+        {
+          "answer": "Харківська область",
+          "alt": [
+            "Харківщина"
+          ]
+        },
+        {
+          "answer": "Херсонська область",
+          "alt": [
+            "Херсонщина"
+          ]
+        },
+        {
+          "answer": "Хмельницька область",
+          "alt": [
+            "Хмельнищина"
+          ]
+        },
+        {
+          "answer": "Черкаська область",
+          "alt": [
+            "Черкащина"
+          ]
+        },
+        {
+          "answer": "Чернівецька область",
+          "alt": [
+            "Чернівеччина",
+            "Буковина"
+          ]
+        },
+        {
+          "answer": "Чернігівська область",
+          "alt": [
+            "Чернігівщина"
+          ]
+        }
+      ],
+      "id": "55967",
+      "isValid": "",
+      "text": "територіальні одиниці (області) України",
+      "us": false,
+      "x": false
+    },
+    {
+      "answers": [
+        {
+          "answer": "Allen",
+          "alt": [
+            "Alan",
+            "Allan",
+            "Alen"
+          ]
+        },
+        {
+          "answer": "Paar",
+          "alt": [
+            "Parr",
+            "Par"
+          ]
+        },
+        {
+          "answer": "Carson",
+          "alt": [
+            "Carsen",
+            "Carsan",
+            "Carrson"
+          ]
+        },
+        {
+          "answer": "Leno",
+          "alt": [
+            "Lenno"
+          ]
+        },
+        {
+          "answer": "O’Brien",
+          "alt": [
+            "Obrian",
+            "O’Brian",
+            "Obrien"
+          ]
+        },
+        {
+          "answer": "Fallon",
+          "alt": [
+            "Falon",
+            "Fallin",
+            "Falun",
+            "Fallun"
+          ]
+        }
+      ],
+      "id": "55968",
+      "isValid": "",
+      "text": "a current or former official [i]Tonight Show[/i] host (just last name)",
+      "us": true,
+      "x": false
+    },
+    {
+      "answers": [
+        {
+          "answer": "Beef",
+          "alt": [
+            "Beef Patties",
+            "Patties",
+            "Meat",
+            "patty",
+            "beef patty",
+            "two patties",
+            "double meat",
+            "double beef",
+            "two beef patties",
+            "2 patties",
+            "2 beef patties",
+            "2 meats",
+            "two meats",
+            "two all beef patties",
+            "2 all beef patties",
+            "two all-beef patties",
+            "2 all-beef patties",
+            "double beef patties"
+          ]
+        },
+        {
+          "answer": "Big Mac Sauce",
+          "alt": [
+            "Sauce",
+            "Thousand Island",
+            "Thousand Island Dressing",
+            "Dressing",
+            "Special Dressing",
+            "special sauce"
+          ]
+        },
+        {
+          "answer": "Lettuce",
+          "alt": [
+            "Letuce",
+            "Iceberg Lettuce",
+            "shredded lettuce"
+          ]
+        },
+        {
+          "answer": "Cheese",
+          "alt": [
+            "American Cheese"
+          ]
+        },
+        {
+          "answer": "Pickles",
+          "alt": [
+            "Pickle",
+            "Pickel",
+            "Pickels",
+            "2 pickles",
+            "two pickles",
+            "2 pickels",
+            "two pickels"
+          ]
+        },
+        {
+          "answer": "Onions",
+          "alt": [
+            "Onion",
+            "Raw Onion",
+            "Raw Onions",
+            "Chopped Onion",
+            "Chopped Onions"
+          ]
+        },
+        {
+          "answer": "Bun",
+          "alt": [
+            "Buns",
+            "Bread",
+            "Sesame Seed Bun",
+            "Sesame Bun",
+            "Sesame Seed Buns",
+            "Sesame Buns"
+          ]
+        }
+      ],
+      "id": "55969",
+      "isValid": "",
+      "text": "one of the ingredients in a Big Mac",
+      "us": false,
+      "x": false
+    },
+    {
+      "answers": [
+        {
+          "answer": "Freshline",
+          "alt": [
+            "Fresh Line"
+          ]
+        },
+        {
+          "answer": "McDonald's",
+          "alt": [
+            "McDonalds",
+            "Mc Donald's",
+            "Mc Donalds",
+            "McDonald",
+            "MacDonalds"
+          ]
+        },
+        {
+          "answer": "KFC",
+          "alt": [
+            "Kentukie Fried Chiken",
+            "KFK",
+            "CFC",
+            "Centucky Fried Chiken"
+          ]
+        },
+        {
+          "answer": "Salateira",
+          "alt": [
+            "Salatiera",
+            "Salat Iera"
+          ]
+        },
+        {
+          "answer": "Пузата Хата",
+          "alt": [
+            "ПузатаХата",
+            "Пузата хата",
+            "Пузатий Дім",
+            "Товста Хата",
+            "ПузХата"
+          ]
+        },
+        {
+          "answer": "Печена картопля",
+          "alt": [
+            "Печена картопелька",
+            "Смажена картопля",
+            "Товчена картопля",
+            "Картопля печена"
+          ]
+        }
+      ],
+      "id": "55970",
+      "isValid": "",
+      "text": "одна з шести найкращих мереж швидкого харчування в Україні (за кількістю закладів)",
+      "us": true,
+      "x": false
+    },
+    {
+      "answers": [
+        {
+          "answer": "Сміхлист",
+          "alt": [
+            "Жартлист"
+          ]
+        },
+        {
+          "answer": "Смертельна вечірка",
+          "alt": [
+            "Смертельні вечорниці"
+          ]
+        },
+        {
+          "answer": "Нашшпіонаж",
+          "alt": [
+            "Нашшпигунаж"
+          ]
+        },
+        {
+          "answer": "Обмани мене!",
+          "alt": [
+            ""
+          ]
+        },
+        {
+          "answer": "Футбол К.О.",
+          "alt": [
+            "Футболки"
+          ]
+        }
+      ],
+      "id": "55985",
+      "isValid": "",
+      "text": "Яка гра є у <i>The Jackbox Party Pack 3</i>?",
+      "us": false,
+      "x": false
+    },
+    {
+      "answers": [
+        {
+          "answer": "король",
+          "alt": [
+            "королі"
+          ]
+        },
+        {
+          "answer": "ферзь",
+          "alt": [
+            "ферзі",
+            "королева",
+            "королеви"
+          ]
+        },
+        {
+          "answer": "тура",
+          "alt": [
+            "ладдя",
+            "тури",
+            "ладді",
+            "замок",
+            "вежа",
+            "вежі",
+            "замки"
+          ]
+        },
+        {
+          "answer": "слон",
+          "alt": [
+            "офіцер",
+            "слони",
+            "офіцери"
+          ]
+        },
+        {
+          "answer": "кінь",
+          "alt": [
+            "коні"
+          ]
+        },
+        {
+          "answer": "пішак",
+          "alt": [
+            "пішаки"
+          ]
+        }
+      ],
+      "id": "55986",
+      "isValid": "",
+      "text": "шахова фігура",
+      "us": false,
+      "x": false
+    },
+    {
+      "answers": [
+        {
+          "answer": "Donkey Kong",
+          "alt": [
+            "DK",
+            "Donky Kong"
+          ]
+        },
+        {
+          "answer": "Fox",
+          "alt": [
+            "Star Fox",
+            "Fox McCloud"
+          ]
+        },
+        {
+          "answer": "Jigglypuff",
+          "alt": [
+            "Jiglypuff",
+            "Jiglypuf",
+            "Jigglypuf"
+          ]
+        },
+        {
+          "answer": "Kirby",
+          "alt": [
+            "Kerby",
+            "Cirby",
+            "Cerby",
+            "Kerbee",
+            "Cerbee",
+            "Cirbee",
+            "Currbee",
+            "Currby",
+            "Curbby"
+          ]
+        },
+        {
+          "answer": "Link",
+          "alt": [
+            ""
+          ]
+        },
+        {
+          "answer": "Luigi",
+          "alt": [
+            "Luigee"
+          ]
+        },
+        {
+          "answer": "Mario",
+          "alt": [
+            "Super Mario"
+          ]
+        },
+        {
+          "answer": "Ness",
+          "alt": [
+            "Nes"
+          ]
+        },
+        {
+          "answer": "Samus",
+          "alt": [
+            "Samus Aran"
+          ]
+        },
+        {
+          "answer": "Yoshi",
+          "alt": [
+            "Yosi",
+            "Yoshee",
+            "Yoshie",
+            "Yoshy",
+            "Yoshey"
+          ]
+        },
+        {
+          "answer": "Captain Falcon",
+          "alt": [
+            "Falcon",
+            "Cap Falcon",
+            "C. Falcon",
+            "C Falcon"
+          ]
+        },
+        {
+          "answer": "Pikachu",
+          "alt": [
+            "Picachu",
+            "Pikachoo",
+            "Pickachu"
+          ]
+        }
+      ],
+      "id": "55987",
+      "isValid": "",
+      "text": "a playable character in the first [i]Super Smash Bros.[/i] game",
+      "us": false,
+      "x": false
+    },
+    {
+      "answers": [
+        {
+          "answer": "одне",
+          "alt": [
+            "один",
+            "одна",
+            "1"
+          ]
+        },
+        {
+          "answer": "з",
+          "alt": [
+            ""
+          ]
+        },
+        {
+          "answer": "цих",
+          "alt": [
+            "це",
+            "цей",
+            "ця",
+            "ці"
+          ]
+        },
+        {
+          "answer": "п'яти",
+          "alt": [
+            "п'ять",
+            "5"
+          ]
+        },
+        {
+          "answer": "слів",
+          "alt": [
+            "слова",
+            "слово"
+          ]
+        }
+      ],
+      "id": "55988",
+      "isValid": "",
+      "text": "одне з цих п'яти слів",
+      "us": false,
+      "x": false
+    },
+    {
+      "answers": [
+        {
+          "answer": "Кий",
+          "alt": [
+            "Кій"
+          ]
+        },
+        {
+          "answer": "Щек",
+          "alt": [
+            "Щук",
+            "Щюк",
+            "Щок"
+          ]
+        },
+        {
+          "answer": "Либідь",
+          "alt": [
+            "Лебедь",
+            "Либедь",
+            "Либєдь",
+            "Лібідь",
+            "Лібедь",
+            "Лебідь"
+          ]
+        },
+        {
+          "answer": "Хорив",
+          "alt": [
+            "Хорів",
+            "Харив"
+          ]
+        }
+      ],
+      "id": "56051",
+      "isValid": "",
+      "text": "один із засновників Києва",
+      "us": true,
+      "x": false
+    },
+    {
+      "answers": [
+        {
+          "answer": "Ніл",
+          "alt": [
+            "ріка Ніл",
+            "річка Ніл"
+          ]
+        },
+        {
+          "answer": "Амазонка",
+          "alt": [
+            "ріка Амазонка",
+            "річка Амазонка"
+          ]
+        },
+        {
+          "answer": "Янцзи",
+          "alt": [
+            "ріка Янцзи",
+            "річка Янцзи"
+          ]
+        },
+        {
+          "answer": "Міссісіпі",
+          "alt": [
+            "ріка Міссісіпі",
+            "річка Міссісіпі",
+            "місіссіпі",
+            "міссісіпі",
+            "міссіссіпі",
+            "місісіпі"
+          ]
+        }
+      ],
+      "id": "56052",
+      "isValid": "",
+      "text": "одна з чотирьох найдовших річок у світі",
+      "us": false,
+      "x": false
+    },
+    {
+      "answers": [
+        {
+          "answer": "Q",
+          "alt": [
+            "Q tile"
+          ]
+        },
+        {
+          "answer": "Z",
+          "alt": [
+            "Z tile"
+          ]
+        },
+        {
+          "answer": "J",
+          "alt": [
+            "J tile"
+          ]
+        },
+        {
+          "answer": "X",
+          "alt": [
+            "X tile"
+          ]
+        },
+        {
+          "answer": "K",
+          "alt": [
+            "K tile"
+          ]
+        }
+      ],
+      "id": "56053",
+      "isValid": "",
+      "text": "one of the five highest point [i]Scrabble[/i] tile letters",
+      "us": false,
+      "x": false
+    },
+    {
+      "answers": [
+        {
+          "answer": "Гомер",
+          "alt": [
+            "Гомі",
+            "Хома",
+            "Гомір"
+          ]
+        },
+        {
+          "answer": "Мардж",
+          "alt": [
+            "Марг",
+            "Марі"
+          ]
+        },
+        {
+          "answer": "Барт",
+          "alt": [
+            "Борт",
+            "Баррт"
+          ]
+        },
+        {
+          "answer": "Ліза",
+          "alt": [
+            "Лісса",
+            "Лізі",
+            "Лиса"
+          ]
+        },
+        {
+          "answer": "Меггі",
+          "alt": [
+            "Мегга"
+          ]
+        },
+        {
+          "answer": "Абрахам",
+          "alt": [
+            "дід",
+            "дідусь",
+            "Авраам",
+            "Абрагам"
+          ]
+        }
+      ],
+      "id": "56054",
+      "isValid": "",
+      "text": "один з членів сім'ї [i]Сімпсонів[/i]",
+      "us": true,
+      "x": false
+    },
+    {
+      "answers": [
+        {
+          "answer": "мир",
+          "alt": [
+            "премія миру",
+            "з миру"
+          ]
+        },
+        {
+          "answer": "література",
+          "alt": [
+            "премія з літератури",
+            "з літератури"
+          ]
+        },
+        {
+          "answer": "фізика",
+          "alt": [
+            "премія з фізики",
+            "з фізики"
+          ]
+        },
+        {
+          "answer": "фізіологія і медицина",
+          "alt": [
+            "медицина",
+            "фізіологія",
+            "медицина та фізіологія",
+            "премія з медицини",
+            "премія з фізіології",
+            "з фізіології",
+            "з медицини"
+          ]
+        },
+        {
+          "answer": "хімія",
+          "alt": [
+            "премія з хімії",
+            "з хімії"
+          ]
+        },
+        {
+          "answer": "економічні науки",
+          "alt": [
+            "економіка",
+            "премія з економіки",
+            "з економіки"
+          ]
+        }
+      ],
+      "id": "56055",
+      "isValid": "",
+      "text": "номінація Нобелівської премії",
+      "us": false,
+      "x": false
+    },
+    {
+      "answers": [
+        {
+          "answer": "Antony and Cleopatra",
+          "alt": [
+            "Anthonie and Cleopatra",
+            "Antony & Cleopatra",
+            "Anthonie & Cleopatra",
+            "Anthony and Cleopater",
+            "Anthony & Cleopater",
+            "Cleopatra",
+            "Antony Cleopatra"
+          ]
+        },
+        {
+          "answer": "Coriolanus",
+          "alt": [
+            "Coryolanus"
+          ]
+        },
+        {
+          "answer": "Cymbeline",
+          "alt": [
+            "Cimbeline",
+            "Cymbelyne"
+          ]
+        },
+        {
+          "answer": "Hamlet",
+          "alt": [
+            "Hamlett",
+            "Hamlot",
+            "Hamlit",
+            "Hammlet"
+          ]
+        },
+        {
+          "answer": "Julius Caesar",
+          "alt": [
+            "Julyus Caesar",
+            "Julius Ceasar",
+            "Caesar",
+            "Julyus Ceasar",
+            "Julius Caeser",
+            "Julius Ceaser",
+            "Caesar"
+          ]
+        },
+        {
+          "answer": "King Lear",
+          "alt": [
+            "King Leer",
+            "Lear",
+            "Leer",
+            "King Leare"
+          ]
+        },
+        {
+          "answer": "Macbeth",
+          "alt": [
+            "McBeth",
+            "Micbeth",
+            "Mecbeth",
+            "McBath"
+          ]
+        },
+        {
+          "answer": "Othello",
+          "alt": [
+            "Othelo",
+            "Othello the Moore of Venice",
+            "Moore of Venice"
+          ]
+        },
+        {
+          "answer": "Romeo and Juliet",
+          "alt": [
+            "Romeo & Juliet",
+            "Romeo Juliet",
+            "Romeo and Juliett"
+          ]
+        },
+        {
+          "answer": "Timon of Athens",
+          "alt": [
+            "Tymon of Athens",
+            "Timon of Athans",
+            "Tymon of Athans"
+          ]
+        },
+        {
+          "answer": "Titus Andronicus",
+          "alt": [
+            "Tytus Andronicus"
+          ]
+        },
+        {
+          "answer": "Troilus and Cressida",
+          "alt": [
+            "Troylus and Cressida",
+            "Troilus & Cressida",
+            "Troylus & Cressida",
+            "Troilus and Cresida",
+            "Troylus and Cresida",
+            "Troylus & Cresida",
+            "Troilus & Cresida",
+            "Troylus Cressida",
+            "Troilus Cressida",
+            "Troilus Cresida"
+          ]
+        }
+      ],
+      "id": "56056",
+      "isValid": "",
+      "text": "one of Shakespeare’s tragedies",
+      "us": false,
+      "x": false
+    },
+    {
+      "answers": [
+        {
+          "answer": "Меркурій",
+          "alt": [
+            ""
+          ]
+        },
+        {
+          "answer": "Венера",
+          "alt": [
+            ""
+          ]
+        },
+        {
+          "answer": "Земля",
+          "alt": [
+            ""
+          ]
+        },
+        {
+          "answer": "Марс",
+          "alt": [
+            ""
+          ]
+        },
+        {
+          "answer": "Юпітер",
+          "alt": [
+            ""
+          ]
+        },
+        {
+          "answer": "Сатурн",
+          "alt": [
+            ""
+          ]
+        },
+        {
+          "answer": "Нептун",
+          "alt": [
+            ""
+          ]
+        },
+        {
+          "answer": "Уран",
+          "alt": [
+            ""
+          ]
+        }
+      ],
+      "id": "56057",
+      "isValid": "",
+      "text": "одна з планет нашої Сонячної системи",
+      "us": false,
+      "x": false
+    },
+    {
+      "answers": [
+        {
+          "answer": "Філософський камінь",
+          "alt": [
+            "Гаррі Поттер і Філософський камінь",
+            "Гаррі Поттер та Філософський камінь"
+          ]
+        },
+        {
+          "answer": "Таємна кімната",
+          "alt": [
+            "Кімната таємниць",
+            "Гаррі Поттер і Таємна кімната",
+            "Гаррі Поттер та Таємна кімната"
+          ]
+        },
+        {
+          "answer": "В'язень Азкабану",
+          "alt": [
+            "В'язень Аскабану",
+            "Гаррі Поттер і В'язень Азкабану",
+            "Гаррі Поттер та В'язень Азкабану"
+          ]
+        },
+        {
+          "answer": "Кубок вогню",
+          "alt": [
+            "Гаррі Поттер і Кубок вогню",
+            "Гаррі Поттер та Кубок вогню"
+          ]
+        },
+        {
+          "answer": "Орден Фенікса",
+          "alt": [
+            "Гаррі Поттер і Орден Фенікса",
+            "Гаррі Поттер та Орден Фенікса"
+          ]
+        },
+        {
+          "answer": "Напівкровний Принц",
+          "alt": [
+            "Гаррі Поттер і Напівкровний принц",
+            "Гаррі Поттер та Напівкровний принц"
+          ]
+        },
+        {
+          "answer": "Смертельні реліквії",
+          "alt": [
+            "Гаррі Поттер і Смертельні реліквії",
+            "Гаррі Поттер та Смертельні реліквії"
+          ]
+        }
+      ],
+      "id": "56075",
+      "isValid": "",
+      "text": "одна з оригінальних книг [i]Гаррі Поттер та ___________[/i]",
+      "us": false,
+      "x": false
+    },
+    {
+      "answers": [
+        {
+          "answer": "державна",
+          "alt": [
+            "державний"
+          ]
+        },
+        {
+          "answer": "служба",
+          "alt": [
+            ""
+          ]
+        },
+        {
+          "answer": "надзвичайних",
+          "alt": [
+            "надзвичайні"
+          ]
+        },
+        {
+          "answer": "ситуацій",
+          "alt": [
+            "ситуації"
+          ]
+        }
+      ],
+      "id": "56076",
+      "isValid": "",
+      "text": "одне зі слів, які складають абревіатуру ДСНС",
+      "us": true,
+      "x": false
+    },
+    {
+      "answers": [
+        {
+          "answer": "The Fast and the Furious",
+          "alt": [
+            "Fast and the Furious",
+            "the fast and the furius",
+            "the fast and the fury",
+            "The Fast & The Furious"
+          ]
+        },
+        {
+          "answer": "2 Fast 2 Furious",
+          "alt": [
+            "Too Fast Too Furious",
+            "Two Fast Two Furious",
+            "to fast to furious",
+            "2 fast 2 furius",
+            "2F2F"
+          ]
+        },
+        {
+          "answer": "The Fast and the Furious: Tokyo Drift",
+          "alt": [
+            "Tokyo Drift",
+            "Fast and the Furious Tokyo Drift",
+            "Tokeyo Drift",
+            "The Fast and the Furious Toky Drift",
+            "The Fast & The Furious Tokyo Drift"
+          ]
+        },
+        {
+          "answer": "Fast & Furious",
+          "alt": [
+            "Fast and Furious",
+            "Fast and Furius",
+            "Fast and Fury",
+            "Fast & Fury"
+          ]
+        },
+        {
+          "answer": "Fast Five",
+          "alt": [
+            "Fast 5"
+          ]
+        },
+        {
+          "answer": "Fast & Furious 6",
+          "alt": [
+            "Fast and Furious 6",
+            "Fast and Furious Six",
+            "Fast & Furious Six"
+          ]
+        },
+        {
+          "answer": "Furious 7",
+          "alt": [
+            "Furious Seven",
+            "Fury Seven",
+            "Fury 7"
+          ]
+        }
+      ],
+      "id": "57035",
+      "isValid": "",
+      "text": "the title of one of the first seven [i]The Fast and the Furious[/i] movies",
+      "us": true,
+      "x": false
+    },
+    {
+      "answers": [
+        {
+          "answer": "tomato",
+          "alt": [
+            "tomatoes",
+            "tomatos",
+            "tamato",
+            "tamahto",
+            "tomayto",
+            "tomaytoe",
+            "tomatoe"
+          ]
+        },
+        {
+          "answer": "carrot",
+          "alt": [
+            "carrots",
+            "carot",
+            "carret",
+            "carots",
+            "carrets",
+            "carrut",
+            "carrit"
+          ]
+        },
+        {
+          "answer": "celery",
+          "alt": [
+            "cellery",
+            "celary",
+            "cellary"
+          ]
+        },
+        {
+          "answer": "beet",
+          "alt": [
+            "beets",
+            "beat",
+            "beats"
+          ]
+        },
+        {
+          "answer": "parsley",
+          "alt": [
+            "parsly",
+            "parsely",
+            "parslee",
+            "parslie"
+          ]
+        },
+        {
+          "answer": "lettuce",
+          "alt": [
+            "letuce",
+            "lettace",
+            "lettus",
+            "letus"
+          ]
+        },
+        {
+          "answer": "watercress",
+          "alt": [
+            "watercrest",
+            "watercross",
+            "watercresh",
+            "watercrass",
+            "watercres"
+          ]
+        },
+        {
+          "answer": "spinach",
+          "alt": [
+            "spinache",
+            "spinech",
+            "spinich",
+            "spiniche"
+          ]
+        }
+      ],
+      "id": "57341",
+      "isValid": "",
+      "text": "one of the vegetables found in the original V8 vegetable juice",
+      "us": false,
+      "x": false
+    },
+    {
+      "answers": [
+        {
+          "answer": "понеділок",
+          "alt": [
+            ""
+          ]
+        },
+        {
+          "answer": "вівторок",
+          "alt": [
+            ""
+          ]
+        },
+        {
+          "answer": "середа",
+          "alt": [
+            ""
+          ]
+        },
+        {
+          "answer": "четвер",
+          "alt": [
+            ""
+          ]
+        },
+        {
+          "answer": "п'ятниця",
+          "alt": [
+            "пятниця"
+          ]
+        },
+        {
+          "answer": "субота",
+          "alt": [
+            ""
+          ]
+        },
+        {
+          "answer": "неділя",
+          "alt": [
+            ""
+          ]
+        }
+      ],
+      "id": "57787",
+      "isValid": "",
+      "text": "день тижня",
+      "us": false,
+      "x": false
+    },
+    {
+      "answers": [
+        {
+          "answer": "A",
+          "alt": [
+            ""
+          ]
+        },
+        {
+          "answer": "Б",
+          "alt": [
+            ""
+          ]
+        },
+        {
+          "answer": "В",
+          "alt": [
+            ""
+          ]
+        },
+        {
+          "answer": "Г",
+          "alt": [
+            ""
+          ]
+        },
+        {
+          "answer": "Ґ",
+          "alt": [
+            ""
+          ]
+        },
+        {
+          "answer": "Д",
+          "alt": [
+            ""
+          ]
+        },
+        {
+          "answer": "Е",
+          "alt": [
+            ""
+          ]
+        },
+        {
+          "answer": "Є",
+          "alt": [
+            ""
+          ]
+        }
+      ],
+      "id": "57788",
+      "isValid": "",
+      "text": "одна з перших восьми літер української абетки",
+      "us": true,
+      "x": false
+    },
+    {
+      "answers": [
+        {
+          "answer": "Овен",
+          "alt": [
+            ""
+          ]
+        },
+        {
+          "answer": "Телець",
+          "alt": [
+            ""
+          ]
+        },
+        {
+          "answer": "Близнята",
+          "alt": [
+            "Близнюки"
+          ]
+        },
+        {
+          "answer": "Рак",
+          "alt": [
+            ""
+          ]
+        },
+        {
+          "answer": "Лев",
+          "alt": [
+            ""
+          ]
+        },
+        {
+          "answer": "Діва",
+          "alt": [
+            ""
+          ]
+        },
+        {
+          "answer": "Терези",
+          "alt": [
+            "Ваги"
+          ]
+        },
+        {
+          "answer": "Скорпіон",
+          "alt": [
+            ""
+          ]
+        },
+        {
+          "answer": "Стрілець",
+          "alt": [
+            ""
+          ]
+        },
+        {
+          "answer": "Козоріг",
+          "alt": [
+            "Козеріг"
+          ]
+        },
+        {
+          "answer": "Водолій",
+          "alt": [
+            ""
+          ]
+        },
+        {
+          "answer": "Риби",
+          "alt": [
+            ""
+          ]
+        }
+      ],
+      "id": "57791",
+      "isValid": "",
+      "text": "один із дванадцяти астрологічних знаків зодіаку",
+      "us": false,
+      "x": false
+    },
+    {
+      "answers": [
+        {
+          "answer": "вода",
+          "alt": [
+            ""
+          ]
+        },
+        {
+          "answer": "вогонь",
+          "alt": [
+            ""
+          ]
+        },
+        {
+          "answer": "земля",
+          "alt": [
+            ""
+          ]
+        },
+        {
+          "answer": "повітря",
+          "alt": [
+            ""
+          ]
+        },
+        {
+          "answer": "енергія",
+          "alt": [
+            ""
+          ]
+        }
+      ],
+      "id": "57794",
+      "isValid": "",
+      "text": "одна з магій у всесвіті [i] Аватара[/i]",
+      "us": true,
+      "x": false
+    },
+    {
+      "answers": [
+        {
+          "answer": "гординя",
+          "alt": [
+            "марнославство",
+            "пихатість"
+          ]
+        },
+        {
+          "answer": "заздрість",
+          "alt": [
+            "заздрощі",
+            "ревнощі"
+          ]
+        },
+        {
+          "answer": "обжерливість",
+          "alt": [
+            "ненаситність",
+            "ненажерливість"
+          ]
+        },
+        {
+          "answer": "хіть",
+          "alt": [
+            "хтивість"
+          ]
+        },
+        {
+          "answer": "гнів",
+          "alt": [
+            "злість",
+            "лють"
+          ]
+        },
+        {
+          "answer": "жадібність",
+          "alt": [
+            "жадоба",
+            "пожадливість"
+          ]
+        },
+        {
+          "answer": "лінощі",
+          "alt": [
+            "ледарство",
+            "лінь"
+          ]
+        }
+      ],
+      "id": "57795",
+      "isValid": "",
+      "text": "один із семи смертних гріхів",
+      "us": false,
+      "x": false
+    },
+    {
+      "answers": [
+        {
+          "answer": "Говерла",
+          "alt": [
+            ""
+          ]
+        },
+        {
+          "answer": "Бребенескул",
+          "alt": [
+            "Беребенескул",
+            "Бребнескул"
+          ]
+        },
+        {
+          "answer": "Піп Іван Чорногорський",
+          "alt": [
+            "Піп Іван",
+            "Піпіван"
+          ]
+        },
+        {
+          "answer": "Петрос",
+          "alt": [
+            ""
+          ]
+        },
+        {
+          "answer": "Гутин Томнатик",
+          "alt": [
+            "Ґутин Томнатик",
+            "Гутин",
+            "Ґутин",
+            "Томнатик"
+          ]
+        },
+        {
+          "answer": "Ребра",
+          "alt": [
+            "Ребро"
+          ]
+        }
+      ],
+      "id": "57797",
+      "isValid": "",
+      "text": "гори-двотисячники України",
+      "us": true,
+      "x": false
+    },
+    {
+      "answers": [
+        {
+          "answer": "до",
+          "alt": [
+            ""
+          ]
+        },
+        {
+          "answer": "ре",
+          "alt": [
+            ""
+          ]
+        },
+        {
+          "answer": "мі",
+          "alt": [
+            ""
+          ]
+        },
+        {
+          "answer": "фа",
+          "alt": [
+            ""
+          ]
+        },
+        {
+          "answer": "соль",
+          "alt": [
+            ""
+          ]
+        },
+        {
+          "answer": "ля",
+          "alt": [
+            ""
+          ]
+        },
+        {
+          "answer": "сі",
+          "alt": [
+            ""
+          ]
+        }
+      ],
+      "id": "57798",
+      "isValid": "",
+      "text": "одна з семи назв нот",
+      "us": false,
+      "x": false
+    },
+    {
+      "answers": [
+        {
+          "answer": "Рейчел",
+          "alt": [
+            "Рейчел Грін",
+            "Рейчел Кейтен Грін",
+            "Рейчл"
+          ]
+        },
+        {
+          "answer": "Моніка",
+          "alt": [
+            "Монніка",
+            "Моніка Геллер",
+            "Моніка Гелер"
+          ]
+        },
+        {
+          "answer": "Фібі",
+          "alt": [
+            "Фібс",
+            "Фоб",
+            "Фібі Буфе",
+            "Фібі Баффет",
+            "Фібі Буффе",
+            "Фібі Бафе",
+            "Фібі Баффе",
+            "Фібі Ганніган",
+            "Фібі Ханніган"
+          ]
+        },
+        {
+          "answer": "Джоуї",
+          "alt": [
+            "Джо",
+            "Джої",
+            "Джої Тріббіані"
+          ]
+        },
+        {
+          "answer": "Чендлер",
+          "alt": [
+            "Чандлер",
+            "Чендлер Бінг",
+            "Чендлер Бонг,"
+          ]
+        },
+        {
+          "answer": "Росс",
+          "alt": [
+            "Роз",
+            "Рос",
+            "Росс Геллер",
+            "Росс Гелер",
+            "Росс Ґелер",
+            "Росс Ґеллер"
+          ]
+        }
+      ],
+      "id": "57800",
+      "isValid": "",
+      "text": "один із шести друзів із серіалу [i]Друзі[/i]",
+      "us": false,
+      "x": false
+    },
+    {
+      "answers": [
+        {
+          "answer": "червоний",
+          "alt": [
+            "червоне кільце",
+            "червоне"
+          ]
+        },
+        {
+          "answer": "синій",
+          "alt": [
+            "синє кільце",
+            "синє"
+          ]
+        },
+        {
+          "answer": "жовтий",
+          "alt": [
+            "жовте кільце",
+            "жовте"
+          ]
+        },
+        {
+          "answer": "зелений",
+          "alt": [
+            "зелене кільце",
+            "зелене"
+          ]
+        },
+        {
+          "answer": "чорний",
+          "alt": [
+            "чорне кільце",
+            "чорне"
+          ]
+        }
+      ],
+      "id": "57801",
+      "isValid": "",
+      "text": "один із кольорів Олімпійських кілець",
+      "us": false,
+      "x": false
+    },
+    {
+      "answers": [
+        {
+          "answer": "Богдан Хмельницький",
+          "alt": [
+            "Хмельницький"
+          ]
+        },
+        {
+          "answer": "Юрій Хмельницький",
+          "alt": [
+            "Юрко Хмельницький",
+            "син Хмельницького"
+          ]
+        },
+        {
+          "answer": "Іван Виговський",
+          "alt": [
+            "Виговський"
+          ]
+        },
+        {
+          "answer": "Павло Тетеря",
+          "alt": [
+            "Тетеря"
+          ]
+        },
+        {
+          "answer": "Петро Дорошенко",
+          "alt": [
+            "Дорошенко"
+          ]
+        },
+        {
+          "answer": "Іван Самойлович",
+          "alt": [
+            "Самойлович"
+          ]
+        },
+        {
+          "answer": "Іван Мазепа",
+          "alt": [
+            "Мазепа"
+          ]
+        },
+        {
+          "answer": "Іван Скоропадський",
+          "alt": [
+            "Скоропадський"
+          ]
+        },
+        {
+          "answer": "Данило Апостол",
+          "alt": [
+            "Апостол"
+          ]
+        },
+        {
+          "answer": "Кирило Розумовський",
+          "alt": [
+            "Розумовський"
+          ]
+        }
+      ],
+      "id": "57804",
+      "isValid": "",
+      "text": "гетьмани Війська Запорозького, що керували всією Україною",
+      "us": true,
+      "x": false
+    },
+    {
+      "answers": [
+        {
+          "answer": "Charlie Brown",
+          "alt": [
+            "Charlie",
+            "Chuck"
+          ]
+        },
+        {
+          "answer": "Lucy",
+          "alt": [
+            "Lucy van Pelt",
+            "Lucy Pelt",
+            "Lucille",
+            "Lucille van Pelt",
+            "Lucille Pelt"
+          ]
+        },
+        {
+          "answer": "Linus",
+          "alt": [
+            "Linus van Pelt",
+            "Linus Pelt"
+          ]
+        },
+        {
+          "answer": "Sally",
+          "alt": [
+            "Sally Brown",
+            "Sallie",
+            "Sallie Brown"
+          ]
+        },
+        {
+          "answer": "Patty",
+          "alt": [
+            "Peppermint Patty",
+            "Pepermint Patty",
+            "Patti",
+            "Peppermint Patti",
+            "PP",
+            "Patricia",
+            "Patricia Reichardt",
+            "Patty Reichardt",
+            "Paty"
+          ]
+        },
+        {
+          "answer": "Schroeder",
+          "alt": [
+            "Shroeder",
+            "shrowder",
+            "Schrowder"
+          ]
+        },
+        {
+          "answer": "Snoopy",
+          "alt": [
+            "Snoop",
+            "Snoppy"
+          ]
+        },
+        {
+          "answer": "Woodstock",
+          "alt": [
+            "wood stock",
+            "woodstalk",
+            "wood stalk"
+          ]
+        }
+      ],
+      "id": "57805",
+      "isValid": "",
+      "text": "a character in [i]You’re a Good Man, Charlie Brown[/i]",
+      "us": false,
+      "x": false
+    },
+    {
+      "answers": [
+        {
+          "answer": "Trivia Murder Party 2",
+          "alt": [
+            "TMP 2",
+            "Trivia Murder Party Two",
+            "TMP2",
+            "This Game",
+            "This One",
+            "Trivia Murder 2",
+            "Trivia Murder Two",
+            "Murder Party 2",
+            "Murder Party Two"
+          ]
+        },
+        {
+          "answer": "Role Models",
+          "alt": [
+            "Rolemodels",
+            "roll models",
+            "rollmodels",
+            "role model",
+            "roll model",
+            "rolemodel",
+            "Role Modles",
+            "Roll Modles",
+            "Role Modle",
+            "Roll Modle"
+          ]
+        },
+        {
+          "answer": "Joke Boat",
+          "alt": [
+            "Joke Bot",
+            "Boat Joke",
+            "JokeBoat",
+            "Joke Boats",
+            "Jokes Boat",
+            "Jokes Boats",
+            "Boat Jokes"
+          ]
+        },
+        {
+          "answer": "Dictionarium",
+          "alt": [
+            "Dictionaryium",
+            "Dictionaryum",
+            "Dictionariyum",
+            "Dictionaryim",
+            "diction arium",
+            "diction-arium",
+            "diction*arium"
+          ]
+        },
+        {
+          "answer": "Push the Button",
+          "alt": [
+            "Push a Button",
+            "Push Button",
+            "Push the Buton",
+            "PTB",
+            "Push a Buton",
+            "Push Buton",
+            "Pushing the Button",
+            "Pushing Button",
+            "Push the Buttons"
+          ]
+        }
+      ],
+      "id": "57811",
+      "isValid": "",
+      "text": "a game in [i]The Jackbox Party Pack 6[/i]",
+      "us": false,
+      "x": false
+    },
+    {
+      "answers": [
+        {
+          "answer": "Канада",
+          "alt": [
+            ""
+          ]
+        },
+        {
+          "answer": "США",
+          "alt": [
+            "Сполучені Штати"
+          ]
+        },
+        {
+          "answer": "Франція",
+          "alt": [
+            ""
+          ]
+        },
+        {
+          "answer": "Німеччина",
+          "alt": [
+            "ФНР"
+          ]
+        },
+        {
+          "answer": "Італія",
+          "alt": [
+            ""
+          ]
+        },
+        {
+          "answer": "Японія",
+          "alt": [
+            ""
+          ]
+        },
+        {
+          "answer": "Велика Британія",
+          "alt": [
+            "Британія",
+            "Великобританія"
+          ]
+        }
+      ],
+      "id": "57812",
+      "isValid": "",
+      "text": "країни Великої сімки",
+      "us": false,
+      "x": false
+    },
+    {
+      "answers": [
+        {
+          "answer": "Світязь",
+          "alt": [
+            "Вітязь"
+          ]
+        },
+        {
+          "answer": "Ялпуг",
+          "alt": [
+            "Яплуг",
+            "Ялуг",
+            "Ягул"
+          ]
+        },
+        {
+          "answer": "Кугурлуй",
+          "alt": [
+            "Курулгуй",
+            "Кугулгуй",
+            "Кулугруй"
+          ]
+        },
+        {
+          "answer": "Катлабуг",
+          "alt": [
+            "Каблагут",
+            "Кагаблут",
+            "Кабаглут"
+          ]
+        },
+        {
+          "answer": "Донузлав",
+          "alt": [
+            "Донуслав",
+            "Донослав",
+            "Данослав"
+          ]
+        }
+      ],
+      "id": "57819",
+      "isValid": "",
+      "text": "одне з п’яти найбільших озер України",
+      "us": true,
+      "x": false
+    },
+    {
+      "answers": [
+        {
+          "answer": "тигр",
+          "alt": [
+            "бенгальський тигр",
+            "сибірський тигр",
+            "тигри"
+          ]
+        },
+        {
+          "answer": "лев",
+          "alt": [
+            "леви"
+          ]
+        },
+        {
+          "answer": "ягуар",
+          "alt": [
+            "ягуари"
+          ]
+        },
+        {
+          "answer": "пума",
+          "alt": [
+            "гірський лев",
+            "пуми"
+          ]
+        },
+        {
+          "answer": "леопард",
+          "alt": [
+            "леопарди",
+            "пантера",
+            "пантери"
+          ]
+        }
+      ],
+      "id": "57822",
+      "isValid": "",
+      "text": "один із п’яти найбільших видів великих котів у світі",
+      "us": false,
+      "x": false
+    },
+    {
+      "answers": [
+        {
+          "answer": "Гендальф",
+          "alt": [
+            "Гендольф",
+            "Гандальф",
+            "Ґендальф",
+            "Ґендольф",
+            "Ґандальф",
+            "Гандальф",
+            "Гендальф Сірий",
+            "Гендальф Білий",
+            "Ґендальф Сірий",
+            "Ґендальф Білий",
+            "Ґандальф Сірий",
+            "Ґандальф Білий",
+            "Гандальф Сірий",
+            "Гандальф Білий"
+          ]
+        },
+        {
+          "answer": "Фродо",
+          "alt": [
+            "Фродо Бегінс",
+            "Фродо Беггінс",
+            "Фродо Беґінс",
+            "Фродо Беґґінс",
+            "Фродо Торбин",
+            "Фродо Торбинс"
+          ]
+        },
+        {
+          "answer": "Сем",
+          "alt": [
+            "Семвайз",
+            "Сем Ґемджі",
+            "Семвайз Ґемджі",
+            "Семвайз Гемджі",
+            "Сем Гемджі"
+          ]
+        },
+        {
+          "answer": "Араґорн",
+          "alt": [
+            "Арагорн",
+            "Блукач"
+          ]
+        },
+        {
+          "answer": "Леголас",
+          "alt": [
+            "Леґолас"
+          ]
+        },
+        {
+          "answer": "Гімлі",
+          "alt": [
+            "Ґімлі"
+          ]
+        },
+        {
+          "answer": "Піпін",
+          "alt": [
+            "Піппін",
+            "Піпін Тук",
+            "Піппін Тук",
+            "Перегрін",
+            "Перегрін Тук",
+            "Переґрін",
+            "Переґрін Тук"
+          ]
+        },
+        {
+          "answer": "Меррі",
+          "alt": [
+            "Мері",
+            "Меріадок",
+            "Меррі Брендіцап",
+            "Мері Брендіцап",
+            "Меріадок Брендіцап",
+            "Меррі Брендібак",
+            "Мері Брендібак",
+            "Меріадок Брендібак"
+          ]
+        },
+        {
+          "answer": "Боромир",
+          "alt": [
+            "Боромір"
+          ]
+        }
+      ],
+      "id": "57823",
+      "isValid": "",
+      "text": "член Братерства Персня з [i]Володар Перснів[/i]",
+      "us": false,
+      "x": false
+    }
+  ]
+}

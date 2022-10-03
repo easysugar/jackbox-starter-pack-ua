@@ -1,0 +1,536 @@
+{
+  "content": [
+    {
+      "choices": [
+        {
+          "correct": false,
+          "text": "Доріана Грея"
+        },
+        {
+          "correct": true,
+          "text": "Фредеріка Генрі"
+        },
+        {
+          "correct": false,
+          "text": "Тома Кенті"
+        },
+        {
+          "correct": false,
+          "text": "Шарля Боварі"
+        }
+      ],
+      "hasIntro": false,
+      "hasOutro": false,
+      "id": "55365",
+      "isValid": "",
+      "pic": false,
+      "text": "Якби ти, Тату, ходив на постановки нашого театрального гуртка за книгами Хемінгуея, то в ролі кого ти мене побачив би?",
+      "us": false,
+      "x": false
+    },
+    {
+      "choices": [
+        {
+          "correct": false,
+          "text": "Перерване побачення"
+        },
+        {
+          "correct": false,
+          "text": "Циганка-ворожка"
+        },
+        {
+          "correct": true,
+          "text": "Катерина"
+        },
+        {
+          "correct": false,
+          "text": "Селянська родина"
+        }
+      ],
+      "hasIntro": false,
+      "hasOutro": false,
+      "id": "55367",
+      "isValid": "",
+      "pic": false,
+      "text": "Як називається та картина Тараса Григоровича Шевченка, де москаль зробив жінці дитину та втік, репродукція якої висіла в моїй кімнаті?",
+      "us": true,
+      "x": false
+    },
+    {
+      "choices": [
+        {
+          "correct": false,
+          "text": "Квазімодо"
+        },
+        {
+          "correct": false,
+          "text": "Немо"
+        },
+        {
+          "correct": false,
+          "text": "Шрам"
+        },
+        {
+          "correct": true,
+          "text": "Абу"
+        }
+      ],
+      "hasIntro": false,
+      "hasOutro": false,
+      "id": "55370",
+      "isValid": "",
+      "pic": false,
+      "text": "Тебе ніколи не було поряд, тому я ділився своїми переживаннями з уявним другом, якого я вигадав після прем'єри діснеєвського мультфільма в 1992 році. Як звали мого уявного друга?",
+      "us": true,
+      "x": false
+    },
+    {
+      "choices": [
+        {
+          "correct": false,
+          "text": "[i]Кіт в капелюсі[/i]"
+        },
+        {
+          "correct": false,
+          "text": "[i]Як Грінч вкрав Різдво![/i]"
+        },
+        {
+          "correct": false,
+          "text": "[i]Лоракс[/i]"
+        },
+        {
+          "correct": true,
+          "text": "[i]Хортон чує хтошок[/i]"
+        }
+      ],
+      "hasIntro": false,
+      "hasOutro": false,
+      "id": "55377",
+      "isValid": "",
+      "pic": false,
+      "text": "Яку книгу Лікаря Сьюза ти відмовлявся читати мені на ніч, бо там була зла кенгуру, яка нагадувала тобі Маму?",
+      "us": true,
+      "x": false
+    },
+    {
+      "choices": [
+        {
+          "correct": false,
+          "text": "Pall Mall"
+        },
+        {
+          "correct": false,
+          "text": "Camel"
+        },
+        {
+          "correct": false,
+          "text": "L&M"
+        },
+        {
+          "correct": true,
+          "text": "LD"
+        }
+      ],
+      "hasIntro": false,
+      "hasOutro": false,
+      "id": "55425",
+      "isValid": "",
+      "pic": false,
+      "text": "1990 року ти пішов за сигаретами та так і не повернувся! Єдине, що я знаю – у цей час ти не міг купити сигарети...",
+      "us": true,
+      "x": false
+    },
+    {
+      "choices": [
+        {
+          "correct": false,
+          "text": "Тель-Авів"
+        },
+        {
+          "correct": false,
+          "text": "Хайфа"
+        },
+        {
+          "correct": true,
+          "text": "Єрусалим"
+        },
+        {
+          "correct": false,
+          "text": "Амман"
+        }
+      ],
+      "hasIntro": false,
+      "hasOutro": false,
+      "id": "55428",
+      "isValid": "",
+      "pic": false,
+      "text": "Якби ти хоч раз подивився зі мною мій улюблений фільм, то ти б знав це... То в яке місто приїжджає Готфрід Ібелінський у х/ф [i]Царство Небесне[/i]",
+      "us": true,
+      "x": false
+    },
+    {
+      "choices": [
+        {
+          "correct": false,
+          "text": "Циклоп"
+        },
+        {
+          "correct": true,
+          "text": "Грифон"
+        },
+        {
+          "correct": false,
+          "text": "Фенікс"
+        },
+        {
+          "correct": false,
+          "text": "Звір"
+        }
+      ],
+      "hasIntro": false,
+      "hasOutro": false,
+      "id": "55454",
+      "isValid": "",
+      "pic": false,
+      "text": "Коли мені було 11 років, ти купив не той новорічний костюм! Я хотів одягнутися, як один із Людей Ікс! А цього персонажа не було серед Людей Ікс!",
+      "us": false,
+      "x": false
+    },
+    {
+      "choices": [
+        {
+          "correct": false,
+          "text": "Ленінська премія"
+        },
+        {
+          "correct": true,
+          "text": "Орден Святого апостола Андрія Первозваного виданий путіним"
+        },
+        {
+          "correct": false,
+          "text": "Орден “За заслуги перед Вітчизною” виданий мєдвєдєвим"
+        },
+        {
+          "correct": false,
+          "text": "Почесний знак Співдружності Незалежних Держав"
+        }
+      ],
+      "hasIntro": false,
+      "hasOutro": false,
+      "id": "55995",
+      "isValid": "",
+      "pic": false,
+      "text": "Ти завжди у всьому звинувачував Кучму. Навіть у моєму існуванні! Як думаєш, яку з цих премій він не отримував?",
+      "us": false,
+      "x": false
+    },
+    {
+      "choices": [
+        {
+          "correct": false,
+          "text": "H, O, C, Be"
+        },
+        {
+          "correct": false,
+          "text": "H, F, H, F"
+        },
+        {
+          "correct": false,
+          "text": "H, F, He, Li"
+        },
+        {
+          "correct": true,
+          "text": "H, O, Li, Be"
+        }
+      ],
+      "hasIntro": false,
+      "hasOutro": false,
+      "id": "56014",
+      "isValid": "",
+      "pic": false,
+      "text": "Якщо не пам’ятаєш, коли народився я, то скажи хоч, коли народився Менделєєв. До того ж заміни цифри року на атомні номери елементів.",
+      "us": false,
+      "x": false
+    },
+    {
+      "choices": [
+        {
+          "correct": false,
+          "text": "[i]Посіпаки[/i]"
+        },
+        {
+          "correct": true,
+          "text": "[i]Кунг-фу Панда[/i]"
+        },
+        {
+          "correct": false,
+          "text": "[i]Мрія слонів[/i]"
+        },
+        {
+          "correct": false,
+          "text": "[i]Готель Окко[/i]"
+        }
+      ],
+      "hasIntro": false,
+      "hasOutro": false,
+      "id": "56033",
+      "isValid": "",
+      "pic": false,
+      "text": "Ти не хотів, щоб я називав тебе “Татом”... тому я називав тебе Джунджи - лиходієм з мого улюбленого мультика. З якого?",
+      "us": true,
+      "x": false
+    },
+    {
+      "choices": [
+        {
+          "correct": false,
+          "text": "Правило Кірхгофа"
+        },
+        {
+          "correct": true,
+          "text": "Закон Бойля-Маріотта"
+        },
+        {
+          "correct": false,
+          "text": "Закон Біо-Савара-Лапласа"
+        },
+        {
+          "correct": false,
+          "text": "Рівняння Максвелла"
+        }
+      ],
+      "hasIntro": false,
+      "hasOutro": false,
+      "id": "56035",
+      "isValid": "",
+      "pic": false,
+      "text": "Ти ніколи не дозволяв мені грати в Доту 2, бо я тоді не встигав з навчанням. А чи можеш ти сам назвати щось з термодинаміки?",
+      "us": true,
+      "x": false
+    },
+    {
+      "choices": [
+        {
+          "correct": false,
+          "text": "Тайк"
+        },
+        {
+          "correct": false,
+          "text": "Бутч"
+        },
+        {
+          "correct": false,
+          "text": "Боб"
+        },
+        {
+          "correct": true,
+          "text": "Спайк"
+        }
+      ],
+      "hasIntro": false,
+      "hasOutro": false,
+      "id": "56045",
+      "isValid": "",
+      "pic": false,
+      "text": "Тату, бʼємось об заклад, ти дивився мультик Том і Джері зі мною, але чи знаєш ти як звати того бульдога?",
+      "us": false,
+      "x": false
+    },
+    {
+      "choices": [
+        {
+          "correct": false,
+          "text": "Мерлін"
+        },
+        {
+          "correct": true,
+          "text": "Марлін"
+        },
+        {
+          "correct": false,
+          "text": "Карл"
+        },
+        {
+          "correct": false,
+          "text": "Карлін"
+        }
+      ],
+      "hasIntro": false,
+      "hasOutro": false,
+      "id": "56048",
+      "isValid": "",
+      "pic": false,
+      "text": "Я недооцінював твоє ставлення до мене, як Немо недооцінював опіку свого батька, якого звали...",
+      "us": true,
+      "x": false
+    },
+    {
+      "choices": [
+        {
+          "correct": false,
+          "text": "олли"
+        },
+        {
+          "correct": true,
+          "text": "гуфі"
+        },
+        {
+          "correct": false,
+          "text": "крос"
+        },
+        {
+          "correct": false,
+          "text": "регуляр"
+        }
+      ],
+      "hasIntro": false,
+      "hasOutro": false,
+      "id": "56049",
+      "isValid": "",
+      "pic": false,
+      "text": "Якби ти хоч раз зводив мене на скейт-парк, ти знав би, що я катаюся з правою ногою вперед, а отже я дотримуюсь якої стійки?",
+      "us": false,
+      "x": false
+    },
+    {
+      "choices": [
+        {
+          "correct": true,
+          "text": "Грімлок"
+        },
+        {
+          "correct": false,
+          "text": "Бамблбі"
+        },
+        {
+          "correct": false,
+          "text": "Меґатрон"
+        },
+        {
+          "correct": false,
+          "text": "Старскрім"
+        }
+      ],
+      "hasIntro": false,
+      "hasOutro": false,
+      "id": "56050",
+      "isValid": "",
+      "pic": false,
+      "text": "Як звали мого трансформера, який перетворювався не на машину, а на динозавра, батьку?",
+      "us": false,
+      "x": false
+    },
+    {
+      "choices": [
+        {
+          "correct": false,
+          "text": "вісім"
+        },
+        {
+          "correct": true,
+          "text": "шість"
+        },
+        {
+          "correct": false,
+          "text": "чотири"
+        },
+        {
+          "correct": false,
+          "text": "два"
+        }
+      ],
+      "hasIntro": false,
+      "hasOutro": false,
+      "id": "56083",
+      "isValid": "",
+      "pic": false,
+      "text": "У старших класах, тату, ти пропустив фінал з тенісу, в якому я брав участь. Можеш сказати, скільки ігор мені потрібно програти, щоб програти цілий сет?",
+      "us": false,
+      "x": false
+    },
+    {
+      "choices": [
+        {
+          "correct": false,
+          "text": "Мамору Чіба"
+        },
+        {
+          "correct": false,
+          "text": "Рей Хіно"
+        },
+        {
+          "correct": false,
+          "text": "Амі Мідзуно"
+        },
+        {
+          "correct": true,
+          "text": "Усаґі Цукіно"
+        }
+      ],
+      "hasIntro": false,
+      "hasOutro": false,
+      "id": "56087",
+      "isValid": "",
+      "pic": false,
+      "text": "Ти казав, що [i]Сейлор Мун[/i] – це не по-пацанськи, і мені не можна вішати плакат із ними у своїй кімнаті, тату. Але ж я тебе не послухав і повісив плакат з головним героєм! Плакат із яким персонажем тепер висить над моїм ліжком?",
+      "us": true,
+      "x": false
+    },
+    {
+      "choices": [
+        {
+          "correct": false,
+          "text": "Сократ"
+        },
+        {
+          "correct": true,
+          "text": "Аристотель"
+        },
+        {
+          "correct": false,
+          "text": "Піфагор"
+        },
+        {
+          "correct": false,
+          "text": "Діоген"
+        }
+      ],
+      "hasIntro": false,
+      "hasOutro": false,
+      "id": "56088",
+      "isValid": "",
+      "pic": false,
+      "text": "Якби ти, тату, приділяв мені хоч трохи уваги, я був би не гіршим, ніж Олександр Македонський, а ти – не гіршим, ніж його вчитель...",
+      "us": false,
+      "x": false
+    },
+    {
+      "choices": [
+        {
+          "correct": false,
+          "text": "Григорій Верьовка"
+        },
+        {
+          "correct": true,
+          "text": "Петро Вескляров"
+        },
+        {
+          "correct": false,
+          "text": "Юхим Березін"
+        },
+        {
+          "correct": false,
+          "text": "Ярослав Геляс"
+        }
+      ],
+      "hasIntro": false,
+      "hasOutro": false,
+      "id": "56090",
+      "isValid": "",
+      "pic": false,
+      "text": "Оскільки ти ніколи не читав мені казки, Тату, я слухав їх тільки від казкаря Діда Панаса якого грав актор...",
+      "us": true,
+      "x": false
+    }
+  ]
+}

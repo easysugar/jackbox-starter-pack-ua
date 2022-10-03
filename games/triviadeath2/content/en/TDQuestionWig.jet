@@ -1,0 +1,480 @@
+{
+  "content": [
+    {
+      "choices": [
+        {
+          "correct": false,
+          "text": "[i]Радіо Джавелін[/i]"
+        },
+        {
+          "correct": false,
+          "text": "[i]Українське радіо[/i]"
+        },
+        {
+          "correct": false,
+          "text": "[i]Нове українське радіо[/i]"
+        },
+        {
+          "correct": true,
+          "text": "[i]Радіо Байрактар[/i]"
+        }
+      ],
+      "hasIntro": false,
+      "hasOutro": false,
+      "id": "55325",
+      "isValid": "",
+      "pic": false,
+      "text": "Памʼятаю, ти раніше слухала [i]Русскоє радіо Україна[/i]. Цікаво, як воно називається зараз?",
+      "us": false,
+      "x": false
+    },
+    {
+      "choices": [
+        {
+          "correct": false,
+          "text": "Віталій Козловський"
+        },
+        {
+          "correct": false,
+          "text": "Іво Бобул"
+        },
+        {
+          "correct": true,
+          "text": "Артем Пивоваров"
+        },
+        {
+          "correct": false,
+          "text": "Ольга Полякова"
+        }
+      ],
+      "hasIntro": false,
+      "hasOutro": false,
+      "id": "55326",
+      "isValid": "",
+      "pic": false,
+      "text": "Мамо, ти чула пісню з такими словами [i]Вічний союз — священний союз, Пульс завмирає знов![/i]. Ти ж знаєш, хто це співає?",
+      "us": true,
+      "x": false
+    },
+    {
+      "choices": [
+        {
+          "correct": true,
+          "text": "[i]Дамбо[/i]"
+        },
+        {
+          "correct": false,
+          "text": "[i]Спляча красуня[/i]"
+        },
+        {
+          "correct": false,
+          "text": "[i]Леді та Блудько[/i]"
+        },
+        {
+          "correct": false,
+          "text": "[i]101 Далматинці[/i]"
+        }
+      ],
+      "hasIntro": false,
+      "hasOutro": false,
+      "id": "55329",
+      "isValid": "",
+      "pic": false,
+      "text": "Якось ти сказала мені, що плакала лише раз у житті... в 1941 році, дивлячись новесенький мультфільм Діснея в кінотеатрі. Що це був за мультфільм, мамо?",
+      "us": false,
+      "x": false
+    },
+    {
+      "choices": [
+        {
+          "correct": false,
+          "text": "Оксана Білозір"
+        },
+        {
+          "correct": false,
+          "text": "Софія Ротару"
+        },
+        {
+          "correct": true,
+          "text": "Руся"
+        },
+        {
+          "correct": false,
+          "text": "Іво Бобул"
+        }
+      ],
+      "hasIntro": false,
+      "hasOutro": false,
+      "id": "55330",
+      "isValid": "",
+      "pic": false,
+      "text": "Скажи мені, мамо... Ти ж певно знаєш хто виконував пісню “Заручена”?",
+      "us": true,
+      "x": false
+    },
+    {
+      "choices": [
+        {
+          "correct": false,
+          "text": "[i]ActRaiser[/i]"
+        },
+        {
+          "correct": true,
+          "text": "[i]Earthbound[/i]"
+        },
+        {
+          "correct": false,
+          "text": "[i]Blackthorne[/i]"
+        },
+        {
+          "correct": false,
+          "text": "[i]Chrono Trigger[/i]"
+        }
+      ],
+      "hasIntro": false,
+      "hasOutro": false,
+      "id": "55346",
+      "isValid": "",
+      "pic": false,
+      "text": "На мій день народження ти подарувала відеогру на NES, яка в Японії мала назву “Матір 2”. Ти памʼятаєш, як вона називалась?",
+      "us": true,
+      "x": false
+    },
+    {
+      "choices": [
+        {
+          "correct": false,
+          "text": "Софія Ротару"
+        },
+        {
+          "correct": false,
+          "text": "Василь Зінкевич"
+        },
+        {
+          "correct": true,
+          "text": "Володимир Івасюк"
+        },
+        {
+          "correct": false,
+          "text": "Назарій Яремчук"
+        }
+      ],
+      "hasIntro": false,
+      "hasOutro": false,
+      "id": "55347",
+      "isValid": "",
+      "pic": false,
+      "text": "Скажи мені, Мамо...Ти ж певно знаєш хто є автором пісні “Червона рута”?",
+      "us": true,
+      "x": false
+    },
+    {
+      "choices": [
+        {
+          "correct": false,
+          "text": "[i]Чого чекати, коли чекаєш на дитину[/i]"
+        },
+        {
+          "correct": true,
+          "text": "[i]Дитина і догляд за нею[/i]"
+        },
+        {
+          "correct": false,
+          "text": "[i]Найщасливіша дитина у світі[/i]"
+        },
+        {
+          "correct": false,
+          "text": "[i]Прикладна книга з виховання дітей[/i]"
+        }
+      ],
+      "hasIntro": false,
+      "hasOutro": false,
+      "id": "55362",
+      "isValid": "",
+      "pic": false,
+      "text": "Мамо, яку відому книгу Бенджаміна Спока тобі подарували в день мого народження, але ти її ніколи не читала?",
+      "us": false,
+      "x": false
+    },
+    {
+      "choices": [
+        {
+          "correct": true,
+          "text": "[i]Екзорцист[/i]"
+        },
+        {
+          "correct": false,
+          "text": "[i]Сяйво[/i]"
+        },
+        {
+          "correct": false,
+          "text": "[i]Муха[/i]"
+        },
+        {
+          "correct": false,
+          "text": "[i]Щось[/i]"
+        }
+      ],
+      "hasIntro": false,
+      "hasOutro": false,
+      "id": "55375",
+      "isValid": "",
+      "pic": false,
+      "text": "Ти кинула туфлею у телевізор, мамо, коли цей твій улюблений фільм у 1974 році просто обікрали і воно не отримало Оскар за найкращий фільм?",
+      "us": true,
+      "x": false
+    },
+    {
+      "choices": [
+        {
+          "correct": false,
+          "text": "Ніл Армстронг"
+        },
+        {
+          "correct": false,
+          "text": "Джон Гленн"
+        },
+        {
+          "correct": true,
+          "text": "Юрій Гагарін"
+        },
+        {
+          "correct": false,
+          "text": "Леонід Каденюк"
+        }
+      ],
+      "hasIntro": false,
+      "hasOutro": false,
+      "id": "55437",
+      "isValid": "",
+      "pic": false,
+      "text": "Одного вечора 1961 року ти показала на небо і сказала, що мій справжній тато обертається навколо Землі. То ким тоді був мій батько?",
+      "us": false,
+      "x": false
+    },
+    {
+      "choices": [
+        {
+          "correct": false,
+          "text": "Очаківське державне педагогічне училище"
+        },
+        {
+          "correct": true,
+          "text": "Одеський державний політехнічний університет"
+        },
+        {
+          "correct": false,
+          "text": "Очаківське державне політехнічне училище"
+        },
+        {
+          "correct": false,
+          "text": "Одеський державний педагогічний університет"
+        }
+      ],
+      "hasIntro": false,
+      "hasOutro": false,
+      "id": "55445",
+      "isValid": "",
+      "pic": false,
+      "text": "Ти казала, що твоя молодість пройшла в ОДПУ. А як це розшифровується?",
+      "us": false,
+      "x": false
+    },
+    {
+      "choices": [
+        {
+          "correct": false,
+          "text": "Пікова королева"
+        },
+        {
+          "correct": false,
+          "text": "Бубнова королева"
+        },
+        {
+          "correct": false,
+          "text": "Хрестова королева"
+        },
+        {
+          "correct": true,
+          "text": "Чирвова королева"
+        }
+      ],
+      "hasIntro": false,
+      "hasOutro": false,
+      "id": "55475",
+      "isValid": "",
+      "pic": false,
+      "text": "Перед сном ти істерично сміялася щоразу, коли читала про те, як деякий персонаж з [i]Аліси у Дивокраї[/i] репетує \"Голову геть!\". Який це персонаж?",
+      "us": false,
+      "x": false
+    },
+    {
+      "choices": [
+        {
+          "correct": false,
+          "text": "близько 7 грн"
+        },
+        {
+          "correct": false,
+          "text": "близько 15 грн"
+        },
+        {
+          "correct": false,
+          "text": "близько 10 грн"
+        },
+        {
+          "correct": true,
+          "text": "близько 3 грн"
+        }
+      ],
+      "hasIntro": false,
+      "hasOutro": false,
+      "id": "55477",
+      "isValid": "",
+      "pic": false,
+      "text": "Скільки ти заплатила за Біг Мак, коли 24 травня 1997 року пішла на відкриття першого МакДональдз в Києві?",
+      "us": true,
+      "x": false
+    },
+    {
+      "choices": [
+        {
+          "correct": true,
+          "text": "Zicklein"
+        },
+        {
+          "correct": false,
+          "text": "Eichhorn"
+        },
+        {
+          "correct": false,
+          "text": "Kamel"
+        },
+        {
+          "correct": false,
+          "text": "Pferd"
+        }
+      ],
+      "hasIntro": false,
+      "hasOutro": false,
+      "id": "55588",
+      "isValid": "",
+      "pic": false,
+      "text": "Як ти мене називала у дитинстві? Ну, памʼятаєш?... “козликом”, а як це буде німецькою?",
+      "us": false,
+      "x": false
+    },
+    {
+      "choices": [
+        {
+          "correct": false,
+          "text": "поховати у роялі"
+        },
+        {
+          "correct": false,
+          "text": "поховати у віолончелі"
+        },
+        {
+          "correct": false,
+          "text": "поховати у клавесині"
+        },
+        {
+          "correct": true,
+          "text": "поховати у звичайній труні"
+        }
+      ],
+      "hasIntro": false,
+      "hasOutro": false,
+      "id": "55589",
+      "isValid": "",
+      "pic": false,
+      "text": "Як ти розпорядилася своїм майбутнім похороном і домовилася, щоб бути похованою «як Бетховен»?",
+      "us": false,
+      "x": false
+    },
+    {
+      "choices": [
+        {
+          "correct": false,
+          "text": "круга"
+        },
+        {
+          "correct": false,
+          "text": "трикутника"
+        },
+        {
+          "correct": true,
+          "text": "зірки"
+        },
+        {
+          "correct": false,
+          "text": "хрестика"
+        }
+      ],
+      "hasIntro": false,
+      "hasOutro": false,
+      "id": "56043",
+      "isValid": "",
+      "pic": false,
+      "text": "Мамо, у вигляді якої фігури представлена дошка для китайських шашок, в які ми грали кожен раз під час злив?",
+      "us": false,
+      "x": false
+    },
+    {
+      "choices": [
+        {
+          "correct": false,
+          "text": "Арета Франклін"
+        },
+        {
+          "correct": false,
+          "text": "Майкл Джексон"
+        },
+        {
+          "correct": true,
+          "text": "Мадонна"
+        },
+        {
+          "correct": false,
+          "text": "Кайлі Міноуг"
+        }
+      ],
+      "hasIntro": false,
+      "hasOutro": false,
+      "id": "56046",
+      "isValid": "",
+      "pic": false,
+      "text": "Хто виконав головну пісню в фільмі [i]Помри, але не зараз[/i], який ти постійно передивлялась на касеті, Мамо?",
+      "us": false,
+      "x": false
+    },
+    {
+      "choices": [
+        {
+          "correct": true,
+          "text": "Nokia 3310"
+        },
+        {
+          "correct": false,
+          "text": "Nokia 3000"
+        },
+        {
+          "correct": false,
+          "text": "Nokia 3010"
+        },
+        {
+          "correct": false,
+          "text": "Nokia 3110"
+        }
+      ],
+      "hasIntro": false,
+      "hasOutro": false,
+      "id": "56084",
+      "isValid": "",
+      "pic": false,
+      "text": "Мамо, я знайшов твій старий телефон. Що це за модель?",
+      "us": true,
+      "x": false
+    }
+  ]
+}

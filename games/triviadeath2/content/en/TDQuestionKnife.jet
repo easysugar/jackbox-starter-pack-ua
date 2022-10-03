@@ -1,0 +1,536 @@
+{
+  "content": [
+    {
+      "choices": [
+        {
+          "correct": false,
+          "text": "черепаха"
+        },
+        {
+          "correct": false,
+          "text": "вугор"
+        },
+        {
+          "correct": true,
+          "text": "краб"
+        },
+        {
+          "correct": false,
+          "text": "змія"
+        }
+      ],
+      "hasIntro": true,
+      "hasOutro": false,
+      "id": "55856",
+      "isValid": "",
+      "pic": false,
+      "text": "[EventName=HOST/AltHost]Яка з цих істот відноситься до безхребетних?",
+      "us": false,
+      "x": false
+    },
+    {
+      "choices": [
+        {
+          "correct": false,
+          "text": "дахи з консольної балки у величезних залах"
+        },
+        {
+          "correct": true,
+          "text": "високохудожній, змістовний орнамент"
+        },
+        {
+          "correct": false,
+          "text": "неокласичні окремо стоячі колони"
+        },
+        {
+          "correct": false,
+          "text": "акцент на симетрію та чистоту ліній"
+        }
+      ],
+      "hasIntro": true,
+      "hasOutro": false,
+      "id": "55857",
+      "isValid": "",
+      "pic": false,
+      "text": "[EventName=HOST/AltHost]Як можна описати архітектурний стиль рококо?",
+      "us": false,
+      "x": false
+    },
+    {
+      "choices": [
+        {
+          "correct": false,
+          "text": "«Наша кров на вашім золоті»"
+        },
+        {
+          "correct": false,
+          "text": "«Красне Сонце проти Книги Чорної»"
+        },
+        {
+          "correct": true,
+          "text": "«Не сховатися від гніву нашого»"
+        },
+        {
+          "correct": false,
+          "text": "«Стогне-плаче земля-мати»"
+        }
+      ],
+      "hasIntro": true,
+      "hasOutro": false,
+      "id": "55862",
+      "isValid": "",
+      "pic": false,
+      "text": "[EventName=HOST/AltHost]Яка перша фраза звучить після фрази “Йду на Ви” в однойменній пісні гурту Чур?",
+      "us": true,
+      "x": false
+    },
+    {
+      "choices": [
+        {
+          "correct": false,
+          "text": "Морський бриз"
+        },
+        {
+          "correct": true,
+          "text": "Зелений диявол"
+        },
+        {
+          "correct": false,
+          "text": "Кривава Мері"
+        },
+        {
+          "correct": false,
+          "text": "Викрутка"
+        }
+      ],
+      "hasIntro": true,
+      "hasOutro": false,
+      "id": "55864",
+      "isValid": "",
+      "pic": false,
+      "text": "[EventName=HOST/AltHost]У якому з цих коктейлів НЕМАЄ горілки?",
+      "us": false,
+      "x": false
+    },
+    {
+      "choices": [
+        {
+          "correct": false,
+          "text": "Європа"
+        },
+        {
+          "correct": false,
+          "text": "Африка"
+        },
+        {
+          "correct": true,
+          "text": "Південна Америка"
+        },
+        {
+          "correct": false,
+          "text": "Північна Америка"
+        }
+      ],
+      "hasIntro": true,
+      "hasOutro": false,
+      "id": "55900",
+      "isValid": "",
+      "pic": false,
+      "text": "[EventName=HOST/AltHost]З якого континенту родом картопля?",
+      "us": false,
+      "x": false
+    },
+    {
+      "choices": [
+        {
+          "correct": false,
+          "text": "[i]Північне сяйво[/i]"
+        },
+        {
+          "correct": false,
+          "text": "[i]Магічний ніж[/i]"
+        },
+        {
+          "correct": true,
+          "text": "[i]Рубінова мотузка[/i]"
+        },
+        {
+          "correct": false,
+          "text": "[i]Янтарне скло[/i]"
+        }
+      ],
+      "hasIntro": true,
+      "hasOutro": false,
+      "id": "55901",
+      "isValid": "",
+      "pic": false,
+      "text": "[EventName=HOST/AltHost]Що з цього НЕ входить у трилогію романів [i]Темні матерії[/i]?",
+      "us": false,
+      "x": false
+    },
+    {
+      "choices": [
+        {
+          "correct": false,
+          "text": "COLOR"
+        },
+        {
+          "correct": true,
+          "text": "APPLE"
+        },
+        {
+          "correct": false,
+          "text": "MIND"
+        },
+        {
+          "correct": false,
+          "text": "LISA"
+        }
+      ],
+      "hasIntro": true,
+      "hasOutro": false,
+      "id": "55904",
+      "isValid": "",
+      "pic": false,
+      "text": "[EventName=HOST/AltHost]Яким кодом відкривався криптекс у романі Дена Брауна [i]Код да Вінчі[/i]?",
+      "us": false,
+      "x": false
+    },
+    {
+      "choices": [
+        {
+          "correct": false,
+          "text": "63"
+        },
+        {
+          "correct": true,
+          "text": "81"
+        },
+        {
+          "correct": false,
+          "text": "100"
+        },
+        {
+          "correct": false,
+          "text": "121"
+        }
+      ],
+      "hasIntro": true,
+      "hasOutro": false,
+      "id": "55914",
+      "isValid": "",
+      "pic": false,
+      "text": "[EventName=HOST/AltHost]Ви можете очистити своє ім’я, сказавши скільки клітин у класичному судоку?",
+      "us": true,
+      "x": false
+    },
+    {
+      "choices": [
+        {
+          "correct": false,
+          "text": "Михайло Хома"
+        },
+        {
+          "correct": false,
+          "text": "Станіслав Боклан"
+        },
+        {
+          "correct": false,
+          "text": "Євген Кошовий"
+        },
+        {
+          "correct": true,
+          "text": "Гарік Бірча"
+        }
+      ],
+      "hasIntro": true,
+      "hasOutro": false,
+      "id": "55915",
+      "isValid": "",
+      "pic": false,
+      "text": "[EventName=HOST/AltHost]Я відпущу вас, якщо ви скажете мені, хто знімався у головній ролі в серіалі [i]Віталька[/i]?",
+      "us": true,
+      "x": false
+    },
+    {
+      "choices": [
+        {
+          "correct": false,
+          "text": "Пабло Пікассо"
+        },
+        {
+          "correct": false,
+          "text": "Фріда Кало"
+        },
+        {
+          "correct": true,
+          "text": "Клод Моне"
+        },
+        {
+          "correct": false,
+          "text": "Едуард Мане"
+        }
+      ],
+      "hasIntro": true,
+      "hasOutro": false,
+      "id": "55916",
+      "isValid": "",
+      "pic": false,
+      "text": "[EventName=HOST/AltHost]Хто з художників любив малювати латаття?",
+      "us": false,
+      "x": false
+    },
+    {
+      "choices": [
+        {
+          "correct": false,
+          "text": "«Ось така у нас фігня, малята»"
+        },
+        {
+          "correct": false,
+          "text": "«Ось така фігня, малята»"
+        },
+        {
+          "correct": true,
+          "text": "«Отака фігня, малята»"
+        },
+        {
+          "correct": false,
+          "text": "«Оце у нас фігня, малята»"
+        }
+      ],
+      "hasIntro": true,
+      "hasOutro": false,
+      "id": "55918",
+      "isValid": "",
+      "pic": false,
+      "text": "[EventName=HOST/AltHost]Для доказу своєї невинності скажіть, як звучала та фраза Діда Панаса, яку він сказав у програмі [i]На добраніч, діти[/i]?",
+      "us": false,
+      "x": false
+    },
+    {
+      "choices": [
+        {
+          "correct": false,
+          "text": "[i]Кіборги[/i]"
+        },
+        {
+          "correct": false,
+          "text": "[i]Не зарікайся[/i]"
+        },
+        {
+          "correct": false,
+          "text": "[i]Черкаси[/i]"
+        },
+        {
+          "correct": true,
+          "text": "[i]Гвардія[/i]"
+        }
+      ],
+      "hasIntro": true,
+      "hasOutro": false,
+      "id": "55920",
+      "isValid": "",
+      "pic": false,
+      "text": "[EventName=HOST/AltHost]Я відпущу вас, якщо ви зможете назвати серіал про АТО, що вийшов у 2015 році на телеканалі 2+2.",
+      "us": true,
+      "x": false
+    },
+    {
+      "choices": [
+        {
+          "correct": false,
+          "text": "Дегтярьов"
+        },
+        {
+          "correct": false,
+          "text": "Сидорович"
+        },
+        {
+          "correct": false,
+          "text": "Найманець Шрам"
+        },
+        {
+          "correct": true,
+          "text": "Мічений"
+        }
+      ],
+      "hasIntro": true,
+      "hasOutro": false,
+      "id": "55956",
+      "isValid": "",
+      "pic": false,
+      "text": "[EventName=HOST/AltHost]Як звали головного героя гри [i]S.T.A.L.K.E.R.: Тінь Чорнобиля[/i]?",
+      "us": false,
+      "x": false
+    },
+    {
+      "choices": [
+        {
+          "correct": true,
+          "text": "Залізничний вокзал — вул. Пасічна"
+        },
+        {
+          "correct": false,
+          "text": "пл. Митна - вул. Квітна"
+        },
+        {
+          "correct": false,
+          "text": "Приміський вокзал - вул. Бандери"
+        },
+        {
+          "correct": false,
+          "text": "Залізничний вокзал - вул. Гайдамацька"
+        }
+      ],
+      "hasIntro": true,
+      "hasOutro": false,
+      "id": "55959",
+      "isValid": "",
+      "pic": false,
+      "text": "[EventName=HOST/AltHost]Який маршрут у Львівського трамвая № 1?",
+      "us": false,
+      "x": false
+    },
+    {
+      "choices": [
+        {
+          "correct": false,
+          "text": "3"
+        },
+        {
+          "correct": false,
+          "text": "7"
+        },
+        {
+          "correct": false,
+          "text": "2"
+        },
+        {
+          "correct": true,
+          "text": "жодного"
+        }
+      ],
+      "hasIntro": true,
+      "hasOutro": false,
+      "id": "56020",
+      "isValid": "",
+      "pic": false,
+      "text": "[EventName=HOST/AltHost]Скільки разів проєкт [i]Орел та Решка[/i] був у Криму після 2014 року?",
+      "us": true,
+      "x": false
+    },
+    {
+      "choices": [
+        {
+          "correct": false,
+          "text": "за турками"
+        },
+        {
+          "correct": false,
+          "text": "за вікінгами"
+        },
+        {
+          "correct": false,
+          "text": "за розбійниками"
+        },
+        {
+          "correct": true,
+          "text": "за піратами"
+        }
+      ],
+      "hasIntro": true,
+      "hasOutro": false,
+      "id": "56022",
+      "isValid": "",
+      "pic": false,
+      "text": "[EventName=HOST/AltHost]За ким гналися козаки у мультфільмі [i]Як козаки наречених визволяли[/i]?",
+      "us": true,
+      "x": false
+    },
+    {
+      "choices": [
+        {
+          "correct": false,
+          "text": "Джеронімо"
+        },
+        {
+          "correct": false,
+          "text": "Джузеппе"
+        },
+        {
+          "correct": true,
+          "text": "Джепетто"
+        },
+        {
+          "correct": false,
+          "text": "Тато Карло"
+        }
+      ],
+      "hasIntro": true,
+      "hasOutro": false,
+      "id": "56041",
+      "isValid": "",
+      "pic": false,
+      "text": "[EventName=HOST/AltHost]Як звали батька Піноккіо?",
+      "us": false,
+      "x": false
+    },
+    {
+      "choices": [
+        {
+          "correct": false,
+          "text": "Азія"
+        },
+        {
+          "correct": false,
+          "text": "Африка"
+        },
+        {
+          "correct": false,
+          "text": "Австралія"
+        },
+        {
+          "correct": true,
+          "text": "Антарктида"
+        }
+      ],
+      "hasIntro": true,
+      "hasOutro": false,
+      "id": "56069",
+      "isValid": "",
+      "pic": false,
+      "text": "[EventName=HOST/AltHost]Я зрозумію, що ви не вбивця, якщо скажете мені, на якому континенті знаходиться найбільша пустеля?",
+      "us": false,
+      "x": false
+    },
+    {
+      "choices": [
+        {
+          "correct": false,
+          "text": "[i]Як я зустрів вашу маму[/i]"
+        },
+        {
+          "correct": false,
+          "text": "[i]Загублені[/i]"
+        },
+        {
+          "correct": false,
+          "text": "[i]30 потрясінь[/i]"
+        },
+        {
+          "correct": true,
+          "text": "[i]Офіс[/i]"
+        }
+      ],
+      "hasIntro": true,
+      "hasOutro": false,
+      "id": "56078",
+      "isValid": "",
+      "pic": false,
+      "text": "[EventName=HOST/AltHost]Уривок якого серіалу Стів Джобс увімкнув на презентації першого iPhone у 2007 році, використовуючи прототип девайсу?",
+      "us": false,
+      "x": false
+    }
+  ]
+}

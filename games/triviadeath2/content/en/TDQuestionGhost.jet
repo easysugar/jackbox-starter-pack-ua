@@ -1,0 +1,32 @@
+{
+  "content": [
+    {
+      "choices": [
+        {
+          "correct": true,
+          "text": "Так. Пожертвую $50. Так буде правильно."
+        },
+        {
+          "correct": false,
+          "text": "Ні."
+        },
+        {
+          "correct": false,
+          "text": "В жодному разі."
+        },
+        {
+          "correct": false,
+          "text": "Дайте-но я подумаю. Хм.... ні."
+        }
+      ],
+      "hasIntro": false,
+      "hasOutro": false,
+      "id": "55866",
+      "isValid": "",
+      "pic": false,
+      "text": "[EventName=HOST/AltHost]Ви віддасте $50 з виграшу до фонду “Екзорцизму”?",
+      "us": false,
+      "x": false
+    }
+  ]
+}

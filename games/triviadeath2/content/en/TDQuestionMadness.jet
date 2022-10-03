@@ -1,0 +1,424 @@
+{
+  "content": [
+    {
+      "choices": [
+        {
+          "correct": false,
+          "text": "Сергій Сміян"
+        },
+        {
+          "correct": false,
+          "text": "Євген Черніков"
+        },
+        {
+          "correct": true,
+          "text": "Сергій Філімонов"
+        },
+        {
+          "correct": false,
+          "text": "Євген Світличний"
+        }
+      ],
+      "hasIntro": false,
+      "hasOutro": false,
+      "id": "55722",
+      "isValid": "",
+      "pic": false,
+      "text": "[EventName=HOST/AltHost]Хто грав головну роль у фільмі «Носоріг»?",
+      "us": false,
+      "x": false
+    },
+    {
+      "choices": [
+        {
+          "correct": false,
+          "text": "Оксиген"
+        },
+        {
+          "correct": false,
+          "text": "Гідроген"
+        },
+        {
+          "correct": true,
+          "text": "Ферум"
+        },
+        {
+          "correct": false,
+          "text": "Гелій"
+        }
+      ],
+      "hasIntro": false,
+      "hasOutro": false,
+      "id": "55723",
+      "isValid": "",
+      "pic": false,
+      "text": "[EventName=HOST/AltHost]Який з цих хімічних елементів є металом?",
+      "us": false,
+      "x": false
+    },
+    {
+      "choices": [
+        {
+          "correct": false,
+          "text": "Канада"
+        },
+        {
+          "correct": false,
+          "text": "Ірак"
+        },
+        {
+          "correct": true,
+          "text": "Франція"
+        },
+        {
+          "correct": false,
+          "text": "Бразилія"
+        }
+      ],
+      "hasIntro": false,
+      "hasOutro": false,
+      "id": "55724",
+      "isValid": "",
+      "pic": false,
+      "text": "[EventName=HOST/AltHost]Яка країна знаходиться в Європі?",
+      "us": false,
+      "x": false
+    },
+    {
+      "choices": [
+        {
+          "correct": false,
+          "text": "людина"
+        },
+        {
+          "correct": false,
+          "text": "мутант"
+        },
+        {
+          "correct": true,
+          "text": "ельф"
+        },
+        {
+          "correct": false,
+          "text": "скоятаєль"
+        }
+      ],
+      "hasIntro": false,
+      "hasOutro": false,
+      "id": "55725",
+      "isValid": "",
+      "pic": false,
+      "text": "[EventName=HOST/AltHost]До якої раси належить Імлеріх із роману Сапковського [i]Відьмак[/i]?",
+      "us": true,
+      "x": false
+    },
+    {
+      "choices": [
+        {
+          "correct": false,
+          "text": "Skofka"
+        },
+        {
+          "correct": true,
+          "text": "Kolaba"
+        },
+        {
+          "correct": false,
+          "text": "Probass & Hardi"
+        },
+        {
+          "correct": false,
+          "text": "MamaRika"
+        }
+      ],
+      "hasIntro": false,
+      "hasOutro": false,
+      "id": "55726",
+      "isValid": "",
+      "pic": false,
+      "text": "[EventName=HOST/AltHost]Хто співав «Шо Ви Пацики На Моциках»?",
+      "us": false,
+      "x": false
+    },
+    {
+      "choices": [
+        {
+          "correct": false,
+          "text": "Марлі"
+        },
+        {
+          "correct": false,
+          "text": "Марло"
+        },
+        {
+          "correct": true,
+          "text": "Марлін"
+        },
+        {
+          "correct": false,
+          "text": "Марла"
+        }
+      ],
+      "hasIntro": false,
+      "hasOutro": false,
+      "id": "55729",
+      "isValid": "",
+      "pic": false,
+      "text": "[EventName=HOST/AltHost]Як звали ласку в мультфільмі [i]Пінгвіни Мадагаскару[/i]?",
+      "us": false,
+      "x": false
+    },
+    {
+      "choices": [
+        {
+          "correct": false,
+          "text": "1837"
+        },
+        {
+          "correct": true,
+          "text": "1840"
+        },
+        {
+          "correct": false,
+          "text": "1847"
+        },
+        {
+          "correct": false,
+          "text": "1844"
+        }
+      ],
+      "hasIntro": false,
+      "hasOutro": false,
+      "id": "55743",
+      "isValid": "",
+      "pic": false,
+      "text": "[EventName=HOST/AltHost]В якому році вийшов перший Кобзар?",
+      "us": false,
+      "x": false
+    },
+    {
+      "choices": [
+        {
+          "correct": false,
+          "text": "4"
+        },
+        {
+          "correct": false,
+          "text": "3"
+        },
+        {
+          "correct": false,
+          "text": "2"
+        },
+        {
+          "correct": true,
+          "text": "1"
+        }
+      ],
+      "hasIntro": false,
+      "hasOutro": false,
+      "id": "55822",
+      "isValid": "",
+      "pic": false,
+      "text": "[EventName=HOST/AltHost]Який квадратний корінь з 1?",
+      "us": false,
+      "x": false
+    },
+    {
+      "choices": [
+        {
+          "correct": true,
+          "text": "Місяць"
+        },
+        {
+          "correct": false,
+          "text": "Марс"
+        },
+        {
+          "correct": false,
+          "text": "Сонце"
+        },
+        {
+          "correct": false,
+          "text": "Чумацький Шлях"
+        }
+      ],
+      "hasIntro": false,
+      "hasOutro": false,
+      "id": "55823",
+      "isValid": "",
+      "pic": false,
+      "text": "[EventName=HOST/AltHost]Яке небесне тіло обертається навколо Землі?",
+      "us": false,
+      "x": false
+    },
+    {
+      "choices": [
+        {
+          "correct": true,
+          "text": "лев"
+        },
+        {
+          "correct": false,
+          "text": "олень"
+        },
+        {
+          "correct": false,
+          "text": "жираф"
+        },
+        {
+          "correct": false,
+          "text": "вівця"
+        }
+      ],
+      "hasIntro": false,
+      "hasOutro": false,
+      "id": "55824",
+      "isValid": "",
+      "pic": false,
+      "text": "[EventName=HOST/AltHost]Хто з цих тварин їсть інших тварин?",
+      "us": false,
+      "x": false
+    },
+    {
+      "choices": [
+        {
+          "correct": false,
+          "text": "МакДональдс"
+        },
+        {
+          "correct": true,
+          "text": "Аромакава"
+        },
+        {
+          "correct": false,
+          "text": "Пузата хата"
+        },
+        {
+          "correct": false,
+          "text": "Львівські круасани"
+        }
+      ],
+      "hasIntro": false,
+      "hasOutro": false,
+      "id": "55961",
+      "isValid": "",
+      "pic": false,
+      "text": "[EventName=HOST/AltHost]Станом на 2021 рік, яка мережа має найбільше закладів в Україні?",
+      "us": false,
+      "x": false
+    },
+    {
+      "choices": [
+        {
+          "correct": false,
+          "text": "антилопа Гну"
+        },
+        {
+          "correct": true,
+          "text": "вилорога антилопа"
+        },
+        {
+          "correct": false,
+          "text": "американський верховий кінь"
+        },
+        {
+          "correct": false,
+          "text": "газель Томсона"
+        }
+      ],
+      "hasIntro": false,
+      "hasOutro": false,
+      "id": "55993",
+      "isValid": "",
+      "pic": false,
+      "text": "[EventName=HOST/AltHost]Яка з цих тварин НАЙШВИДША?",
+      "us": false,
+      "x": false
+    },
+    {
+      "choices": [
+        {
+          "correct": false,
+          "text": "чедер"
+        },
+        {
+          "correct": false,
+          "text": "голландський"
+        },
+        {
+          "correct": false,
+          "text": "пармезан"
+        },
+        {
+          "correct": true,
+          "text": "моцарела"
+        }
+      ],
+      "hasIntro": false,
+      "hasOutro": false,
+      "id": "55998",
+      "isValid": "",
+      "pic": false,
+      "text": "[EventName=HOST/AltHost]Який сир найчастіше використовують у приготуванні піци?",
+      "us": false,
+      "x": false
+    },
+    {
+      "choices": [
+        {
+          "correct": false,
+          "text": "Альдебаран"
+        },
+        {
+          "correct": true,
+          "text": "Аліот"
+        },
+        {
+          "correct": false,
+          "text": "Полярна зоря"
+        },
+        {
+          "correct": false,
+          "text": "Кохаб"
+        }
+      ],
+      "hasIntro": false,
+      "hasOutro": false,
+      "id": "56006",
+      "isValid": "",
+      "pic": false,
+      "text": "[EventName=HOST/AltHost]Яка з цих зірок є у сузір'ї Великої Ведмедиці?",
+      "us": false,
+      "x": false
+    },
+    {
+      "choices": [
+        {
+          "correct": false,
+          "text": "Люк Скайвокер"
+        },
+        {
+          "correct": true,
+          "text": "С-3РО"
+        },
+        {
+          "correct": false,
+          "text": "Хан Соло"
+        },
+        {
+          "correct": false,
+          "text": "Принцесса Лея"
+        }
+      ],
+      "hasIntro": false,
+      "hasOutro": false,
+      "id": "56007",
+      "isValid": "",
+      "pic": false,
+      "text": "[EventName=HOST/AltHost]Хто з цих персонажів є роботом?",
+      "us": false,
+      "x": false
+    }
+  ]
+}
