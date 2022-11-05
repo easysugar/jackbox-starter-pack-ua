@@ -32,19 +32,19 @@
       "choices": [
         {
           "correct": false,
-          "text": "Оксиген"
+          "text": "оксиген"
         },
         {
           "correct": false,
-          "text": "Гідроген"
+          "text": "гідроген"
         },
         {
           "correct": true,
-          "text": "Ферум"
+          "text": "ферум"
         },
         {
           "correct": false,
-          "text": "Гелій"
+          "text": "гелій"
         }
       ],
       "hasIntro": false,
@@ -404,7 +404,7 @@
         },
         {
           "correct": false,
-          "text": "Хан Соло"
+          "text": "Ган Соло"
         },
         {
           "correct": false,

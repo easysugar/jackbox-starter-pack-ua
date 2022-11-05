@@ -101,7 +101,7 @@
         {
           "controllerClass": "yellow",
           "correct": false,
-          "text": "сірий"
+          "text": "жовтий"
         },
         {
           "controllerClass": "green",
@@ -111,12 +111,12 @@
         {
           "controllerClass": "white",
           "correct": false,
-          "text": "червоний"
+          "text": "білий"
         },
         {
           "controllerClass": "purple",
           "correct": true,
-          "text": "рожевий"
+          "text": "фіолетовий"
         }
       ],
       "hasIntro": false,
@@ -124,7 +124,7 @@
       "id": "55827",
       "isValid": "",
       "pic": false,
-      "text": "[EventName=HOST/AltHost]Тут написано: \"Переріжте дріт, відтінком кольору якого є фрез.\"",
+      "text": "[EventName=HOST/AltHost]Тут написано: \"Переріжте ШАРЛАТОВИЙ дріт\"",
       "us": false,
       "x": false
     },
@@ -156,7 +156,7 @@
       "id": "55875",
       "isValid": "",
       "pic": false,
-      "text": "[EventName=HOST/AltHost]Тут написано: «Переріжте дріт, колір якого збігаєється з тим кольором, який традиційно носять наречені в Китаї».",
+      "text": "[EventName=HOST/AltHost]Тут написано: «Переріжте дріт, колір якого збігається з тим кольором, який традиційно носять наречені в Китаї».",
       "us": false,
       "x": false
     },
@@ -348,7 +348,7 @@
       "id": "55990",
       "isValid": "",
       "pic": false,
-      "text": "[EventName=HOST/AltHost]Тут написано: \"Переріжте дріт того ж кольору, що й ім'я Моргана Фрімена з фільму [i]Втеча з Шоушенка[/i]\".",
+      "text": "[EventName=HOST/AltHost]Тут написано: \"Переріжте дріт того ж кольору, що й прізвище головного героя однойменного роману Кокотюхи, фільм за мотивами якого показали на День Незалежності України у 2017 році.",
       "us": true,
       "x": false
     },

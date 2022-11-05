@@ -47,6 +47,7 @@
           "answer": "азот",
           "alt": [
             "озон",
+            "нітроген",
             "N"
           ]
         },
@@ -61,6 +62,7 @@
         {
           "answer": "фтор",
           "alt": [
+            "флуор",
             "F"
           ]
         },
@@ -136,71 +138,104 @@
     {
       "answers": [
         {
-          "answer": "Labrador Retrievers",
+          "answer": "Галичина",
           "alt": [
-            "lab",
-            "labs",
-            "labrador",
-            "retriever",
-            "retrievers",
-            "labrador retriever"
+            "Східна Галичина",
+            "Галич"
           ]
         },
         {
-          "answer": "German Shepherds",
+          "answer": "Волинь",
           "alt": [
-            "German shepherd",
-            "german shepherd dogs",
-            "shepherd",
-            "shepherds"
+            ""
           ]
         },
         {
-          "answer": "Golden Retrievers",
+          "answer": "Полісся",
           "alt": [
-            "golden retriever"
+            "Поліся"
           ]
         },
         {
-          "answer": "French Bulldogs",
+          "answer": "Закарпаття",
           "alt": [
-            "French bulldog"
+            "Закарпатя"
           ]
         },
         {
-          "answer": "Bulldogs",
+          "answer": "Північна Буковина",
           "alt": [
-            "bulldog"
+            "Буковина"
           ]
         },
         {
-          "answer": "Beagles",
+          "answer": "Поділля",
           "alt": [
-            "beagle",
-            "beagel",
-            "beagels"
+            "Поділя"
           ]
         },
         {
-          "answer": "Poodles",
+          "answer": "Київщина",
           "alt": [
-            "poodle",
-            "poodel",
-            "poodels"
+            "Київ",
+            "Наддріпнянщина"
           ]
         },
         {
-          "answer": "Rottweilers",
+          "answer": "Чернігівщина",
           "alt": [
-            "rotweiler",
-            "rotweilers",
-            "rottweiler"
+            "Сіверщина",
+            "Чернігово-Сіверщина"
+          ]
+        },
+        {
+          "answer": "Слобожанщина",
+          "alt": [
+            ""
+          ]
+        },
+        {
+          "answer": "Полтавщина",
+          "alt": [
+            ""
+          ]
+        },
+        {
+          "answer": "Донбас",
+          "alt": [
+            "Донбасс"
+          ]
+        },
+        {
+          "answer": "Придніпров'я",
+          "alt": [
+            ""
+          ]
+        },
+        {
+          "answer": "Приазов'я",
+          "alt": [
+            ""
+          ]
+        },
+        {
+          "answer": "Північне Причорномор'я",
+          "alt": [
+            "Причорномор'я",
+            "Південна Україна"
+          ]
+        },
+        {
+          "answer": "Крим",
+          "alt": [
+            "Кримський півострів",
+            "Кримщина"
           ]
         }
       ],
       "id": "55958",
       "isValid": "",
-      "text": "one of the American Kennel Club’s top eight most popular dog breeds",
+      "text": "Етнокультурні регіони України",
       "us": true,
       "x": false
     },
@@ -467,307 +502,258 @@
     {
       "answers": [
         {
-          "answer": "Автономна Республіка Крим",
+          "answer": "Національний університет «Острозька академія»",
           "alt": [
-            "АР Крим",
-            "Крим"
+            "Острозька академія",
+            "Острозький університет",
+            "Острозький"
           ]
         },
         {
-          "answer": "Вінницька область",
+          "answer": "Києво-Могилянська академія",
           "alt": [
-            "Вінниччина"
+            "Могилянка"
           ]
         },
         {
-          "answer": "Волинська область",
+          "answer": "Львівський національний університет ім. Івана Франка",
           "alt": [
-            "Волинь"
+            "імені Франка",
+            "імені Івана Франка",
+            "Івана Франка",
+            "Франка",
+            "Львівський національний університет"
           ]
         },
         {
-          "answer": "Дніпропетровська область",
+          "answer": "Харківський національний університет ім. Василя Каразіна",
           "alt": [
-            "Дніпровщина"
+            "Харківський національний університет",
+            "імені Каразіна",
+            "імені Василя Каразіна",
+            "Василя Каразіна",
+            "Каразіна"
           ]
         },
         {
-          "answer": "Донецька область",
+          "answer": "Київський національний університет ім. Тараса Шевченка",
           "alt": [
-            "Донеччина"
+            "імені Шевченка",
+            "Київський імені Шевченка",
+            "імені Тараса Шевченка",
+            "Київський імені Тараса Шевченка",
+            " Київський Тараса Шевченка",
+            "Тараса Шевченка",
+            "Шевченка"
           ]
         },
         {
-          "answer": "Житомирська область",
+          "answer": "Одеський національний університет ім. Іллі Мечникова",
           "alt": [
-            "Житомирщина"
+            "Одеський національний університет",
+            "імені Іллі Мечникова",
+            " імені Мечникова",
+            " Іллі Мечникова",
+            "Мечникова"
           ]
         },
         {
-          "answer": "Закарпатська область",
+          "answer": "Чернівецький національний університет ім. Юрія Федьковича",
           "alt": [
-            "Закарпаття"
+            "Чернівецький національний університет",
+            "імені Юрія Федьковича",
+            "імені Федьковича",
+            "Юрія Федьковича",
+            "Федьковича",
+            "Франціско-Йозефіна"
           ]
         },
         {
-          "answer": "Запорізька область",
+          "answer": "Національний технічний університет України «Київський політехнічний інститут»",
           "alt": [
-            ""
-          ]
-        },
-        {
-          "answer": "Івано-Франківська область",
-          "alt": [
-            "Івано-Франківщина"
-          ]
-        },
-        {
-          "answer": "Київська область",
-          "alt": [
-            "Київщина"
-          ]
-        },
-        {
-          "answer": "Кіровоградська область",
-          "alt": [
-            "Кіровоградщина",
-            "Кропивниччина"
-          ]
-        },
-        {
-          "answer": "Луганська область",
-          "alt": [
-            "Луганщина"
-          ]
-        },
-        {
-          "answer": "Львівська область",
-          "alt": [
-            "Львівщина"
-          ]
-        },
-        {
-          "answer": "Миколаївська область",
-          "alt": [
-            "Миколаївщина"
-          ]
-        },
-        {
-          "answer": "Одеська область",
-          "alt": [
-            "Одещина"
-          ]
-        },
-        {
-          "answer": "Полтавська область",
-          "alt": [
-            "Полтавщина"
-          ]
-        },
-        {
-          "answer": "Рівненська область",
-          "alt": [
-            "Рівненщина"
-          ]
-        },
-        {
-          "answer": "Сумська область",
-          "alt": [
-            "Сумщина"
-          ]
-        },
-        {
-          "answer": "Тернопільська область",
-          "alt": [
-            "Тернопіщина"
-          ]
-        },
-        {
-          "answer": "Харківська область",
-          "alt": [
-            "Харківщина"
-          ]
-        },
-        {
-          "answer": "Херсонська область",
-          "alt": [
-            "Херсонщина"
-          ]
-        },
-        {
-          "answer": "Хмельницька область",
-          "alt": [
-            "Хмельнищина"
-          ]
-        },
-        {
-          "answer": "Черкаська область",
-          "alt": [
-            "Черкащина"
-          ]
-        },
-        {
-          "answer": "Чернівецька область",
-          "alt": [
-            "Чернівеччина",
-            "Буковина"
-          ]
-        },
-        {
-          "answer": "Чернігівська область",
-          "alt": [
-            "Чернігівщина"
+            "Київський політехнічний інститут",
+            "Київський політехнічний",
+            "Київська політехніка",
+            "Київська політєхніка"
           ]
         }
       ],
       "id": "55967",
       "isValid": "",
-      "text": "територіальні одиниці (області) України",
+      "text": "Найстаріші університети України",
       "us": false,
       "x": false
     },
     {
       "answers": [
         {
-          "answer": "Allen",
+          "answer": "Як козаки куліш варили",
           "alt": [
-            "Alan",
-            "Allan",
-            "Alen"
+            "куліш варили",
+            "...куліш варили"
           ]
         },
         {
-          "answer": "Paar",
+          "answer": "Як козаки в футбол грали",
           "alt": [
-            "Parr",
-            "Par"
+            "Як козаки у футбол грали",
+            "в футбол грали",
+            "у футбол грали",
+            "...в футбол грали",
+            "...у футбол грали"
           ]
         },
         {
-          "answer": "Carson",
+          "answer": "Як козаки наречених визволяли",
           "alt": [
-            "Carsen",
-            "Carsan",
-            "Carrson"
+            "наречених визволяли",
+            "...наречених визволяли"
           ]
         },
         {
-          "answer": "Leno",
+          "answer": "Як козаки сіль купували",
           "alt": [
-            "Lenno"
+            "сіль купували",
+            "...сіль купували"
           ]
         },
         {
-          "answer": "O’Brien",
+          "answer": "Як козаки олімпійцями стали",
           "alt": [
-            "Obrian",
-            "O’Brian",
-            "Obrien"
+            "олімпійцями стали",
+            "...олімпійцями стали",
+            "олімпійцями ставали"
           ]
         },
         {
-          "answer": "Fallon",
+          "answer": "Як козаки мушкетерам допомагали",
           "alt": [
-            "Falon",
-            "Fallin",
-            "Falun",
-            "Fallun"
+            "мушкетерам допомагали",
+            "...мушкетерам допомагали",
+            "мушкетерам допомогли"
+          ]
+        },
+        {
+          "answer": "Як козаки на весіллі гуляли",
+          "alt": [
+            "на весіллі гуляли",
+            "...на весіллі гуляли"
+          ]
+        },
+        {
+          "answer": "Як козаки інопланетян зустрічали",
+          "alt": [
+            "інопланетян зустрічали",
+            "...інопланетян зустрічали"
+          ]
+        },
+        {
+          "answer": "Як козаки у хокей грали",
+          "alt": [
+            "Як козаки в хокей грали",
+            "в хокей грали",
+            "у хокей грали",
+            "...в хокей грали",
+            "...у хокей грали"
+          ]
+        },
+        {
+          "answer": "Як козак щастя шукав",
+          "alt": [
+            "щастя шукав",
+            "щастя шукали"
           ]
         }
       ],
       "id": "55968",
       "isValid": "",
-      "text": "a current or former official [i]Tonight Show[/i] host (just last name)",
+      "text": "одна із старих серій мультфільмів [i]Як козаки...[/i]",
       "us": true,
       "x": false
     },
     {
       "answers": [
         {
-          "answer": "Beef",
+          "answer": "Яловичина",
           "alt": [
-            "Beef Patties",
-            "Patties",
-            "Meat",
-            "patty",
-            "beef patty",
-            "two patties",
-            "double meat",
-            "double beef",
-            "two beef patties",
-            "2 patties",
-            "2 beef patties",
-            "2 meats",
-            "two meats",
-            "two all beef patties",
-            "2 all beef patties",
-            "two all-beef patties",
-            "2 all-beef patties",
-            "double beef patties"
+            "Яловичі котлети",
+            "Котлети",
+            "М'ясо",
+            "котлета",
+            "яловича котлета",
+            "подвійне м'ясо",
+            "подвійна яловичина",
+            "дві яловичі котлети",
+            "2 котлети",
+            "2 яловичі котлети",
+            "2 м'яса",
+            "два м'яса",
+            "всі 2 яловичі котлети",
+            "дві котлети з яловичини",
+            "подвійні яловичі котлети"
           ]
         },
         {
-          "answer": "Big Mac Sauce",
+          "answer": "Соус Біг Маку",
           "alt": [
-            "Sauce",
-            "Thousand Island",
-            "Thousand Island Dressing",
-            "Dressing",
-            "Special Dressing",
-            "special sauce"
+            "Соус",
+            "Тисяча Островів",
+            "Заправка Тисячі Островів",
+            "Заправка",
+            "Спеціальна заправка",
+            "спеціальний соус"
           ]
         },
         {
-          "answer": "Lettuce",
+          "answer": "Салат",
           "alt": [
-            "Letuce",
-            "Iceberg Lettuce",
-            "shredded lettuce"
+            "Листя Салату",
+            "Салат Айсберг",
+            "Подрібненний Салат"
           ]
         },
         {
-          "answer": "Cheese",
+          "answer": "Сир",
           "alt": [
-            "American Cheese"
+            "Американский Сир"
           ]
         },
         {
-          "answer": "Pickles",
+          "answer": "Солоні огірки",
           "alt": [
-            "Pickle",
-            "Pickel",
-            "Pickels",
-            "2 pickles",
-            "two pickles",
-            "2 pickels",
-            "two pickels"
+            "солоний огірок",
+            "огірок",
+            "огірки",
+            "2 солоних огірка",
+            "два солоних огірка",
+            "два огірка"
           ]
         },
         {
-          "answer": "Onions",
+          "answer": "Цибуля",
           "alt": [
-            "Onion",
-            "Raw Onion",
-            "Raw Onions",
-            "Chopped Onion",
-            "Chopped Onions"
+            "Цибуля",
+            "Сира Цибуля",
+            "Сирі Цибулі",
+            "Подрібнена Цибуля",
+            "Подрібнені Цибулі"
           ]
         },
         {
-          "answer": "Bun",
+          "answer": "Булочка",
           "alt": [
-            "Buns",
-            "Bread",
-            "Sesame Seed Bun",
-            "Sesame Bun",
-            "Sesame Seed Buns",
-            "Sesame Buns"
+            "Булочки",
+            "Хліб",
+            "Булочка з насінням кунжуту",
+            "Булочка с кунжутом",
+            "Булочки з насінням кужнутом",
+            "Булочки с кунжутом"
           ]
         }
       ],
       "id": "55969",
       "isValid": "",
-      "text": "one of the ingredients in a Big Mac",
+      "text": "один із інгредієнтів у Біг Мак",
       "us": false,
       "x": false
     },
@@ -928,102 +914,81 @@
     {
       "answers": [
         {
-          "answer": "Donkey Kong",
+          "answer": "Австрія",
           "alt": [
-            "DK",
-            "Donky Kong"
+            "австрійці"
           ]
         },
         {
-          "answer": "Fox",
+          "answer": "Алжир",
           "alt": [
-            "Star Fox",
-            "Fox McCloud"
+            "алжирці"
           ]
         },
         {
-          "answer": "Jigglypuff",
+          "answer": "Баварія",
           "alt": [
-            "Jiglypuff",
-            "Jiglypuf",
-            "Jigglypuf"
+            "баварці"
           ]
         },
         {
-          "answer": "Kirby",
+          "answer": "Іспанія",
           "alt": [
-            "Kerby",
-            "Cirby",
-            "Cerby",
-            "Kerbee",
-            "Cerbee",
-            "Cirbee",
-            "Currbee",
-            "Currby",
-            "Curbby"
+            "іспанці"
           ]
         },
         {
-          "answer": "Link",
+          "answer": "Нідерланди",
           "alt": [
-            ""
+            "нідерландці",
+            "голландці"
           ]
         },
         {
-          "answer": "Luigi",
+          "answer": "Польща",
           "alt": [
-            "Luigee"
+            "поляки"
           ]
         },
         {
-          "answer": "Mario",
+          "answer": "Росія",
           "alt": [
-            "Super Mario"
+            "Московія",
+            "росіяни",
+            "москалі",
+            "кацапи",
+            "русня",
+            "рососня"
           ]
         },
         {
-          "answer": "Ness",
+          "answer": "Туреччина",
           "alt": [
-            "Nes"
+            "турки"
           ]
         },
         {
-          "answer": "Samus",
+          "answer": "Україна",
           "alt": [
-            "Samus Aran"
+            "українці"
           ]
         },
         {
-          "answer": "Yoshi",
+          "answer": "Франція",
           "alt": [
-            "Yosi",
-            "Yoshee",
-            "Yoshie",
-            "Yoshy",
-            "Yoshey"
+            "французи"
           ]
         },
         {
-          "answer": "Captain Falcon",
+          "answer": "Шотландія",
           "alt": [
-            "Falcon",
-            "Cap Falcon",
-            "C. Falcon",
-            "C Falcon"
-          ]
-        },
-        {
-          "answer": "Pikachu",
-          "alt": [
-            "Picachu",
-            "Pikachoo",
-            "Pickachu"
+            "шотландці"
           ]
         }
       ],
       "id": "55987",
       "isValid": "",
-      "text": "a playable character in the first [i]Super Smash Bros.[/i] game",
+      "text": "нації у грі [i]Козаки 3[/i]",
       "us": false,
       "x": false
     },
@@ -1308,118 +1273,101 @@
     {
       "answers": [
         {
-          "answer": "Antony and Cleopatra",
+          "answer": "Володимир Великий",
           "alt": [
-            "Anthonie and Cleopatra",
-            "Antony & Cleopatra",
-            "Anthonie & Cleopatra",
-            "Anthony and Cleopater",
-            "Anthony & Cleopater",
-            "Cleopatra",
-            "Antony Cleopatra"
+            "Володимир",
+            "князь Володимир"
           ]
         },
         {
-          "answer": "Coriolanus",
+          "answer": "Ярослав Мудрий",
           "alt": [
-            "Coryolanus"
+            "Ярослав",
+            "князь Ярослав"
           ]
         },
         {
-          "answer": "Cymbeline",
+          "answer": "Богдан Хмельницький",
           "alt": [
-            "Cimbeline",
-            "Cymbelyne"
+            "гетьман",
+            "Хмельницький",
+            "Хмель"
           ]
         },
         {
-          "answer": "Hamlet",
+          "answer": "Іван Мазепа",
           "alt": [
-            "Hamlett",
-            "Hamlot",
-            "Hamlit",
-            "Hammlet"
+            "Мазепа"
           ]
         },
         {
-          "answer": "Julius Caesar",
+          "answer": "Іван Франко",
           "alt": [
-            "Julyus Caesar",
-            "Julius Ceasar",
-            "Caesar",
-            "Julyus Ceasar",
-            "Julius Caeser",
-            "Julius Ceaser",
-            "Caesar"
+            "Франко",
+            "Каменяр",
+            "Джеджалик",
+            "Мирон Сторож",
+            "Мирон Ковалишин",
+            "Руслан",
+            "Іван Живий",
+            "Невідомий",
+            "Не-Давид",
+            "Марко-В-ва",
+            "Один з русинів міста Львова",
+            "Ів. Фр.",
+            "Iw. Fr.",
+            "Ккк"
           ]
         },
         {
-          "answer": "King Lear",
+          "answer": "Михайло Грушевський",
           "alt": [
-            "King Leer",
-            "Lear",
-            "Leer",
-            "King Leare"
+            "Грушевський",
+            "голова Центральної Ради"
           ]
         },
         {
-          "answer": "Macbeth",
+          "answer": "Тарас Григорович Шевченко",
           "alt": [
-            "McBeth",
-            "Micbeth",
-            "Mecbeth",
-            "McBath"
+            "Тарас Шевченко",
+            "Тарас",
+            "Шевченко",
+            "Шева",
+            "Тарас Григорович",
+            "Кобзар",
+            "Дармограй",
+            "Кобзар Дармограй",
+            "Перебендя"
           ]
         },
         {
-          "answer": "Othello",
+          "answer": "Леся Українка",
           "alt": [
-            "Othelo",
-            "Othello the Moore of Venice",
-            "Moore of Venice"
+            "Лариса Косач",
+            "Леся",
+            "Українка"
           ]
         },
         {
-          "answer": "Romeo and Juliet",
+          "answer": "Григорій Савич Сковорода",
           "alt": [
-            "Romeo & Juliet",
-            "Romeo Juliet",
-            "Romeo and Juliett"
+            "Григорій Сковорода",
+            "Григорій",
+            "Сковорода",
+            "Український Сократ"
           ]
         },
         {
-          "answer": "Timon of Athens",
+          "answer": "Володимир Іванович Вернадський",
           "alt": [
-            "Tymon of Athens",
-            "Timon of Athans",
-            "Tymon of Athans"
-          ]
-        },
-        {
-          "answer": "Titus Andronicus",
-          "alt": [
-            "Tytus Andronicus"
-          ]
-        },
-        {
-          "answer": "Troilus and Cressida",
-          "alt": [
-            "Troylus and Cressida",
-            "Troilus & Cressida",
-            "Troylus & Cressida",
-            "Troilus and Cresida",
-            "Troylus and Cresida",
-            "Troylus & Cresida",
-            "Troilus & Cresida",
-            "Troylus Cressida",
-            "Troilus Cressida",
-            "Troilus Cresida"
+            "Вернадський",
+            "Володимир Вернадський"
           ]
         }
       ],
       "id": "56056",
       "isValid": "",
-      "text": "one of Shakespeare’s tragedies",
+      "text": "персоналії, зображені на гривневих купюрах",
       "us": false,
       "x": false
     },
@@ -1645,86 +1593,52 @@
     {
       "answers": [
         {
-          "answer": "tomato",
+          "answer": "яблуко",
           "alt": [
-            "tomatoes",
-            "tomatos",
-            "tamato",
-            "tamahto",
-            "tomayto",
-            "tomaytoe",
-            "tomatoe"
+            "яблучний",
+            "яблуневий",
+            "яблуковий",
+            "яблука"
           ]
         },
         {
-          "answer": "carrot",
+          "answer": "апельсин",
           "alt": [
-            "carrots",
-            "carot",
-            "carret",
-            "carots",
-            "carrets",
-            "carrut",
-            "carrit"
+            "апельсиновий",
+            "апельсина",
+            "апельсину"
           ]
         },
         {
-          "answer": "celery",
+          "answer": "лимон",
           "alt": [
-            "cellery",
-            "celary",
-            "cellary"
+            "лимоний",
+            "лимонний",
+            "лимона",
+            "лимону"
           ]
         },
         {
-          "answer": "beet",
+          "answer": "груша",
           "alt": [
-            "beets",
-            "beat",
-            "beats"
+            "грушовий",
+            "грушевий",
+            "груш",
+            "груші"
           ]
         },
         {
-          "answer": "parsley",
+          "answer": "вишня",
           "alt": [
-            "parsly",
-            "parsely",
-            "parslee",
-            "parslie"
-          ]
-        },
-        {
-          "answer": "lettuce",
-          "alt": [
-            "letuce",
-            "lettace",
-            "lettus",
-            "letus"
-          ]
-        },
-        {
-          "answer": "watercress",
-          "alt": [
-            "watercrest",
-            "watercross",
-            "watercresh",
-            "watercrass",
-            "watercres"
-          ]
-        },
-        {
-          "answer": "spinach",
-          "alt": [
-            "spinache",
-            "spinech",
-            "spinich",
-            "spiniche"
+            "вишневий",
+            "вишні",
+            "вишень"
           ]
         }
       ],
       "id": "57341",
       "isValid": "",
-      "text": "one of the vegetables found in the original V8 vegetable juice",
+      "text": "один з оригінальних смаків [i]Живчика[/i]",
       "us": false,
       "x": false
     },
@@ -1922,31 +1836,37 @@
         {
           "answer": "вода",
           "alt": [
-            ""
+            "водяна",
+            "водна",
+            "води"
           ]
         },
         {
           "answer": "вогонь",
           "alt": [
-            ""
+            "вогняна",
+            "вогню",
+            "вогня"
           ]
         },
         {
           "answer": "земля",
           "alt": [
-            ""
+            "земляна",
+            "землі"
           ]
         },
         {
           "answer": "повітря",
           "alt": [
-            ""
+            "повітряна"
           ]
         },
         {
           "answer": "енергія",
           "alt": [
-            ""
+            "енергії",
+            "енергетична"
           ]
         }
       ],
@@ -2297,78 +2217,93 @@
     {
       "answers": [
         {
-          "answer": "Charlie Brown",
+          "answer": "Василь Білозерський",
           "alt": [
-            "Charlie",
-            "Chuck"
+            "Білозерський Василь",
+            "Білозерський"
           ]
         },
         {
-          "answer": "Lucy",
+          "answer": "Микола Гулак",
           "alt": [
-            "Lucy van Pelt",
-            "Lucy Pelt",
-            "Lucille",
-            "Lucille van Pelt",
-            "Lucille Pelt"
+            "Гулак Микола",
+            "Гулак"
           ]
         },
         {
-          "answer": "Linus",
+          "answer": "Микола Костомаров",
           "alt": [
-            "Linus van Pelt",
-            "Linus Pelt"
+            "Костомаров Микола",
+            "Костомаров"
           ]
         },
         {
-          "answer": "Sally",
+          "answer": "Пантелеймон Куліш",
           "alt": [
-            "Sally Brown",
-            "Sallie",
-            "Sallie Brown"
+            "Куліш Пантелеймон",
+            "Куліш"
           ]
         },
         {
-          "answer": "Patty",
+          "answer": "Опанас Маркевич",
           "alt": [
-            "Peppermint Patty",
-            "Pepermint Patty",
-            "Patti",
-            "Peppermint Patti",
-            "PP",
-            "Patricia",
-            "Patricia Reichardt",
-            "Patty Reichardt",
-            "Paty"
+            "Маркевич Опанас",
+            "Маркевич"
           ]
         },
         {
-          "answer": "Schroeder",
+          "answer": "Георгій Андрузький",
           "alt": [
-            "Shroeder",
-            "shrowder",
-            "Schrowder"
+            "Андрузький Георгій",
+            "Андрузький"
           ]
         },
         {
-          "answer": "Snoopy",
+          "answer": "Олександр Навроцький",
           "alt": [
-            "Snoop",
-            "Snoppy"
+            "Навроцький Олександр",
+            "Навроцький"
           ]
         },
         {
-          "answer": "Woodstock",
+          "answer": "Дмитро Пильчиков",
           "alt": [
-            "wood stock",
-            "woodstalk",
-            "wood stalk"
+            "Пильчиков Дмитро",
+            "Пильчиков"
+          ]
+        },
+        {
+          "answer": "Іван Посяда",
+          "alt": [
+            "Посяда Іван",
+            "Посяда"
+          ]
+        },
+        {
+          "answer": "Микола Савич",
+          "alt": [
+            "Савич Микола",
+            "Савич"
+          ]
+        },
+        {
+          "answer": "Олександр Тулуб",
+          "alt": [
+            "Тулуб Олександр",
+            "Тулуб"
+          ]
+        },
+        {
+          "answer": "Тарас Шевченко",
+          "alt": [
+            "Шевченко Тарас",
+            "Шевченко"
           ]
         }
       ],
       "id": "57805",
       "isValid": "",
-      "text": "a character in [i]You’re a Good Man, Charlie Brown[/i]",
+      "text": "члени Кирило-Мефодіївського товариства",
       "us": false,
       "x": false
     },
@@ -2459,7 +2394,8 @@
         {
           "answer": "США",
           "alt": [
-            "Сполучені Штати"
+            "Сполучені Штати",
+            "Сполучені Штати Америки"
           ]
         },
         {
@@ -2471,7 +2407,7 @@
         {
           "answer": "Німеччина",
           "alt": [
-            "ФНР"
+            "ФРН"
           ]
         },
         {
@@ -2490,7 +2426,8 @@
           "answer": "Велика Британія",
           "alt": [
             "Британія",
-            "Великобританія"
+            "Великобританія",
+            "Англія"
           ]
         }
       ],
@@ -2587,7 +2524,7 @@
       ],
       "id": "57822",
       "isValid": "",
-      "text": "один із п’яти найбільших видів великих котів у світі",
+      "text": "один із п’яти найбільших видів котячих у світі",
       "us": false,
       "x": false
     },

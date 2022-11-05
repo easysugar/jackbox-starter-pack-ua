@@ -451,20 +451,20 @@
     {
       "choices": [
         {
+          "correct": false,
+          "text": "[i]Дівчата Гілмор[/i]"
+        },
+        {
+          "correct": false,
+          "text": "[i]90210[/i]"
+        },
+        {
           "correct": true,
-          "text": "Nokia 3310"
+          "text": "[i]Відчайдушні домогосподарки[/i]"
         },
         {
           "correct": false,
-          "text": "Nokia 3000"
-        },
-        {
-          "correct": false,
-          "text": "Nokia 3010"
-        },
-        {
-          "correct": false,
-          "text": "Nokia 3110"
+          "text": "[i]Величне століття. Роксолана[/i]"
         }
       ],
       "hasIntro": false,
@@ -472,7 +472,7 @@
       "id": "56084",
       "isValid": "",
       "pic": false,
-      "text": "Мамо, я знайшов твій старий телефон. Що це за модель?",
+      "text": "Мамо, а який серіал ти дивилася щобудня о 17 годині на Новому Каналі, коли я повертався зі школи?",
       "us": true,
       "x": false
     }
