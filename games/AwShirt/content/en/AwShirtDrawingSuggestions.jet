@@ -66,7 +66,7 @@
     {
       "id": "40188",
       "isValid": "",
-      "suggestion": "Як вам подобається розслаблятися",
+      "suggestion": "Як ви полюбляєте розслабитися",
       "type": "Drawing Suggestion",
       "us": false
     },
@@ -136,7 +136,7 @@
     {
       "id": "40211",
       "isValid": "",
-      "suggestion": "Справді солодке частування",
+      "suggestion": "Дуже солодке частування",
       "type": "Drawing Suggestion",
       "us": false
     },
@@ -178,7 +178,7 @@
     {
       "id": "40217",
       "isValid": "",
-      "suggestion": "Лице яке ви б зробили, якби зустріли Олю Полякову",
+      "suggestion": "Ваш вираз обличчя, якби ви зустріли Христину Соловій",
       "type": "Drawing Suggestion",
       "us": false
     },
@@ -206,7 +206,7 @@
     {
       "id": "40221",
       "isValid": "",
-      "suggestion": "Як би ви залучили потенційного партнера",
+      "suggestion": "Як би ви привабили потенційного партнера",
       "type": "Drawing Suggestion",
       "us": false
     },
@@ -241,7 +241,7 @@
     {
       "id": "40226",
       "isValid": "",
-      "suggestion": "Якісь вчені",
+      "suggestion": "Якісь науковці",
       "type": "Drawing Suggestion",
       "us": false
     },
@@ -297,7 +297,7 @@
     {
       "id": "40235",
       "isValid": "",
-      "suggestion": "Виступ у Вегасі",
+      "suggestion": "Театральна постановка",
       "type": "Drawing Suggestion",
       "us": true
     },
@@ -381,7 +381,7 @@
     {
       "id": "40247",
       "isValid": "",
-      "suggestion": "Той, кому не слідує довіряти",
+      "suggestion": "Той, кому не варто довіряти",
       "type": "Drawing Suggestion",
       "us": false
     },
@@ -423,7 +423,7 @@
     {
       "id": "40254",
       "isValid": "",
-      "suggestion": "Хтось з 1800-х",
+      "suggestion": "Хтось з 1800-х років",
       "type": "Drawing Suggestion",
       "us": false
     },
@@ -444,7 +444,7 @@
     {
       "id": "40257",
       "isValid": "",
-      "suggestion": "Ваш неулюблений музикант",
+      "suggestion": "Ваш найменш улюблений музикант",
       "type": "Drawing Suggestion",
       "us": false
     },
@@ -521,7 +521,7 @@
     {
       "id": "40272",
       "isValid": "",
-      "suggestion": "Дійсно крутий автомобіль",
+      "suggestion": "Найкрутіший автомобіль",
       "type": "Drawing Suggestion",
       "us": false
     },
@@ -710,7 +710,7 @@
     {
       "id": "40306",
       "isValid": "",
-      "suggestion": "Хтось із поганим ставленням",
+      "suggestion": "Хтось із поганим ставленням до всіх",
       "type": "Drawing Suggestion",
       "us": false
     },
@@ -990,7 +990,7 @@
     {
       "id": "40421",
       "isValid": "",
-      "suggestion": "Ой мамо Шикидим",
+      "suggestion": "Афіни, Київ і Стамбул",
       "type": "Drawing Suggestion",
       "us": true
     },
@@ -1165,7 +1165,7 @@
     {
       "id": "40454",
       "isValid": "",
-      "suggestion": "Великий дурень",
+      "suggestion": "Повний зануда",
       "type": "Drawing Suggestion",
       "us": false
     },
@@ -1200,7 +1200,7 @@
     {
       "id": "40459",
       "isValid": "",
-      "suggestion": "Працівник забігайлівки",
+      "suggestion": "Працівник фастфуду",
       "type": "Drawing Suggestion",
       "us": false
     },
@@ -1410,7 +1410,7 @@
     {
       "id": "40504",
       "isValid": "",
-      "suggestion": "Олімпійська подія",
+      "suggestion": "Подія на Олімпійських іграх",
       "type": "Drawing Suggestion",
       "us": false
     },
@@ -1424,14 +1424,14 @@
     {
       "id": "40506",
       "isValid": "",
-      "suggestion": "Людина, з якою ти зустрінешся на небесах",
+      "suggestion": "Людина, з якою ви зустрінетесь на небесах",
       "type": "Drawing Suggestion",
       "us": false
     },
     {
       "id": "40507",
       "isValid": "",
-      "suggestion": "Ваше улюблене ігрове шоу",
+      "suggestion": "Ваше улюблене реаліті-шоу",
       "type": "Drawing Suggestion",
       "us": false
     },
@@ -1445,7 +1445,7 @@
     {
       "id": "40509",
       "isValid": "",
-      "suggestion": "Ви у звичайну вечірню п'ятницю",
+      "suggestion": "Ви у звичайний вечір п'ятниці",
       "type": "Drawing Suggestion",
       "us": false
     },
@@ -1459,7 +1459,7 @@
     {
       "id": "40511",
       "isValid": "",
-      "suggestion": "Найкращий подарунок, який ви коли-небудь отримували",
+      "suggestion": "Найкращий подарунок, який ви отримували",
       "type": "Drawing Suggestion",
       "us": false
     },
@@ -1494,7 +1494,7 @@
     {
       "id": "40519",
       "isValid": "",
-      "suggestion": "Панк із канави",
+      "suggestion": "Панк в багні",
       "type": "Drawing Suggestion",
       "us": true
     },
@@ -1522,7 +1522,7 @@
     {
       "id": "40523",
       "isValid": "",
-      "suggestion": "Щось, що викликає у вас панічну атаку",
+      "suggestion": "Те, що викликає у вас панічну атаку",
       "type": "Drawing Suggestion",
       "us": false
     },
@@ -1550,7 +1550,7 @@
     {
       "id": "41010",
       "isValid": "",
-      "suggestion": "Лижні фільми 80-х років",
+      "suggestion": "Українські комедії 90-х",
       "type": "Drawing Suggestion",
       "us": false
     },
@@ -1634,7 +1634,7 @@
     {
       "id": "41075",
       "isValid": "",
-      "suggestion": "Танець хула",
+      "suggestion": "гопак",
       "type": "Drawing Suggestion",
       "us": false
     },
@@ -1683,21 +1683,21 @@
     {
       "id": "41160",
       "isValid": "",
-      "suggestion": "Батько з передмістя",
+      "suggestion": "батько з передмістя",
       "type": "Drawing Suggestion",
       "us": false
     },
     {
       "id": "41162",
       "isValid": "",
-      "suggestion": "Закритий в підземеллі",
+      "suggestion": "закритий в підземеллі",
       "type": "Drawing Suggestion",
       "us": false
     },
     {
       "id": "41163",
       "isValid": "",
-      "suggestion": "Головні воші",
+      "suggestion": "воші на голові",
       "type": "Drawing Suggestion",
       "us": false
     },
@@ -1753,7 +1753,7 @@
     {
       "id": "41175",
       "isValid": "",
-      "suggestion": "Ковбой, що співає",
+      "suggestion": "ковбой, що співає",
       "type": "Drawing Suggestion",
       "us": false
     },
@@ -1830,7 +1830,7 @@
     {
       "id": "41188",
       "isValid": "",
-      "suggestion": "Багатій у кабріолеті",
+      "suggestion": "мажор у кабріолеті",
       "type": "Drawing Suggestion",
       "us": false
     },
@@ -1879,7 +1879,7 @@
     {
       "id": "41203",
       "isValid": "",
-      "suggestion": "Ловити промені",
+      "suggestion": "ніжитися на сонечку",
       "type": "Drawing Suggestion",
       "us": false
     },
@@ -1893,7 +1893,7 @@
     {
       "id": "41206",
       "isValid": "",
-      "suggestion": "Атакований воротар",
+      "suggestion": "атака на воротаря",
       "type": "Drawing Suggestion",
       "us": false
     },
@@ -1963,7 +1963,7 @@
     {
       "id": "41239",
       "isValid": "",
-      "suggestion": "професор",
+      "suggestion": "проффесор з двома ф",
       "type": "Drawing Suggestion",
       "us": false
     },
@@ -1998,7 +1998,7 @@
     {
       "id": "41245",
       "isValid": "",
-      "suggestion": "Родео-клоун",
+      "suggestion": "родео-клоун",
       "type": "Drawing Suggestion",
       "us": true
     },
@@ -2040,70 +2040,70 @@
     {
       "id": "41264",
       "isValid": "",
-      "suggestion": "Витягання кроля з капелюха",
+      "suggestion": "витягання кроля з капелюха",
       "type": "Drawing Suggestion",
       "us": false
     },
     {
       "id": "41265",
       "isValid": "",
-      "suggestion": "Самурай",
+      "suggestion": "самурай",
       "type": "Drawing Suggestion",
       "us": false
     },
     {
       "id": "41266",
       "isValid": "",
-      "suggestion": "Гурт з однієї людини",
+      "suggestion": "гурт з однієї людини",
       "type": "Drawing Suggestion",
       "us": false
     },
     {
       "id": "41267",
       "isValid": "",
-      "suggestion": "Модель на подіумі",
+      "suggestion": "модель на подіумі",
       "type": "Drawing Suggestion",
       "us": false
     },
     {
       "id": "41268",
       "isValid": "",
-      "suggestion": "Хірург",
+      "suggestion": "хірург",
       "type": "Drawing Suggestion",
       "us": false
     },
     {
       "id": "41270",
       "isValid": "",
-      "suggestion": "Моторошний дім",
+      "suggestion": "моторошний дім",
       "type": "Drawing Suggestion",
       "us": false
     },
     {
       "id": "41271",
       "isValid": "",
-      "suggestion": "Епічна битва",
+      "suggestion": "епічна битва",
       "type": "Drawing Suggestion",
       "us": false
     },
     {
       "id": "41272",
       "isValid": "",
-      "suggestion": "Хтось із майбутнього",
+      "suggestion": "хтось із майбутнього",
       "type": "Drawing Suggestion",
       "us": false
     },
     {
       "id": "41275",
       "isValid": "",
-      "suggestion": "Ваша улюблена страва",
+      "suggestion": "ваша улюблена страва",
       "type": "Drawing Suggestion",
       "us": false
     },
     {
       "id": "41279",
       "isValid": "",
-      "suggestion": "Застряглий в пустелі",
+      "suggestion": "загублений у пустелі",
       "type": "Drawing Suggestion",
       "us": false
     },
@@ -2124,7 +2124,7 @@
     {
       "id": "41282",
       "isValid": "",
-      "suggestion": "Одяг не по розміру",
+      "suggestion": "одяг не по фігурі",
       "type": "Drawing Suggestion",
       "us": false
     },
@@ -2145,14 +2145,14 @@
     {
       "id": "41286",
       "isValid": "",
-      "suggestion": "Гравець у покер",
+      "suggestion": "гравець у покер",
       "type": "Drawing Suggestion",
       "us": false
     },
     {
       "id": "41287",
       "isValid": "",
-      "suggestion": "Герой вашого дитинства",
+      "suggestion": "герой вашого дитинства",
       "type": "Drawing Suggestion",
       "us": false
     },
@@ -2166,7 +2166,7 @@
     {
       "id": "41291",
       "isValid": "",
-      "suggestion": "Ваше улюблене реаліті-шоу",
+      "suggestion": "ваше улюблене реаліті-шоу",
       "type": "Drawing Suggestion",
       "us": false
     },
@@ -2236,7 +2236,7 @@
     {
       "id": "41404",
       "isValid": "",
-      "suggestion": "Тварина-детектив",
+      "suggestion": "тварина-детектив",
       "type": "Drawing Suggestion",
       "us": false
     },
@@ -2264,14 +2264,14 @@
     {
       "id": "41408",
       "isValid": "",
-      "suggestion": "Ваша улюблена зимова тварина",
+      "suggestion": "ваша улюблена зимова тварина",
       "type": "Drawing Suggestion",
       "us": false
     },
     {
       "id": "41409",
       "isValid": "",
-      "suggestion": "Два види спорту змішані разом",
+      "suggestion": "два види спорту в одному",
       "type": "Drawing Suggestion",
       "us": false
     },
@@ -2285,7 +2285,7 @@
     {
       "id": "41411",
       "isValid": "",
-      "suggestion": "дуже російська людина",
+      "suggestion": "дуже британська людина",
       "type": "Drawing Suggestion",
       "us": false
     },
@@ -2306,7 +2306,7 @@
     {
       "id": "41416",
       "isValid": "",
-      "suggestion": "Минуле десятиліття, яке ви б хотіли відвідати",
+      "suggestion": "минуле десятиліття, яке ви б хотіли відвідати",
       "type": "Drawing Suggestion",
       "us": false
     },
@@ -2348,7 +2348,7 @@
     {
       "id": "41430",
       "isValid": "",
-      "suggestion": "Ваше улюблене хобі",
+      "suggestion": "ваше улюблене хобі",
       "type": "Drawing Suggestion",
       "us": false
     },
@@ -2362,21 +2362,21 @@
     {
       "id": "41432",
       "isValid": "",
-      "suggestion": "Дуже хитра людина",
+      "suggestion": "дуже хитра людина",
       "type": "Drawing Suggestion",
       "us": false
     },
     {
       "id": "41433",
       "isValid": "",
-      "suggestion": "Ваша улюблена вигадана країна",
+      "suggestion": "ваша улюблена вигадана місцина",
       "type": "Drawing Suggestion",
       "us": false
     },
     {
       "id": "41434",
       "isValid": "",
-      "suggestion": "Продаж своєї душі",
+      "suggestion": "продаж своєї душі",
       "type": "Drawing Suggestion",
       "us": false
     },
@@ -2411,7 +2411,7 @@
     {
       "id": "41439",
       "isValid": "",
-      "suggestion": "Незручний момент, в якому тільки можна знаходитися",
+      "suggestion": "дуже незручний момент",
       "type": "Drawing Suggestion",
       "us": false
     },
@@ -2432,7 +2432,7 @@
     {
       "id": "41443",
       "isValid": "",
-      "suggestion": "Псування дня народження",
+      "suggestion": "зіпсований день народження",
       "type": "Drawing Suggestion",
       "us": false
     },
@@ -2460,126 +2460,126 @@
     {
       "id": "41450",
       "isValid": "",
-      "suggestion": "Дивний парад",
+      "suggestion": "дивний парад",
       "type": "Drawing Suggestion",
       "us": false
     },
     {
       "id": "41452",
       "isValid": "",
-      "suggestion": "Зв'язок між батьком та сином",
+      "suggestion": "зв'язок між батьком та сином",
       "type": "Drawing Suggestion",
       "us": false
     },
     {
       "id": "41455",
       "isValid": "",
-      "suggestion": "Жартівники",
+      "suggestion": "пранкери",
       "type": "Drawing Suggestion",
       "us": false
     },
     {
       "id": "41456",
       "isValid": "",
-      "suggestion": "Король нічого",
+      "suggestion": "король нічого",
       "type": "Drawing Suggestion",
       "us": false
     },
     {
       "id": "41457",
       "isValid": "",
-      "suggestion": "Все їстівне",
+      "suggestion": "фуршет",
       "type": "Drawing Suggestion",
       "us": false
     },
     {
       "id": "41459",
       "isValid": "",
-      "suggestion": "Чудовий танцівник",
+      "suggestion": "чудовий танцюрист",
       "type": "Drawing Suggestion",
       "us": false
     },
     {
       "id": "41460",
       "isValid": "",
-      "suggestion": "Таємний сад",
+      "suggestion": "таємний сад",
       "type": "Drawing Suggestion",
       "us": false
     },
     {
       "id": "41467",
       "isValid": "",
-      "suggestion": "Відтворення громадянської війни",
+      "suggestion": "відтворення громадянської війни",
       "type": "Drawing Suggestion",
       "us": true
     },
     {
       "id": "41468",
       "isValid": "",
-      "suggestion": "Будинок на стрільбищі",
+      "suggestion": "будинок на стрільбищі",
       "type": "Drawing Suggestion",
       "us": true
     },
     {
       "id": "41547",
       "isValid": "",
-      "suggestion": "Утилізація",
+      "suggestion": "переробка",
       "type": "Drawing Suggestion",
       "us": false
     },
     {
       "id": "41548",
       "isValid": "",
-      "suggestion": "Ласун(ка)",
+      "suggestion": "ласун",
       "type": "Drawing Suggestion",
       "us": false
     },
     {
       "id": "41549",
       "isValid": "",
-      "suggestion": "Володіння мечем",
+      "suggestion": "володіння мечем",
       "type": "Drawing Suggestion",
       "us": false
     },
     {
       "id": "41550",
       "isValid": "",
-      "suggestion": "Харчовий ланцюг",
+      "suggestion": "харчовий ланцюг",
       "type": "Drawing Suggestion",
       "us": false
     },
     {
       "id": "41552",
       "isValid": "",
-      "suggestion": "Літні розваги",
+      "suggestion": "літні розваги",
       "type": "Drawing Suggestion",
       "us": false
     },
     {
       "id": "41556",
       "isValid": "",
-      "suggestion": "Підлітковий страх",
+      "suggestion": "підлітковий страх",
       "type": "Drawing Suggestion",
       "us": false
     },
     {
       "id": "41558",
       "isValid": "",
-      "suggestion": "Чарівний ліс",
+      "suggestion": "чарівний ліс",
       "type": "Drawing Suggestion",
       "us": false
     },
     {
       "id": "41559",
       "isValid": "",
-      "suggestion": "Няня-чаклунка",
+      "suggestion": "няня-чаклунка",
       "type": "Drawing Suggestion",
       "us": false
     },
     {
       "id": "41560",
       "isValid": "",
-      "suggestion": "Небезпечна професія",
+      "suggestion": "небезпечна професія",
       "type": "Drawing Suggestion",
       "us": false
     },
@@ -2593,14 +2593,14 @@
     {
       "id": "41564",
       "isValid": "",
-      "suggestion": "Уявний друг",
+      "suggestion": "уявний друг",
       "type": "Drawing Suggestion",
       "us": false
     },
     {
       "id": "41568",
       "isValid": "",
-      "suggestion": "Соло на гітарі",
+      "suggestion": "соло на гітарі",
       "type": "Drawing Suggestion",
       "us": false
     },
@@ -2621,14 +2621,14 @@
     {
       "id": "41573",
       "isValid": "",
-      "suggestion": "Темні часи",
+      "suggestion": "темні віки",
       "type": "Drawing Suggestion",
       "us": false
     },
     {
       "id": "41574",
       "isValid": "",
-      "suggestion": "Міське життя",
+      "suggestion": "міське життя",
       "type": "Drawing Suggestion",
       "us": false
     },
@@ -2642,21 +2642,21 @@
     {
       "id": "41580",
       "isValid": "",
-      "suggestion": "виставка своїх речей напоказ",
+      "suggestion": "речі з olx",
       "type": "Drawing Suggestion",
       "us": false
     },
     {
       "id": "41581",
       "isValid": "",
-      "suggestion": "Мистецтво і ремесла",
+      "suggestion": "мистецтво і ремесла",
       "type": "Drawing Suggestion",
       "us": false
     },
     {
       "id": "41585",
       "isValid": "",
-      "suggestion": "Байдикуваті дні",
+      "suggestion": "ліниві дні",
       "type": "Drawing Suggestion",
       "us": false
     },
@@ -2684,14 +2684,14 @@
     {
       "id": "41595",
       "isValid": "",
-      "suggestion": "Неймовірна суперсила",
+      "suggestion": "неймовірна суперсила",
       "type": "Drawing Suggestion",
       "us": false
     },
     {
       "id": "41596",
       "isValid": "",
-      "suggestion": "Штучний інтелект",
+      "suggestion": "штучний інтелект",
       "type": "Drawing Suggestion",
       "us": false
     }
