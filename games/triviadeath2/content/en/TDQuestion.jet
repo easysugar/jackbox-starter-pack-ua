@@ -2712,7 +2712,7 @@
       "id": "54151",
       "isValid": "",
       "pic": false,
-      "text": "Якою була ОСТАННЯ фраза у фільмі [i]«Сам удома[/i]»?",
+      "text": "Якою була ОСТАННЯ фраза у фільмі [i]«Сам удома»[/i]?",
       "us": true,
       "x": false
     },
@@ -2964,7 +2964,7 @@
       "id": "54173",
       "isValid": "",
       "pic": false,
-      "text": "Основний інгредієнт хумусу",
+      "text": "Який основний інгредієнт хумусу?",
       "us": false,
       "x": false
     },
@@ -3048,7 +3048,7 @@
       "id": "54182",
       "isValid": "",
       "pic": false,
-      "text": "Вулиці якого міста рожеві в українській адаптації [i]Монополії[/i]?",
+      "text": "Вулиці якого міста позначені рожевим кольором в українській версії [i]Монополії[/i]?",
       "us": true,
       "x": false
     },
@@ -5464,19 +5464,19 @@
       "choices": [
         {
           "correct": false,
-          "text": "Steinman"
+          "text": "9:50"
         },
         {
           "correct": true,
-          "text": "Steinway"
+          "text": "9:41"
         },
         {
           "correct": false,
-          "text": "Steingold"
+          "text": "9:49"
         },
         {
           "correct": false,
-          "text": "Steinfeld"
+          "text": "9:35"
         }
       ],
       "hasIntro": true,
@@ -5484,7 +5484,7 @@
       "id": "54394",
       "isValid": "",
       "pic": false,
-      "text": "Яка компанія займається виготовлення піаніно?",
+      "text": "Який час завжди показують годинники айфонів у рекламі?",
       "us": false,
       "x": false
     },
@@ -5540,7 +5540,7 @@
       "id": "54396",
       "isValid": "",
       "pic": false,
-      "text": "У якій з цих країн НЕ лівосторонній рух?",
+      "text": "У якій з цих країн правосторонній рух?",
       "us": false,
       "x": false
     },
@@ -5688,19 +5688,19 @@
       "choices": [
         {
           "correct": false,
-          "text": "молоко"
-        },
-        {
-          "correct": false,
-          "text": "газована вода"
-        },
-        {
-          "correct": true,
           "text": "яйце"
         },
         {
           "correct": false,
-          "text": "ароматизований сироп"
+          "text": "гірчиця"
+        },
+        {
+          "correct": true,
+          "text": "сметана"
+        },
+        {
+          "correct": false,
+          "text": "олія"
         }
       ],
       "hasIntro": false,
@@ -5708,7 +5708,7 @@
       "id": "54403",
       "isValid": "",
       "pic": false,
-      "text": "Що з наведеного НЕ міститься в яєчному кремі?",
+      "text": "Що з наведеного НЕ йде в класичний рецепт майонезу?",
       "us": false,
       "x": false
     },
@@ -6436,7 +6436,7 @@
       "id": "54453",
       "isValid": "",
       "pic": false,
-      "text": "Рік виходу Discord?",
+      "text": "Рік релізу Discord?",
       "us": true,
       "x": false
     },
@@ -7620,19 +7620,19 @@
       "choices": [
         {
           "correct": true,
-          "text": "графа Дракулу"
+          "text": "Helvetica Neue 75 Bold"
         },
         {
           "correct": false,
-          "text": "Франкенштейна"
+          "text": "Times New Roman Semi Bold"
         },
         {
           "correct": false,
-          "text": "перевертнів"
+          "text": "Futura PT Demi"
         },
         {
           "correct": false,
-          "text": "відьом"
+          "text": "Comic Sans Pro"
         }
       ],
       "hasIntro": false,
@@ -7640,7 +7640,7 @@
       "id": "54535",
       "isValid": "",
       "pic": false,
-      "text": "На кого полював голландський лікар Абрахам ван Хельсінг?",
+      "text": "Який шрифт використовується у настільній грі [i]Карти Конфлікту[/i]?",
       "us": false,
       "x": false
     },
@@ -7680,7 +7680,7 @@
         },
         {
           "correct": true,
-          "text": "[i]Франкенштайн[/i]"
+          "text": "[i]Франкенштейн[/i]"
         },
         {
           "correct": false,
@@ -8108,7 +8108,7 @@
         },
         {
           "correct": false,
-          "text": "примарний телефон"
+          "text": "залізно-нікелевий акумулятор"
         }
       ],
       "hasIntro": false,
@@ -8340,7 +8340,7 @@
       "id": "54568",
       "isValid": "",
       "pic": false,
-      "text": "Якого кольору потяг Персі в [i]Томас і друзі[/i]?",
+      "text": "Якого кольору потяг Персі у мультсеріалі [i]Томас і друзі[/i]?",
       "us": false,
       "x": false
     },
@@ -8460,19 +8460,19 @@
       "choices": [
         {
           "correct": false,
-          "text": "2"
+          "text": "з двох"
         },
         {
           "correct": true,
-          "text": "3"
+          "text": "з трьох"
         },
         {
           "correct": false,
-          "text": "4"
+          "text": "з чотирьох"
         },
         {
           "correct": false,
-          "text": "5"
+          "text": "з п'яти"
         }
       ],
       "hasIntro": true,
@@ -9096,7 +9096,7 @@
       "id": "54614",
       "isValid": "",
       "pic": false,
-      "text": "У пʼєсі [i]Ромео та Джульєта[/i] скільки років Джульєті?",
+      "text": "Скільки років Джульєті у пʼєсі [i]Ромео та Джульєта[/i]?",
       "us": false,
       "x": false
     },
@@ -10951,20 +10951,20 @@
     {
       "choices": [
         {
-          "correct": false,
-          "text": "Париж"
-        },
-        {
           "correct": true,
-          "text": "Амстердам"
+          "text": "Здрастуй, рідне село"
         },
         {
           "correct": false,
-          "text": "Торонто"
+          "text": "Яворина"
         },
         {
           "correct": false,
-          "text": "Берлін"
+          "text": "Випадкове знайомство"
+        },
+        {
+          "correct": false,
+          "text": "Золото Карпат"
         }
       ],
       "hasIntro": false,
@@ -10972,7 +10972,7 @@
       "id": "54741",
       "isValid": "",
       "pic": false,
-      "text": "Велосипедна столиця світу?",
+      "text": "Яку з цих пісень НЕ співає Степан Гіга?",
       "us": false,
       "x": false
     },
@@ -11056,7 +11056,7 @@
       "id": "54744",
       "isValid": "",
       "pic": false,
-      "text": "Де відбувається “Burning Man”?",
+      "text": "У якому штаті проходить фестиваль “Burning Man”?",
       "us": false,
       "x": false
     },
@@ -11708,19 +11708,19 @@
       "choices": [
         {
           "correct": false,
-          "text": "[i]Гарфілд[/i]"
+          "text": "[i]Nirvana[/i]"
         },
         {
           "correct": true,
-          "text": "[i]The Far Side[/i]"
+          "text": "[i]Metallica[/i]"
         },
         {
           "correct": false,
-          "text": "[i]Ненсі[/i]"
+          "text": "[i]Korn[/i]"
         },
         {
           "correct": false,
-          "text": "[i]Кельвін і Гоббс[/i]"
+          "text": "[i]Scorpions[/i]"
         }
       ],
       "hasIntro": false,
@@ -11728,7 +11728,7 @@
       "id": "54776",
       "isValid": "",
       "pic": false,
-      "text": "Який із цих коміксів зазвичай складається з однієї панелі?",
+      "text": "Який рок-гурт виступив на усіх континентах?",
       "us": true,
       "x": false
     },
@@ -12176,7 +12176,7 @@
       "id": "54800",
       "isValid": "",
       "pic": false,
-      "text": "Сузір’я Козерога також відоме як?",
+      "text": "Сузір’я Козерога також відоме як...",
       "us": false,
       "x": false
     },
@@ -12296,19 +12296,19 @@
       "choices": [
         {
           "correct": false,
-          "text": "Mariano’s"
+          "text": "[i]Вікно Овертона[/i]"
         },
         {
           "correct": false,
-          "text": "Jewel Osco"
+          "text": "[i]Бозон Гіґґса[/i]"
         },
         {
           "correct": false,
-          "text": "Kroger"
+          "text": "[i]Рубікон Цезаря[/i]"
         },
         {
           "correct": true,
-          "text": "Aldi"
+          "text": "[i]Лінія Маннергейма[/i]"
         }
       ],
       "hasIntro": false,
@@ -12316,7 +12316,7 @@
       "id": "54805",
       "isValid": "",
       "pic": false,
-      "text": "Який із цих магазинів був заснований в Німеччині?",
+      "text": "Який гурт, окрім [i]Жадан і Собаки[/i], заснував Сергій Жадан?",
       "us": true,
       "x": false
     },
@@ -12324,19 +12324,19 @@
       "choices": [
         {
           "correct": false,
-          "text": "Fantasyland"
+          "text": "закохатися"
         },
         {
           "correct": false,
-          "text": "Adventureland"
+          "text": "викрити когось на місці злочину"
         },
         {
           "correct": false,
-          "text": "Frontierland"
+          "text": "залишитися ні з чим"
         },
         {
           "correct": true,
-          "text": "New Orleans Square"
+          "text": "пліткувати"
         }
       ],
       "hasIntro": false,
@@ -12344,7 +12344,7 @@
       "id": "54809",
       "isValid": "",
       "pic": false,
-      "text": "Де б ви знайшли “Особняк з привидами” в оригінальному Діснейленді?",
+      "text": "Що означає вираз [i]вхопити на кутні[\\i]?",
       "us": true,
       "x": false
     },
@@ -12352,19 +12352,19 @@
       "choices": [
         {
           "correct": false,
-          "text": "Моріарті"
+          "text": "вовк"
         },
         {
           "correct": true,
-          "text": "Жавер"
+          "text": "ведмідь"
         },
         {
           "correct": false,
-          "text": "Фейгін"
+          "text": "бурундук"
         },
         {
           "correct": false,
-          "text": "Олаф"
+          "text": "вепр"
         }
       ],
       "hasIntro": false,
@@ -12372,7 +12372,7 @@
       "id": "54810",
       "isValid": "",
       "pic": false,
-      "text": "Хто переслідує Жана Вальжана в романі [i]Знедолені[/i]?",
+      "text": "Яку тварину вбиває Григорій Многогрішний, коли тікає до тайги, у романі [i]Тигролови[/i]?",
       "us": false,
       "x": false
     },
@@ -12436,19 +12436,19 @@
       "choices": [
         {
           "correct": true,
-          "text": "крайній шар кістки"
+          "text": "спина"
         },
         {
           "correct": false,
-          "text": "середній шар кістки"
+          "text": "живіт"
         },
         {
           "correct": false,
-          "text": "центр кістки"
+          "text": "бік"
         },
         {
           "correct": false,
-          "text": "волосся"
+          "text": "нога"
         }
       ],
       "hasIntro": true,
@@ -12456,7 +12456,7 @@
       "id": "54814",
       "isValid": "",
       "pic": false,
-      "text": "Що таке окістя?",
+      "text": "З якої частини свині береться полядвиця?",
       "us": false,
       "x": false
     },
@@ -12827,20 +12827,20 @@
     {
       "choices": [
         {
+          "correct": false,
+          "text": "252"
+        },
+        {
+          "correct": false,
+          "text": "292"
+        },
+        {
           "correct": true,
-          "text": "мед"
+          "text": "342"
         },
         {
           "correct": false,
-          "text": "рис"
-        },
-        {
-          "correct": false,
-          "text": "сухе молоко"
-        },
-        {
-          "correct": false,
-          "text": "насіння соняшника"
+          "text": "382"
         }
       ],
       "hasIntro": false,
@@ -12848,7 +12848,7 @@
       "id": "54834",
       "isValid": "",
       "pic": false,
-      "text": "Який продукт ніколи не псується і залишається їстівним до 3000 років?",
+      "text": "Скільки років проіснувало Кримське ханство?",
       "us": false,
       "x": false
     },
@@ -14572,7 +14572,7 @@
         },
         {
           "correct": false,
-          "text": "ряжанку"
+          "text": "ряжанка"
         },
         {
           "correct": true,
@@ -14604,7 +14604,7 @@
         },
         {
           "correct": false,
-          "text": "Рафаэль Бадзяг"
+          "text": "Рафаель Бадзяґ"
         }
       ],
       "hasIntro": false,
@@ -15572,19 +15572,19 @@
       "choices": [
         {
           "correct": false,
-          "text": "Голодний рол"
+          "text": "[i]O.Torvald[/i]"
         },
         {
           "correct": false,
-          "text": "Павук"
+          "text": "[i]Karna[/i]"
         },
         {
           "correct": false,
-          "text": "Тигр"
+          "text": "[i]Бумбокс[/i]"
         },
         {
           "correct": true,
-          "text": "Дракон"
+          "text": "[i]The Hardkiss[/i]"
         }
       ],
       "hasIntro": false,
@@ -15592,7 +15592,7 @@
       "id": "54988",
       "isValid": "",
       "pic": false,
-      "text": "Яка страва для суші традиційно містить вугор?",
+      "text": "Найкращий український рок-гурт 2022 року за версією премії «YUNA»",
       "us": false,
       "x": false
     },
@@ -15684,19 +15684,19 @@
       "choices": [
         {
           "correct": true,
-          "text": "лінгвіст"
+          "text": "[i]Стожари[/i]"
         },
         {
           "correct": false,
-          "text": "поет"
+          "text": "[i]Пісня буде поміж нас[/i]"
         },
         {
           "correct": false,
-          "text": "фізик"
+          "text": "[i]Водограй[/i]"
         },
         {
           "correct": false,
-          "text": "романіст"
+          "text": "[i]Балада про мальви[/i]"
         }
       ],
       "hasIntro": true,
@@ -15704,7 +15704,7 @@
       "id": "54993",
       "isValid": "",
       "pic": false,
-      "text": "Хто такий Ноам Чомскі?",
+      "text": "Яку з цих пісень написав НЕ Володимир Івасюк?",
       "us": false,
       "x": false
     },
@@ -16468,19 +16468,19 @@
       "choices": [
         {
           "correct": false,
-          "text": "кліщ"
+          "text": "Семен Гулак-Артемовський"
         },
         {
           "correct": true,
-          "text": "змія"
+          "text": "Микола Лисенко"
         },
         {
           "correct": false,
-          "text": "вовк"
+          "text": "Михайло Вербицький"
         },
         {
           "correct": false,
-          "text": "павук"
+          "text": "Микола Леонтович"
         }
       ],
       "hasIntro": false,
@@ -16488,7 +16488,7 @@
       "id": "55040",
       "isValid": "",
       "pic": false,
-      "text": "Яка тварина вважається найнебезпечнішою в Україні?",
+      "text": "Хто вважається засновником української національної опери?",
       "us": false,
       "x": false
     },
@@ -16684,7 +16684,7 @@
       "id": "55052",
       "isValid": "",
       "pic": false,
-      "text": "Найменш вживаною літерою української мови є?",
+      "text": "Найменш вживаною літерою української мови є...",
       "us": false,
       "x": false
     },
@@ -17060,7 +17060,7 @@
         },
         {
           "correct": false,
-          "text": "гуахаро"
+          "text": "кажан"
         },
         {
           "correct": false,
@@ -17840,19 +17840,19 @@
       "choices": [
         {
           "correct": false,
-          "text": "[i]Get Rich or Die Tryin’[/i]"
+          "text": "Луцьк"
         },
         {
           "correct": true,
-          "text": "[i]Hustle & Flow[/i]"
+          "text": "Львів"
         },
         {
           "correct": false,
-          "text": "[i]Dope[/i]"
+          "text": "Вінниця"
         },
         {
           "correct": false,
-          "text": "[i]A Star is Born[/i]"
+          "text": "Житомир"
         }
       ],
       "hasIntro": false,
@@ -17860,7 +17860,7 @@
       "id": "55115",
       "isValid": "",
       "pic": false,
-      "text": "В якому фільмі Терренс Говард та Тараджі Генсон намагаються почати музичну імперію?",
+      "text": "У якому місті можна знайти пам'ятник наплічнику?",
       "us": true,
       "x": false
     },
@@ -18064,19 +18064,19 @@
       "choices": [
         {
           "correct": false,
-          "text": "243,8 м"
+          "text": "Миколаївська"
         },
         {
           "correct": false,
-          "text": "2 896 м"
+          "text": "Запорізька"
         },
         {
           "correct": false,
-          "text": "12 874 м"
+          "text": "Закарпатська"
         },
         {
           "correct": true,
-          "text": "28 968 м"
+          "text": "Херсонська"
         }
       ],
       "hasIntro": false,
@@ -18084,7 +18084,7 @@
       "id": "55124",
       "isValid": "",
       "pic": false,
-      "text": "Яка ширина Великого каньйону в його найширшому місці?",
+      "text": "У якій області розташований заповідник Асканія-Нова?",
       "us": true,
       "x": false
     },
@@ -18123,15 +18123,15 @@
           "text": "Олена"
         },
         {
-          "correct": false,
-          "text": "Стефанія"
+          "correct": true,
+          "text": "Марина"
         },
         {
           "correct": false,
           "text": "Надія"
         },
         {
-          "correct": true,
+          "correct": false,
           "text": "Катерина"
         }
       ],
@@ -18140,7 +18140,7 @@
       "id": "55126",
       "isValid": "",
       "pic": false,
-      "text": "Як звати дружину Віктора Ющенка?",
+      "text": "Як звати дружину Петра Порошенка?",
       "us": true,
       "x": false
     },
@@ -20828,7 +20828,7 @@
       "id": "55516",
       "isValid": "",
       "pic": false,
-      "text": "Хто написав “Божественна комедія”?",
+      "text": "Хто написав “Божественну комедію”?",
       "us": false,
       "x": false
     },
@@ -20920,19 +20920,19 @@
       "choices": [
         {
           "correct": false,
-          "text": "під час повстання боксерів"
+          "text": "Іван Богун"
+        },
+        {
+          "correct": false,
+          "text": "Іван Виговський"
         },
         {
           "correct": true,
-          "text": "під час Першої світової війни"
+          "text": "Богдан Хмельницький"
         },
         {
           "correct": false,
-          "text": "під час Другої світової війни"
-        },
-        {
-          "correct": false,
-          "text": "у мирний час"
+          "text": "Максим Кривоніс"
         }
       ],
       "hasIntro": false,
@@ -20940,7 +20940,7 @@
       "id": "55523",
       "isValid": "",
       "pic": false,
-      "text": "Коли [i]Червоний Барон[/i] збивав літаки?",
+      "text": "Хто очолив національно-визвольну війну українського народу?",
       "us": false,
       "x": false
     },
@@ -21004,19 +21004,19 @@
       "choices": [
         {
           "correct": true,
-          "text": "вуха"
+          "text": "вух"
         },
         {
           "correct": false,
-          "text": "руки"
+          "text": "рук"
         },
         {
           "correct": false,
-          "text": "лоб"
+          "text": "носа"
         },
         {
           "correct": false,
-          "text": "серце"
+          "text": "серця"
         }
       ],
       "hasIntro": false,
@@ -21024,7 +21024,7 @@
       "id": "55530",
       "isValid": "",
       "pic": false,
-      "text": "Моєму дядькові Джефрі зробили отопластику, бо в нього гігантські <BLANK>",
+      "text": "Моєму дядькові Джефрі зробили отопластику через надмірний розмір <BLANK>",
       "us": false,
       "x": false
     },
@@ -21600,7 +21600,7 @@
         },
         {
           "correct": false,
-          "text": "Смородина Сильвестр Льюїс"
+          "text": "Куррант Сильвестр Льюїс"
         },
         {
           "correct": false,
@@ -21724,7 +21724,7 @@
       "id": "55580",
       "isValid": "",
       "pic": false,
-      "text": "В якому році Александер Грейам Белл запатентував телефон?",
+      "text": "В якому році Александер Грем Белл запатентував телефон?",
       "us": false,
       "x": false
     },
@@ -22772,7 +22772,7 @@
         },
         {
           "correct": false,
-          "text": "Саудівська Аравія"
+          "text": "Франція"
         },
         {
           "correct": false,
@@ -22780,7 +22780,7 @@
         },
         {
           "correct": false,
-          "text": "Росія"
+          "text": "Англія"
         }
       ],
       "hasIntro": false,
@@ -23824,7 +23824,7 @@
       "id": "55865",
       "isValid": "",
       "pic": false,
-      "text": "Якою є максимальна тривалість пісні, яка звучить як на Євробаченні, так і на майже будь-якій попсовій радіостанції?",
+      "text": "Якою є максимальна тривалість пісні, яка звучить що на Євробаченні, то і майже на будь-якій попсовій радіостанції?",
       "us": false,
       "x": false
     },
@@ -24923,20 +24923,20 @@
     {
       "choices": [
         {
-          "correct": false,
-          "text": "буйволи"
-        },
-        {
-          "correct": false,
-          "text": "газелі"
-        },
-        {
           "correct": true,
-          "text": "антилопи"
+          "text": "бикові"
         },
         {
           "correct": false,
-          "text": "бізони"
+          "text": "верблюдові"
+        },
+        {
+          "correct": false,
+          "text": "вилорогові"
+        },
+        {
+          "correct": false,
+          "text": "оленеві"
         }
       ],
       "hasIntro": false,
@@ -24944,7 +24944,7 @@
       "id": "56576",
       "isValid": "",
       "pic": false,
-      "text": "До якого сімейства ссавців належать антилопа гну?",
+      "text": "До якої родини ссавців належить козиця?",
       "us": false,
       "x": false
     },
@@ -25300,7 +25300,7 @@
         },
         {
           "correct": true,
-          "text": "мій осколок СКЛА"
+          "text": "мій СКЛЯНИЙ уламок"
         }
       ],
       "hasIntro": true,
@@ -25456,7 +25456,7 @@
       "choices": [
         {
           "correct": false,
-          "text": "Росія"
+          "text": "Китай"
         },
         {
           "correct": true,
@@ -25520,7 +25520,7 @@
         },
         {
           "correct": false,
-          "text": "біги"
+          "text": "змагання з бігу"
         },
         {
           "correct": false,

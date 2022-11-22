@@ -1123,39 +1123,51 @@
     {
       "answers": [
         {
-          "answer": "Q",
+          "answer": "називний",
           "alt": [
-            "Q tile"
+            "називний відмінок"
           ]
         },
         {
-          "answer": "Z",
+          "answer": "родовий",
           "alt": [
-            "Z tile"
+            "родовий відмінок"
           ]
         },
         {
-          "answer": "J",
+          "answer": "давальний",
           "alt": [
-            "J tile"
+            "давальний відмінок"
           ]
         },
         {
-          "answer": "X",
+          "answer": "знахідний",
           "alt": [
-            "X tile"
+            "знахідний відмінок"
           ]
         },
         {
-          "answer": "K",
+          "answer": "орудний",
           "alt": [
-            "K tile"
+            "орудний відмінок"
+          ]
+        },
+        {
+          "answer": "місцевий",
+          "alt": [
+            "місцевий відмінок"
+          ]
+        },
+        {
+          "answer": "кличний",
+          "alt": [
+            "кличний відмінок"
           ]
         }
       ],
       "id": "56053",
       "isValid": "",
-      "text": "one of the five highest point [i]Scrabble[/i] tile letters",
+      "text": "Відмінки української мови",
       "us": false,
       "x": false
     },
@@ -1524,69 +1536,66 @@
     {
       "answers": [
         {
-          "answer": "The Fast and the Furious",
+          "answer": "Форсаж",
           "alt": [
-            "Fast and the Furious",
-            "the fast and the furius",
-            "the fast and the fury",
-            "The Fast & The Furious"
+            "Форсаж 1",
+            "швидкі і люті",
+            "швидкий і лютий",
+            "Швидкі та Люті"
           ]
         },
         {
-          "answer": "2 Fast 2 Furious",
+          "answer": "Подвійний Форсаж",
           "alt": [
-            "Too Fast Too Furious",
-            "Two Fast Two Furious",
-            "to fast to furious",
-            "2 fast 2 furius",
-            "2F2F"
+            "Форсаж 2",
+            "Швидкі та Люті 2",
+            "швидкий і лютий 2"
           ]
         },
         {
-          "answer": "The Fast and the Furious: Tokyo Drift",
+          "answer": "Токійський дрифт",
           "alt": [
-            "Tokyo Drift",
-            "Fast and the Furious Tokyo Drift",
-            "Tokeyo Drift",
-            "The Fast and the Furious Toky Drift",
-            "The Fast & The Furious Tokyo Drift"
+            "Потрійний форсаж",
+            "Форсаж 3",
+            "Форсаж: Токійський дрифт",
+            "Швидкі та люті токійський дрифт",
+            "дрифт токіо",
+            "Форсаж Токійський дрифт"
           ]
         },
         {
-          "answer": "Fast & Furious",
+          "answer": "Форсаж 4",
           "alt": [
-            "Fast and Furious",
-            "Fast and Furius",
-            "Fast and Fury",
-            "Fast & Fury"
+            "Швидкий і лютий 4",
+            "Швидкі і люті 4"
           ]
         },
         {
-          "answer": "Fast Five",
+          "answer": "Форсаж 5",
           "alt": [
-            "Fast 5"
+            "Пограбування в Ріо",
+            "Форсаж 5: Пограбування в Ріо",
+            "Форсаж 5 Пограбування в Ріо",
+            "швидкі та люті 5 ріо"
           ]
         },
         {
-          "answer": "Fast & Furious 6",
+          "answer": "Форсаж 6",
           "alt": [
-            "Fast and Furious 6",
-            "Fast and Furious Six",
-            "Fast & Furious Six"
+            "швидкий та лютий 6",
+            "швидкі та люті 6"
           ]
         },
         {
-          "answer": "Furious 7",
+          "answer": "Форсаж 7",
           "alt": [
-            "Furious Seven",
-            "Fury Seven",
-            "Fury 7"
+            "Швидкі та люті 7"
           ]
         }
       ],
       "id": "57035",
       "isValid": "",
-      "text": "the title of one of the first seven [i]The Fast and the Furious[/i] movies",
+      "text": "назва одного з перших семи фільмів серії [i]Форсаж[/i]",
       "us": true,
       "x": false
     },
@@ -2310,76 +2319,37 @@
     {
       "answers": [
         {
-          "answer": "Trivia Murder Party 2",
+          "answer": "додавання",
           "alt": [
-            "TMP 2",
-            "Trivia Murder Party Two",
-            "TMP2",
-            "This Game",
-            "This One",
-            "Trivia Murder 2",
-            "Trivia Murder Two",
-            "Murder Party 2",
-            "Murder Party Two"
+            "додавати",
+            "додати"
           ]
         },
         {
-          "answer": "Role Models",
+          "answer": "множення",
           "alt": [
-            "Rolemodels",
-            "roll models",
-            "rollmodels",
-            "role model",
-            "roll model",
-            "rolemodel",
-            "Role Modles",
-            "Roll Modles",
-            "Role Modle",
-            "Roll Modle"
+            "множити",
+            "помножити"
           ]
         },
         {
-          "answer": "Joke Boat",
+          "answer": "віднімання",
           "alt": [
-            "Joke Bot",
-            "Boat Joke",
-            "JokeBoat",
-            "Joke Boats",
-            "Jokes Boat",
-            "Jokes Boats",
-            "Boat Jokes"
+            "віднімати",
+            "відняти"
           ]
         },
         {
-          "answer": "Dictionarium",
+          "answer": "ділення",
           "alt": [
-            "Dictionaryium",
-            "Dictionaryum",
-            "Dictionariyum",
-            "Dictionaryim",
-            "diction arium",
-            "diction-arium",
-            "diction*arium"
-          ]
-        },
-        {
-          "answer": "Push the Button",
-          "alt": [
-            "Push a Button",
-            "Push Button",
-            "Push the Buton",
-            "PTB",
-            "Push a Buton",
-            "Push Buton",
-            "Pushing the Button",
-            "Pushing Button",
-            "Push the Buttons"
+            "ділити",
+            "поділити"
           ]
         }
       ],
       "id": "57811",
       "isValid": "",
-      "text": "a game in [i]The Jackbox Party Pack 6[/i]",
+      "text": "одна з арифметичних дій",
       "us": false,
       "x": false
     },
