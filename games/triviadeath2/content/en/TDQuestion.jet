@@ -788,19 +788,19 @@
       "choices": [
         {
           "correct": false,
-          "text": "[i]Блокнот[/i]"
+          "text": "мусульмани"
         },
         {
           "correct": true,
-          "text": "[i]Грозовий перевал[/i]"
+          "text": "юдеї"
         },
         {
           "correct": false,
-          "text": "[i]Прогулянка на пам’ять[/i]"
+          "text": "буддисти"
         },
         {
           "correct": false,
-          "text": "[i]Дорогий Джон[/i]"
+          "text": "християни"
         }
       ],
       "hasIntro": false,
@@ -808,7 +808,7 @@
       "id": "54028",
       "isValid": "",
       "pic": false,
-      "text": "Єдиний роман, який був визнаний у всьому світі, як головна романтична книга усіх часів?",
+      "text": "Адепти якої релігії святкують Хануку?",
       "us": true,
       "x": false
     },
@@ -1628,19 +1628,19 @@
       "choices": [
         {
           "correct": true,
-          "text": "[i]Бабадук[/i]"
+          "text": "характерники"
         },
         {
           "correct": false,
-          "text": "[i]Щось[/i]"
+          "text": "реєстрові козаки"
         },
         {
           "correct": false,
-          "text": "[i]БайБайМен[/i]"
+          "text": "русини"
         },
         {
           "correct": false,
-          "text": "[i]Воно[/i]"
+          "text": "мольфари"
         }
       ],
       "hasIntro": false,
@@ -1648,7 +1648,7 @@
       "id": "54084",
       "isValid": "",
       "pic": false,
-      "text": "В якому із цих фільмів монстр нікого НЕ вбиває?",
+      "text": "Як, за усними розповідями, називали козаків, які нібито мали чарівні сили?",
       "us": true,
       "x": false
     },
@@ -3252,19 +3252,19 @@
       "choices": [
         {
           "correct": false,
-          "text": "Katy Perry"
+          "text": "Німеччина"
         },
         {
           "correct": true,
-          "text": "Madonna"
+          "text": "Ізраїль"
         },
         {
           "correct": false,
-          "text": "Shania Twain"
+          "text": "США"
         },
         {
           "correct": false,
-          "text": "Janet Jackson"
+          "text": "Франція"
         }
       ],
       "hasIntro": false,
@@ -3272,7 +3272,7 @@
       "id": "54203",
       "isValid": "",
       "pic": false,
-      "text": "Кого вважають королевою поп-музики?",
+      "text": "Президентом якої країни пропонували стати Айнштайну?",
       "us": true,
       "x": false
     },
@@ -3448,19 +3448,19 @@
       "choices": [
         {
           "correct": false,
-          "text": "Пікачу"
+          "text": "1000 °C"
         },
         {
           "correct": false,
-          "text": "Супермен"
+          "text": "250 °C"
         },
         {
           "correct": false,
-          "text": "Сонік"
+          "text": "110 °C"
         },
         {
           "correct": true,
-          "text": "Маріо"
+          "text": "60 °C"
         }
       ],
       "hasIntro": false,
@@ -3468,7 +3468,7 @@
       "id": "54218",
       "isValid": "",
       "pic": false,
-      "text": "Хто є найвідомішим персонажем відеоігор усіх часів?",
+      "text": "До якої температури нагріваються продукти в процесі пастеризації?",
       "us": false,
       "x": false
     },
@@ -3812,19 +3812,19 @@
       "choices": [
         {
           "correct": false,
-          "text": "гібрид білої м’яти та яблучної м’яти"
+          "text": "гори"
         },
         {
           "correct": false,
-          "text": "гібрид зеленої м’яти та кучерявої м’яти"
+          "text": "озера"
         },
         {
           "correct": false,
-          "text": "гібрид імбирної м’яти та шотландської м’яти"
+          "text": "ріки"
         },
         {
           "correct": true,
-          "text": "гібрид кучерявої м’яти та водяної м’яти"
+          "text": "острови"
         }
       ],
       "hasIntro": false,
@@ -3832,7 +3832,7 @@
       "id": "54243",
       "isValid": "",
       "pic": false,
-      "text": "Що таке перцева м’ята?",
+      "text": "Групу чого можна назвати архіпелагом?",
       "us": false,
       "x": false
     },
@@ -4988,19 +4988,19 @@
       "choices": [
         {
           "correct": false,
-          "text": "гольф"
+          "text": "США"
         },
         {
           "correct": false,
-          "text": "теніс"
+          "text": "Велика Британія"
         },
         {
           "correct": false,
-          "text": "карате"
+          "text": "Швейцарія"
         },
         {
           "correct": true,
-          "text": "сумо"
+          "text": "Данія"
         }
       ],
       "hasIntro": false,
@@ -5008,7 +5008,7 @@
       "id": "54369",
       "isValid": "",
       "pic": false,
-      "text": "Який національний вид спорту Японії?",
+      "text": "Яка країна є батьківщиною конструктора LEGO?",
       "us": true,
       "x": false
     },
@@ -5604,19 +5604,19 @@
       "choices": [
         {
           "correct": false,
-          "text": "підвісний міст"
+          "text": "Середземне"
         },
         {
           "correct": false,
-          "text": "арковий міст"
+          "text": "Адріатичне"
         },
         {
           "correct": true,
-          "text": "коробчатий балковий міст"
+          "text": "Чорне"
         },
         {
           "correct": false,
-          "text": "бруківка"
+          "text": "Балтійське"
         }
       ],
       "hasIntro": false,
@@ -5624,7 +5624,7 @@
       "id": "54400",
       "isValid": "",
       "pic": false,
-      "text": "До якого типу мосту відноситься нинішній Лондонський міст?",
+      "text": "В яке море впадає Дунай?",
       "us": false,
       "x": false
     },
@@ -6436,7 +6436,7 @@
       "id": "54453",
       "isValid": "",
       "pic": false,
-      "text": "Рік релізу Discord?",
+      "text": "У якому році з'явився Discord?",
       "us": true,
       "x": false
     },
@@ -8404,19 +8404,19 @@
       "choices": [
         {
           "correct": true,
-          "text": "AB Rh-"
+          "text": "AB Rh- (4-)"
         },
         {
           "correct": false,
-          "text": "AB Rh+"
+          "text": "AB Rh+ (4+)"
         },
         {
           "correct": false,
-          "text": "A"
+          "text": "A (2+)"
         },
         {
           "correct": false,
-          "text": "O"
+          "text": "O (1-)"
         }
       ],
       "hasIntro": true,
@@ -8508,7 +8508,7 @@
       "id": "54580",
       "isValid": "",
       "pic": false,
-      "text": "Найстаріший замок України?",
+      "text": "Який з цих замків найстаріший в Україні?",
       "us": true,
       "x": false
     },
@@ -8600,19 +8600,19 @@
       "choices": [
         {
           "correct": false,
-          "text": "[i]Mario Kart DS[/i]"
+          "text": "електро"
         },
         {
           "correct": true,
-          "text": "[i]Mario Tennis[/i]"
+          "text": "протон"
         },
         {
           "correct": false,
-          "text": "[i]Super Mario Land 2: 6 Golden Coins[/i]"
+          "text": "нейтрон"
         },
         {
           "correct": false,
-          "text": "[i]Mario Hoops 3-On-3[/i]"
+          "text": "фотон"
         }
       ],
       "hasIntro": false,
@@ -8620,7 +8620,7 @@
       "id": "54589",
       "isValid": "",
       "pic": false,
-      "text": "У якій грі вперше з’являється Валуїджі?",
+      "text": "Яка частинка має позитивний заряд?",
       "us": false,
       "x": false
     },
@@ -9244,19 +9244,19 @@
       "choices": [
         {
           "correct": false,
-          "text": "Китай"
+          "text": "Kr"
         },
         {
           "correct": false,
-          "text": "Корея"
+          "text": "Rn"
         },
         {
           "correct": true,
-          "text": "Японія"
+          "text": "Hg"
         },
         {
           "correct": false,
-          "text": "Бангладеш"
+          "text": "Bh"
         }
       ],
       "hasIntro": false,
@@ -9264,7 +9264,7 @@
       "id": "54629",
       "isValid": "",
       "pic": false,
-      "text": "У якій країні уперше були приготовані cуші?",
+      "text": "Як в таблиці Менделєєва позначається ртуть?",
       "us": true,
       "x": false
     },
@@ -15284,7 +15284,7 @@
       "id": "54973",
       "isValid": "",
       "pic": false,
-      "text": "Який Кріс був Тором?",
+      "text": "Який Кріс зіграв Тора?",
       "us": false,
       "x": false
     },
@@ -24048,7 +24048,7 @@
       "id": "56011",
       "isValid": "",
       "pic": false,
-      "text": "Батьківщина сіамських кішок - це ...",
+      "text": "Яка батьківщина сіамських кішок?",
       "us": false,
       "x": false
     },
