@@ -8404,19 +8404,19 @@
       "choices": [
         {
           "correct": true,
-          "text": "AB Rh- (4-)"
+          "text": "4-"
         },
         {
           "correct": false,
-          "text": "AB Rh+ (4+)"
+          "text": "4+"
         },
         {
           "correct": false,
-          "text": "A (2+)"
+          "text": "2+"
         },
         {
           "correct": false,
-          "text": "O (1-)"
+          "text": "1-"
         }
       ],
       "hasIntro": true,
@@ -17924,19 +17924,19 @@
       "choices": [
         {
           "correct": false,
-          "text": "32"
-        },
-        {
-          "correct": false,
-          "text": "48"
-        },
-        {
-          "correct": false,
-          "text": "82"
+          "text": "20"
         },
         {
           "correct": true,
-          "text": "144"
+          "text": "44"
+        },
+        {
+          "correct": false,
+          "text": "64"
+        },
+        {
+          "correct": false,
+          "text": "88"
         }
       ],
       "hasIntro": false,
@@ -17944,7 +17944,7 @@
       "id": "55119",
       "isValid": "",
       "pic": false,
-      "text": "Скільки разів повторюється фраза [i]Around the world[/i] у пісні Daft Punk?",
+      "text": "Скільки разів повторюється [i]Пес Патрон[/i] у пісні [i]Пес Патрон[/i]?",
       "us": false,
       "x": false
     },
@@ -23020,19 +23020,19 @@
       "choices": [
         {
           "correct": false,
-          "text": "Папа Римський"
+          "text": "дев’яноста п’яти"
         },
         {
           "correct": false,
-          "text": "король іншої країни"
+          "text": "сімомастами сорока вісьмома"
         },
         {
           "correct": false,
-          "text": "канцлер"
+          "text": "(на) п’ятистах вісімдесяти трьох"
         },
         {
           "correct": true,
-          "text": "принц/князь"
+          "text": "двомастами тридцятьма чотирьма"
         }
       ],
       "hasIntro": false,
@@ -23040,7 +23040,7 @@
       "id": "55663",
       "isValid": "",
       "pic": false,
-      "text": "Хто керує князівством?",
+      "text": "Який числівник має НЕПРАВИЛЬНУ форму?",
       "us": false,
       "x": false
     },
@@ -23448,7 +23448,7 @@
         },
         {
           "correct": false,
-          "text": "чау-мейн"
+          "text": "деруни"
         },
         {
           "correct": false,
@@ -23636,19 +23636,19 @@
       "choices": [
         {
           "correct": false,
-          "text": "хірург"
+          "text": "шовкове весілля"
         },
         {
           "correct": false,
-          "text": "м’ясник"
+          "text": "дубове весілля"
         },
         {
           "correct": false,
-          "text": "футбольний тренер"
+          "text": "платинове весілля"
         },
         {
           "correct": true,
-          "text": "домашній майстер"
+          "text": "золоте весілля"
         }
       ],
       "hasIntro": false,
@@ -23656,7 +23656,7 @@
       "id": "55754",
       "isValid": "",
       "pic": false,
-      "text": "Хто використовує кісткову папку (Bone folder)?",
+      "text": "Як в народі називають 50-ту річницю весілля?",
       "us": false,
       "x": false
     },
@@ -23664,19 +23664,19 @@
       "choices": [
         {
           "correct": false,
-          "text": "коричневого"
+          "text": "Монако"
         },
         {
           "correct": true,
-          "text": "жовтого"
+          "text": "Андорра"
         },
         {
           "correct": false,
-          "text": "сливового фіолетового"
+          "text": "Італія"
         },
         {
           "correct": false,
-          "text": "зеленого"
+          "text": "Боснія"
         }
       ],
       "hasIntro": false,
@@ -23684,7 +23684,7 @@
       "id": "55794",
       "isValid": "",
       "pic": false,
-      "text": "Якого кольору листя моїх прекрасних берізок, коли їх кружляє осінній вітерець?",
+      "text": "Яка країна знаходиться між Францією та Іспанією?",
       "us": false,
       "x": false
     },
@@ -24056,19 +24056,19 @@
       "choices": [
         {
           "correct": false,
-          "text": "другим"
+          "text": "Корея"
         },
         {
           "correct": false,
-          "text": "старшим"
+          "text": "Таїланд"
         },
         {
           "correct": false,
-          "text": "сімнадцятим"
+          "text": "Індонезія"
         },
         {
           "correct": true,
-          "text": "молодшим"
+          "text": "В'єтнам"
         }
       ],
       "hasIntro": false,
@@ -24076,7 +24076,7 @@
       "id": "56018",
       "isValid": "",
       "pic": false,
-      "text": "Яким за рахунком сином був Зевс?",
+      "text": "Грошовою одиницею якої країни є донг?",
       "us": false,
       "x": false
     },
@@ -24784,19 +24784,19 @@
       "choices": [
         {
           "correct": false,
-          "text": "Шанхай"
+          "text": "Око, Круть, Тур"
         },
         {
           "correct": true,
-          "text": "Атланта"
+          "text": "Грай, Око, Тур"
         },
         {
           "correct": false,
-          "text": "Лондон"
+          "text": "Чуб, Тур, Грай"
         },
         {
           "correct": false,
-          "text": "Токіо"
+          "text": "Хмара, Око, Грай"
         }
       ],
       "hasIntro": false,
@@ -24804,7 +24804,7 @@
       "id": "56478",
       "isValid": "",
       "pic": false,
-      "text": "Аеропорт якого міста утримує статус найзавантаженішого?",
+      "text": "Як звуть козаків із циклу мультфільмів [i]Як козаки...[/i]?",
       "us": false,
       "x": false
     },
@@ -24896,19 +24896,19 @@
       "choices": [
         {
           "correct": false,
-          "text": "Верука, Август, Вайолет, Майк"
+          "text": "текіла"
         },
         {
           "correct": true,
-          "text": "Август, Вайолет, Верука, Майк"
+          "text": "абсент"
         },
         {
           "correct": false,
-          "text": "Майк, Верука, Вайолет, Август"
+          "text": "чача"
         },
         {
           "correct": false,
-          "text": "Август, Верука, Вайолет, Майк"
+          "text": "джин"
         }
       ],
       "hasIntro": false,
@@ -24916,7 +24916,7 @@
       "id": "56573",
       "isValid": "",
       "pic": false,
-      "text": "У якому порядку діти Віллі Вонки були вигнані з екскурсії шоколадною фабрикою?",
+      "text": "Який з цих напоїі готують з полину?",
       "us": true,
       "x": false
     },
@@ -25148,19 +25148,19 @@
       "choices": [
         {
           "correct": false,
-          "text": "ячменю"
+          "text": "вітольє"
         },
         {
           "correct": true,
-          "text": "кукурудзи"
+          "text": "сомельє"
         },
         {
           "correct": false,
-          "text": "жита"
+          "text": "постижер"
         },
         {
           "correct": false,
-          "text": "рису"
+          "text": "торседор"
         }
       ],
       "hasIntro": false,
@@ -25168,7 +25168,7 @@
       "id": "56618",
       "isValid": "",
       "pic": false,
-      "text": "Щоб легально продавати як бурбон, пюре віскі має містити принаймні 51% якого зерна?",
+      "text": "Як зветься фахівець, який розбирається у винах?",
       "us": true,
       "x": false
     },
@@ -25344,19 +25344,19 @@
       "choices": [
         {
           "correct": true,
-          "text": "дме у свисток"
+          "text": "маса товару з пакуванням"
         },
         {
           "correct": false,
-          "text": "тримає наручники"
+          "text": "маса товару з урахуванням втрат"
         },
         {
           "correct": false,
-          "text": "виписує штраф"
+          "text": "маса товару з урахуванням домішок"
         },
         {
           "correct": false,
-          "text": "цілиться пістолетом"
+          "text": "маса товару без пакування"
         }
       ],
       "hasIntro": false,
@@ -25364,7 +25364,7 @@
       "id": "56634",
       "isValid": "",
       "pic": false,
-      "text": "Що робить поліцейський у полі “GO TO JAIL” на дошці [i]Monopoly[/i]?",
+      "text": "Що таке брутто?",
       "us": true,
       "x": false
     },

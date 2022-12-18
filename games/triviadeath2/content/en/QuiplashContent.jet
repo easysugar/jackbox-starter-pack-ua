@@ -391,7 +391,7 @@
       "id": "56058",
       "includesPlayerName": false,
       "isValid": "",
-      "prompt": "[EventName=HOST/AltHost]Найкраще алібі під час розслідування вбивства в закритому приміщенні",
+      "prompt": "[EventName=HOST/AltHost]Найкраще алібі, яке можна видати під час гри у \"Мафію\"",
       "safetyQuips": [],
       "us": false,
       "x": false
