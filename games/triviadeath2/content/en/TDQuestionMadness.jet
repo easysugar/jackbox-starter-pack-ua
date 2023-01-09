@@ -116,19 +116,19 @@
       "choices": [
         {
           "correct": false,
-          "text": "Skofka"
+          "text": "Мішель Андранде"
         },
         {
           "correct": true,
-          "text": "Kolaba"
+          "text": "Врємя і Стекло"
         },
         {
           "correct": false,
-          "text": "Probass & Hardi"
+          "text": "Без Обмежень"
         },
         {
           "correct": false,
-          "text": "MamaRika"
+          "text": "Фіолет"
         }
       ],
       "hasIntro": false,
@@ -136,7 +136,7 @@
       "id": "55726",
       "isValid": "",
       "pic": false,
-      "text": "[EventName=HOST/AltHost]Хто співав «Шо Ви Пацики На Моциках»?",
+      "text": "[EventName=HOST/AltHost]Хто виконував пісню \"Дим\"?",
       "us": false,
       "x": false
     },

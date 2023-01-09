@@ -1,0 +1,45 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio",
+      "s": "[EventName=HOST/AltHost][EventName=HOST/AltHost]Єдине місце, куди можна повісити одну з тих моторошних картин із отворами для очей, крізь які можна спостерігати"
+    },
+    {
+      "t": "S",
+      "v": "[EventName=HOST/AltHost][EventName=HOST/AltHost]Єдине місце, куди можна повісити одну з тих моторошних картин із отворами для очей, крізь які можна спостерігати",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SafetyQuips"
+    }
+  ]
+}

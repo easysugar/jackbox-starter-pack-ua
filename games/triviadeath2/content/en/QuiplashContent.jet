@@ -472,7 +472,7 @@
       "id": "56126",
       "includesPlayerName": false,
       "isValid": "",
-      "prompt": "[EventName=HOST/AltHost]Скажене завдання, яке я вам задам під час гри в Жартлист, мабуть?",
+      "prompt": "[EventName=HOST/AltHost]Може, скажене завдання, яке я вам задам під час гри в Жартлист?",
       "safetyQuips": [],
       "us": false,
       "x": false

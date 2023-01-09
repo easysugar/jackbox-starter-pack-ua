@@ -1,0 +1,45 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio",
+      "s": "[EventName=HOST/AltHost][EventName=HOST/AltHost]Найкращий напій, щоб випити його з келиха, зробленого з людського черепа\n"
+    },
+    {
+      "t": "S",
+      "v": "[EventName=HOST/AltHost][EventName=HOST/AltHost]Найкращий напій, щоб випити його з келиха, зробленого з людського черепа\n",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SafetyQuips"
+    }
+  ]
+}
