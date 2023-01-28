@@ -29,11 +29,11 @@
       "t": "A",
       "v": "prompt",
       "n": "PromptAudio",
-      "s": "[EventName=HOST/AltHost][EventName=HOST/AltHost]Як кажуть у пісні: «Все, що тебе не вбиває, робить тебе <BLANK>.»"
+      "s": "[EventName=HOST/AltHost][EventName=HOST/AltHost]Як кажуть у пісні: \"Він ніжно вбиває мене своїм <BLANK>.\""
     },
     {
       "t": "S",
-      "v": "[EventName=HOST/AltHost][EventName=HOST/AltHost]Як кажуть у пісні: «Все, що тебе не вбиває, робить тебе <BLANK>.»",
+      "v": "[EventName=HOST/AltHost][EventName=HOST/AltHost]Як кажуть у пісні: \"Він ніжно вбиває мене своїм <BLANK>.\"",
       "n": "PromptText"
     },
     {

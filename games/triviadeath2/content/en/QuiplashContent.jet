@@ -247,7 +247,7 @@
       "id": "55941",
       "includesPlayerName": false,
       "isValid": "",
-      "prompt": "[EventName=HOST/AltHost]На крайняк це завжди можна вдіти як взуття",
+      "prompt": "[EventName=HOST/AltHost]На крайній випадок це можна ще й носити як взуття",
       "safetyQuips": [],
       "us": false,
       "x": false
@@ -472,7 +472,7 @@
       "id": "56126",
       "includesPlayerName": false,
       "isValid": "",
-      "prompt": "[EventName=HOST/AltHost]Може, скажене завдання, яке я вам задам під час гри в Жартлист?",
+      "prompt": "[EventName=HOST/AltHost]Дивацьке завдання, яке можуть задати під час гри в Жартлист, наприклад?",
       "safetyQuips": [],
       "us": false,
       "x": false
@@ -733,7 +733,7 @@
       "id": "56554",
       "includesPlayerName": false,
       "isValid": "",
-      "prompt": "[EventName=HOST/AltHost]Як кажуть у пісні: «Все, що тебе не вбиває, робить тебе <BLANK>.»",
+      "prompt": "[EventName=HOST/AltHost]Як кажуть у пісні: \"Він ніжно вбиває мене своїм <BLANK>.\"",
       "safetyQuips": [],
       "us": false,
       "x": false

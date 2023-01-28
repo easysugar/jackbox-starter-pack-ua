@@ -120,15 +120,15 @@
         },
         {
           "correct": true,
-          "text": "Врємя і Стекло"
+          "text": "Христина Соловій"
         },
         {
           "correct": false,
-          "text": "Без Обмежень"
+          "text": "Надія Дорофєєва"
         },
         {
           "correct": false,
-          "text": "Фіолет"
+          "text": "Настя Каменських"
         }
       ],
       "hasIntro": false,
@@ -136,7 +136,7 @@
       "id": "55726",
       "isValid": "",
       "pic": false,
-      "text": "[EventName=HOST/AltHost]Хто виконував пісню \"Дим\"?",
+      "text": "[EventName=HOST/AltHost]Хто виконував пісню \"Хто, як не ти\"?",
       "us": false,
       "x": false
     },

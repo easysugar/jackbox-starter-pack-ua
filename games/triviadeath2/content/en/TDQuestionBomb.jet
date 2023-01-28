@@ -163,22 +163,22 @@
     {
       "choices": [
         {
-          "controllerClass": "black",
+          "controllerClass": "red",
           "correct": true,
           "text": "червоний"
         },
         {
-          "controllerClass": "green",
+          "controllerClass": "black",
           "correct": false,
           "text": "чорний"
         },
         {
-          "controllerClass": "red",
+          "controllerClass": "green",
           "correct": false,
           "text": "зелений"
         },
         {
-          "controllerClass": "blue",
+          "controllerClass": "purple",
           "correct": false,
           "text": "фіолетовий"
         }
@@ -264,12 +264,12 @@
           "text": "червоний"
         },
         {
-          "controllerClass": "green",
+          "controllerClass": "yellow",
           "correct": false,
           "text": "жовтий"
         },
         {
-          "controllerClass": "yellow",
+          "controllerClass": "green",
           "correct": true,
           "text": "зелений"
         },
