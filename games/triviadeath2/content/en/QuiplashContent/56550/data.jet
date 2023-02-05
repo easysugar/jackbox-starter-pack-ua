@@ -29,11 +29,11 @@
       "t": "A",
       "v": "prompt",
       "n": "PromptAudio",
-      "s": "[EventName=HOST/AltHost][EventName=HOST/AltHost]Найсексуальніший проєкт декоративно-прикладного мистецтва, який привид і людина можуть завершити разом"
+      "s": "[EventName=HOST/AltHost][EventName=HOST/AltHost]Sexiest arts and crafts project for a ghost and a human to complete together"
     },
     {
       "t": "S",
-      "v": "[EventName=HOST/AltHost][EventName=HOST/AltHost]Найсексуальніший проєкт декоративно-прикладного мистецтва, який привид і людина можуть завершити разом",
+      "v": "[EventName=HOST/AltHost][EventName=HOST/AltHost]Sexiest arts and crafts project for a ghost and a human to complete together",
       "n": "PromptText"
     },
     {

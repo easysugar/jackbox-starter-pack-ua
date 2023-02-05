@@ -29,11 +29,11 @@
       "t": "A",
       "v": "prompt",
       "n": "PromptAudio",
-      "s": "[EventName=HOST/AltHost][EventName=HOST/AltHost]Що МАВ БИ сказати ворон у тому вірші Едгара Аллена По?\n"
+      "s": "[EventName=HOST/AltHost][EventName=HOST/AltHost]What the raven in that Edgar Allen Poe poem SHOULD have said\n"
     },
     {
       "t": "S",
-      "v": "[EventName=HOST/AltHost][EventName=HOST/AltHost]Що МАВ БИ сказати ворон у тому вірші Едгара Аллена По?\n",
+      "v": "[EventName=HOST/AltHost][EventName=HOST/AltHost]What the raven in that Edgar Allen Poe poem SHOULD have said\n",
       "n": "PromptText"
     },
     {

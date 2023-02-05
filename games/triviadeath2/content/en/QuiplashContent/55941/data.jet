@@ -29,11 +29,11 @@
       "t": "A",
       "v": "prompt",
       "n": "PromptAudio",
-      "s": "[EventName=HOST/AltHost][EventName=HOST/AltHost]На крайній випадок це можна ще й носити як взуття"
+      "s": "[EventName=HOST/AltHost][EventName=HOST/AltHost]Принаймні це можна носити як взуття"
     },
     {
       "t": "S",
-      "v": "[EventName=HOST/AltHost][EventName=HOST/AltHost]На крайній випадок це можна ще й носити як взуття",
+      "v": "[EventName=HOST/AltHost][EventName=HOST/AltHost]Принаймні це можна носити як взуття",
       "n": "PromptText"
     },
     {

@@ -29,11 +29,11 @@
       "t": "A",
       "v": "prompt",
       "n": "PromptAudio",
-      "s": "[EventName=HOST/AltHost][EventName=HOST/AltHost]Як кажуть у пісні: \"Він ніжно вбиває мене своїм <BLANK>.\""
+      "s": "[EventName=HOST/AltHost][EventName=HOST/AltHost]Як кажуть у пісні: «Віддай мені <BLANK>, своїми руками»"
     },
     {
       "t": "S",
-      "v": "[EventName=HOST/AltHost][EventName=HOST/AltHost]Як кажуть у пісні: \"Він ніжно вбиває мене своїм <BLANK>.\"",
+      "v": "[EventName=HOST/AltHost][EventName=HOST/AltHost]Як кажуть у пісні: «Віддай мені <BLANK>, своїми руками»",
       "n": "PromptText"
     },
     {

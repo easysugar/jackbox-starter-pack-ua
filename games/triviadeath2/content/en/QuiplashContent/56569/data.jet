@@ -29,11 +29,11 @@
       "t": "A",
       "v": "prompt",
       "n": "PromptAudio",
-      "s": "[EventName=HOST/AltHost][EventName=HOST/AltHost]Ваш дуже недооцінений дотеп у Жартлисті"
+      "s": "[EventName=HOST/AltHost][EventName=HOST/AltHost]Ваш дуже недооцінений дотеп у Сміхрясь"
     },
     {
       "t": "S",
-      "v": "[EventName=HOST/AltHost][EventName=HOST/AltHost]Ваш дуже недооцінений дотеп у Жартлисті",
+      "v": "[EventName=HOST/AltHost][EventName=HOST/AltHost]Ваш дуже недооцінений дотеп у Сміхрясь",
       "n": "PromptText"
     },
     {

@@ -29,11 +29,11 @@
       "t": "A",
       "v": "prompt",
       "n": "PromptAudio",
-      "s": "[EventName=HOST/AltHost][EventName=HOST/AltHost]Вони зафарбували це на Сикстинській капелі, тому що це було надто моторошно"
+      "s": "[EventName=HOST/AltHost][EventName=HOST/AltHost]They painted over this on the Sistine Chapel because it was too spooky"
     },
     {
       "t": "S",
-      "v": "[EventName=HOST/AltHost][EventName=HOST/AltHost]Вони зафарбували це на Сикстинській капелі, тому що це було надто моторошно",
+      "v": "[EventName=HOST/AltHost][EventName=HOST/AltHost]They painted over this on the Sistine Chapel because it was too spooky",
       "n": "PromptText"
     },
     {

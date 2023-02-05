@@ -431,7 +431,7 @@
         {
           "controllerClass": "blue",
           "correct": true,
-          "text": "блакитний"
+          "text": "синій"
         },
         {
           "controllerClass": "green",

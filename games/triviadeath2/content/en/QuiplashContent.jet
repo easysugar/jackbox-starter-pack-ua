@@ -175,7 +175,7 @@
       "id": "55926",
       "includesPlayerName": false,
       "isValid": "",
-      "prompt": "[EventName=HOST/AltHost]Найкраща назва автомобілів для агрономів",
+      "prompt": "[EventName=HOST/AltHost]Найкраща назва для українського безпілотника",
       "safetyQuips": [],
       "us": false,
       "x": false
@@ -247,7 +247,7 @@
       "id": "55941",
       "includesPlayerName": false,
       "isValid": "",
-      "prompt": "[EventName=HOST/AltHost]На крайній випадок це можна ще й носити як взуття",
+      "prompt": "[EventName=HOST/AltHost]Принаймні це можна носити як взуття",
       "safetyQuips": [],
       "us": false,
       "x": false
@@ -319,7 +319,7 @@
       "id": "56025",
       "includesPlayerName": false,
       "isValid": "",
-      "prompt": "[EventName=HOST/AltHost]Вони зафарбували це на Сикстинській капелі, тому що це було надто моторошно",
+      "prompt": "[EventName=HOST/AltHost]They painted over this on the Sistine Chapel because it was too spooky",
       "safetyQuips": [],
       "us": false,
       "x": false
@@ -472,7 +472,7 @@
       "id": "56126",
       "includesPlayerName": false,
       "isValid": "",
-      "prompt": "[EventName=HOST/AltHost]Дивацьке завдання, яке можуть задати під час гри в Жартлист, наприклад?",
+      "prompt": "[EventName=HOST/AltHost]Дивацьке завдання, яке можуть задати під час гри в Сміхрясь, наприклад?",
       "safetyQuips": [],
       "us": false,
       "x": false
@@ -508,7 +508,7 @@
       "id": "56523",
       "includesPlayerName": false,
       "isValid": "",
-      "prompt": "[EventName=HOST/AltHost]Що МАВ БИ сказати ворон у тому вірші Едгара Аллена По?\n",
+      "prompt": "[EventName=HOST/AltHost]What the raven in that Edgar Allen Poe poem SHOULD have said\n",
       "safetyQuips": [],
       "us": false,
       "x": false
@@ -697,7 +697,7 @@
       "id": "56550",
       "includesPlayerName": false,
       "isValid": "",
-      "prompt": "[EventName=HOST/AltHost]Найсексуальніший проєкт декоративно-прикладного мистецтва, який привид і людина можуть завершити разом",
+      "prompt": "[EventName=HOST/AltHost]Sexiest arts and crafts project for a ghost and a human to complete together",
       "safetyQuips": [],
       "us": false,
       "x": false
@@ -715,7 +715,7 @@
       "id": "56552",
       "includesPlayerName": false,
       "isValid": "",
-      "prompt": "[EventName=HOST/AltHost]Якби ти реінкарнував у ЦЕ, ти зрозумів, що тебе точно карають",
+      "prompt": "[EventName=HOST/AltHost]If you reincarnated into this, you’d know you were being punished",
       "safetyQuips": [],
       "us": false,
       "x": false
@@ -733,7 +733,7 @@
       "id": "56554",
       "includesPlayerName": false,
       "isValid": "",
-      "prompt": "[EventName=HOST/AltHost]Як кажуть у пісні: \"Він ніжно вбиває мене своїм <BLANK>.\"",
+      "prompt": "[EventName=HOST/AltHost]Як кажуть у пісні: «Віддай мені <BLANK>, своїми руками»",
       "safetyQuips": [],
       "us": false,
       "x": false
@@ -760,7 +760,7 @@
       "id": "56569",
       "includesPlayerName": false,
       "isValid": "",
-      "prompt": "[EventName=HOST/AltHost]Ваш дуже недооцінений дотеп у Жартлисті",
+      "prompt": "[EventName=HOST/AltHost]Ваш дуже недооцінений дотеп у Сміхрясь",
       "safetyQuips": [],
       "us": false,
       "x": false

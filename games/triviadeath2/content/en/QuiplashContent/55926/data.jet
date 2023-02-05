@@ -29,11 +29,11 @@
       "t": "A",
       "v": "prompt",
       "n": "PromptAudio",
-      "s": "[EventName=HOST/AltHost][EventName=HOST/AltHost]Найкраща назва автомобілів для агрономів"
+      "s": "[EventName=HOST/AltHost][EventName=HOST/AltHost]Найкраща назва для українського безпілотника"
     },
     {
       "t": "S",
-      "v": "[EventName=HOST/AltHost][EventName=HOST/AltHost]Найкраща назва автомобілів для агрономів",
+      "v": "[EventName=HOST/AltHost][EventName=HOST/AltHost]Найкраща назва для українського безпілотника",
       "n": "PromptText"
     },
     {
