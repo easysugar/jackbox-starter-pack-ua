@@ -29,11 +29,11 @@
       "t": "A",
       "v": "prompt",
       "n": "PromptAudio",
-      "s": "[EventName=HOST/AltHost][EventName=HOST/AltHost]What the raven in that Edgar Allen Poe poem SHOULD have said\n"
+      "s": "[EventName=HOST/AltHost][EventName=HOST/AltHost]Додайте куплет до пісні \"Ти ж мене підманула\""
     },
     {
       "t": "S",
-      "v": "[EventName=HOST/AltHost][EventName=HOST/AltHost]What the raven in that Edgar Allen Poe poem SHOULD have said\n",
+      "v": "[EventName=HOST/AltHost][EventName=HOST/AltHost]Додайте куплет до пісні \"Ти ж мене підманула\"",
       "n": "PromptText"
     },
     {

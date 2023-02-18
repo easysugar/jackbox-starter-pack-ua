@@ -29,11 +29,11 @@
       "t": "A",
       "v": "prompt",
       "n": "PromptAudio",
-      "s": "[EventName=HOST/AltHost][EventName=HOST/AltHost]If you reincarnated into this, you’d know you were being punished"
+      "s": "[EventName=HOST/AltHost][EventName=HOST/AltHost]Якби ви обернулися на це, було б очевидно, що це покарання"
     },
     {
       "t": "S",
-      "v": "[EventName=HOST/AltHost][EventName=HOST/AltHost]If you reincarnated into this, you’d know you were being punished",
+      "v": "[EventName=HOST/AltHost][EventName=HOST/AltHost]Якби ви обернулися на це, було б очевидно, що це покарання",
       "n": "PromptText"
     },
     {

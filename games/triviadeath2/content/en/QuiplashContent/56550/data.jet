@@ -29,11 +29,11 @@
       "t": "A",
       "v": "prompt",
       "n": "PromptAudio",
-      "s": "[EventName=HOST/AltHost][EventName=HOST/AltHost]Sexiest arts and crafts project for a ghost and a human to complete together"
+      "s": "[EventName=HOST/AltHost][EventName=HOST/AltHost]Проєкт декоративно-прикладного мистецтва, який примара  і людина можуть зробити разом"
     },
     {
       "t": "S",
-      "v": "[EventName=HOST/AltHost][EventName=HOST/AltHost]Sexiest arts and crafts project for a ghost and a human to complete together",
+      "v": "[EventName=HOST/AltHost][EventName=HOST/AltHost]Проєкт декоративно-прикладного мистецтва, який примара  і людина можуть зробити разом",
       "n": "PromptText"
     },
     {

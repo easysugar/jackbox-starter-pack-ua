@@ -319,7 +319,7 @@
       "id": "56025",
       "includesPlayerName": false,
       "isValid": "",
-      "prompt": "[EventName=HOST/AltHost]They painted over this on the Sistine Chapel because it was too spooky",
+      "prompt": "[EventName=HOST/AltHost]Яку мозаїку прибрали з Софії Київської, бо та була надто моторошна?",
       "safetyQuips": [],
       "us": false,
       "x": false
@@ -508,7 +508,7 @@
       "id": "56523",
       "includesPlayerName": false,
       "isValid": "",
-      "prompt": "[EventName=HOST/AltHost]What the raven in that Edgar Allen Poe poem SHOULD have said\n",
+      "prompt": "[EventName=HOST/AltHost]Додайте куплет до пісні \"Ти ж мене підманула\"",
       "safetyQuips": [],
       "us": false,
       "x": false
@@ -697,7 +697,7 @@
       "id": "56550",
       "includesPlayerName": false,
       "isValid": "",
-      "prompt": "[EventName=HOST/AltHost]Sexiest arts and crafts project for a ghost and a human to complete together",
+      "prompt": "[EventName=HOST/AltHost]Проєкт декоративно-прикладного мистецтва, який примара  і людина можуть зробити разом",
       "safetyQuips": [],
       "us": false,
       "x": false
@@ -715,7 +715,7 @@
       "id": "56552",
       "includesPlayerName": false,
       "isValid": "",
-      "prompt": "[EventName=HOST/AltHost]If you reincarnated into this, you’d know you were being punished",
+      "prompt": "[EventName=HOST/AltHost]Якби ви обернулися на це, було б очевидно, що це покарання",
       "safetyQuips": [],
       "us": false,
       "x": false
