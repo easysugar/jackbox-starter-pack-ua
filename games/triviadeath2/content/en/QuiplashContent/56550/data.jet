@@ -29,11 +29,11 @@
       "t": "A",
       "v": "prompt",
       "n": "PromptAudio",
-      "s": "[EventName=HOST/AltHost][EventName=HOST/AltHost]Проєкт декоративно-прикладного мистецтва, який примара  і людина можуть зробити разом"
+      "s": "[EventName=HOST/AltHost][EventName=HOST/AltHost]Речі, які людина і привид можуть робити разом"
     },
     {
       "t": "S",
-      "v": "[EventName=HOST/AltHost][EventName=HOST/AltHost]Проєкт декоративно-прикладного мистецтва, який примара  і людина можуть зробити разом",
+      "v": "[EventName=HOST/AltHost][EventName=HOST/AltHost]Речі, які людина і привид можуть робити разом",
       "n": "PromptText"
     },
     {

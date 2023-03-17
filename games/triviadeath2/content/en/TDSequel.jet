@@ -12,7 +12,7 @@
       "id": "00000001",
       "minSequel": 2,
       "tag": "DOC",
-      "playerNamePrefix": "Dr.",
+      "playerNamePrefix": "Д-р.",
       "text": {
         "main": "Рік потому",
         "sub": "(під час медичного з'їзду, заброньованого в готелі)"
@@ -22,7 +22,7 @@
       "id": "00000002",
       "minSequel": 2,
       "tag": "NOT",
-      "playerNamePrefix": "Not ",
+      "playerNamePrefix": "Не ",
       "text": {
         "main": "Дев'ятнадцять років потому",
         "sub": "(зібрались зовсім інші гості)"
@@ -232,7 +232,7 @@
       "id": "00000026",
       "minSequel": 2,
       "tag": "CAPT",
-      "playerNamePrefix": "Capt ",
+      "playerNamePrefix": "Капітан ",
       "text": {
         "main": "П'ятнадцять років потому",
         "sub": "(з'їзд морських капітанів у місті)"

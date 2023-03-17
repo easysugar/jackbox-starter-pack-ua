@@ -29,11 +29,11 @@
       "t": "A",
       "v": "prompt",
       "n": "PromptAudio",
-      "s": "[EventName=HOST/AltHost][EventName=HOST/AltHost]Додайте куплет до пісні \"Ти ж мене підманула\""
+      "s": "[EventName=HOST/AltHost][EventName=HOST/AltHost]Додайте рядок до пісні \"Ти ж мене підманула\""
     },
     {
       "t": "S",
-      "v": "[EventName=HOST/AltHost][EventName=HOST/AltHost]Додайте куплет до пісні \"Ти ж мене підманула\"",
+      "v": "[EventName=HOST/AltHost][EventName=HOST/AltHost]Додайте рядок до пісні \"Ти ж мене підманула\"",
       "n": "PromptText"
     },
     {

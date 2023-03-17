@@ -29,11 +29,11 @@
       "t": "A",
       "v": "prompt",
       "n": "PromptAudio",
-      "s": "[EventName=HOST/AltHost][EventName=HOST/AltHost]Найгірше в тому, щоб бути вихованим сім’єю серійних вбивць, яка керує готелем, де таємно вбивають гостей"
+      "s": "[EventName=HOST/AltHost][EventName=HOST/AltHost]Найгірше в тому, щоб рости в сім’ї серійних вбивць у готелі, де таємно вбивають гостей"
     },
     {
       "t": "S",
-      "v": "[EventName=HOST/AltHost][EventName=HOST/AltHost]Найгірше в тому, щоб бути вихованим сім’єю серійних вбивць, яка керує готелем, де таємно вбивають гостей",
+      "v": "[EventName=HOST/AltHost][EventName=HOST/AltHost]Найгірше в тому, щоб рости в сім’ї серійних вбивць у готелі, де таємно вбивають гостей",
       "n": "PromptText"
     },
     {

@@ -29,11 +29,11 @@
       "t": "A",
       "v": "prompt",
       "n": "PromptAudio",
-      "s": "[EventName=HOST/AltHost][EventName=HOST/AltHost]Якби ви обернулися на це, було б очевидно, що це покарання"
+      "s": "[EventName=HOST/AltHost][EventName=HOST/AltHost]Якби ви реінкарнувалися в це, то було б очевидно, що це покарання"
     },
     {
       "t": "S",
-      "v": "[EventName=HOST/AltHost][EventName=HOST/AltHost]Якби ви обернулися на це, було б очевидно, що це покарання",
+      "v": "[EventName=HOST/AltHost][EventName=HOST/AltHost]Якби ви реінкарнувалися в це, то було б очевидно, що це покарання",
       "n": "PromptText"
     },
     {

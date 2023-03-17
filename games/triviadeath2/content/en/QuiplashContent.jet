@@ -427,7 +427,7 @@
       "id": "56068",
       "includesPlayerName": false,
       "isValid": "",
-      "prompt": "[EventName=HOST/AltHost]Навіть не говори до мене, поки я не отримаю <BLANK>",
+      "prompt": "[EventName=HOST/AltHost]Навіть не говори до мене, поки в мене не було <BLANK>",
       "safetyQuips": [],
       "us": false,
       "x": false
@@ -472,7 +472,7 @@
       "id": "56126",
       "includesPlayerName": false,
       "isValid": "",
-      "prompt": "[EventName=HOST/AltHost]Дивацьке завдання, яке можуть задати під час гри в Сміхрясь, наприклад?",
+      "prompt": "[EventName=HOST/AltHost]Дивацьке завдання, яке можуть задати під час гри в Сміхрясь, мабуть?",
       "safetyQuips": [],
       "us": false,
       "x": false
@@ -490,7 +490,7 @@
       "id": "56499",
       "includesPlayerName": false,
       "isValid": "",
-      "prompt": "[EventName=HOST/AltHost]Найгірше в тому, щоб бути вихованим сім’єю серійних вбивць, яка керує готелем, де таємно вбивають гостей",
+      "prompt": "[EventName=HOST/AltHost]Найгірше в тому, щоб рости в сім’ї серійних вбивць у готелі, де таємно вбивають гостей",
       "safetyQuips": [],
       "us": false,
       "x": false
@@ -499,7 +499,7 @@
       "id": "56522",
       "includesPlayerName": false,
       "isValid": "",
-      "prompt": "[EventName=HOST/AltHost]Якщо я помру уві сні, Боже, то забери ще й <BLANK>\n",
+      "prompt": "[EventName=HOST/AltHost]Якщо я помру, Боже, то забери ще й <BLANK>\n",
       "safetyQuips": [],
       "us": false,
       "x": false
@@ -508,7 +508,7 @@
       "id": "56523",
       "includesPlayerName": false,
       "isValid": "",
-      "prompt": "[EventName=HOST/AltHost]Додайте куплет до пісні \"Ти ж мене підманула\"",
+      "prompt": "[EventName=HOST/AltHost]Додайте рядок до пісні \"Ти ж мене підманула\"",
       "safetyQuips": [],
       "us": false,
       "x": false
@@ -652,7 +652,7 @@
       "id": "56544",
       "includesPlayerName": false,
       "isValid": "",
-      "prompt": "[EventName=HOST/AltHost]Неприпустима заміна сиру в піці.\n",
+      "prompt": "[EventName=HOST/AltHost]Неприпустима заміна рису в суші.\n",
       "safetyQuips": [],
       "us": false,
       "x": false
@@ -697,7 +697,7 @@
       "id": "56550",
       "includesPlayerName": false,
       "isValid": "",
-      "prompt": "[EventName=HOST/AltHost]Проєкт декоративно-прикладного мистецтва, який примара  і людина можуть зробити разом",
+      "prompt": "[EventName=HOST/AltHost]Речі, які людина і привид можуть робити разом",
       "safetyQuips": [],
       "us": false,
       "x": false
@@ -715,7 +715,7 @@
       "id": "56552",
       "includesPlayerName": false,
       "isValid": "",
-      "prompt": "[EventName=HOST/AltHost]Якби ви обернулися на це, було б очевидно, що це покарання",
+      "prompt": "[EventName=HOST/AltHost]Якби ви реінкарнувалися в це, то було б очевидно, що це покарання",
       "safetyQuips": [],
       "us": false,
       "x": false
@@ -733,7 +733,7 @@
       "id": "56554",
       "includesPlayerName": false,
       "isValid": "",
-      "prompt": "[EventName=HOST/AltHost]Як кажуть у пісні: «Віддай мені <BLANK>, своїми руками»",
+      "prompt": "[EventName=HOST/AltHost]Як кажуть у пісні: «Тримай мене ніжно, одною <BLANK>»",
       "safetyQuips": [],
       "us": false,
       "x": false
@@ -760,7 +760,7 @@
       "id": "56569",
       "includesPlayerName": false,
       "isValid": "",
-      "prompt": "[EventName=HOST/AltHost]Ваш дуже недооцінений дотеп у Сміхрясь",
+      "prompt": "[EventName=HOST/AltHost]Ваш дуже недооцінений жарт у Сміхрясь",
       "safetyQuips": [],
       "us": false,
       "x": false

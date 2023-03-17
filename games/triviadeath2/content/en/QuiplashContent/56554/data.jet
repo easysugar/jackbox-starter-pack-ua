@@ -29,11 +29,11 @@
       "t": "A",
       "v": "prompt",
       "n": "PromptAudio",
-      "s": "[EventName=HOST/AltHost][EventName=HOST/AltHost]Як кажуть у пісні: «Віддай мені <BLANK>, своїми руками»"
+      "s": "[EventName=HOST/AltHost][EventName=HOST/AltHost]Як кажуть у пісні: «Тримай мене ніжно, одною <BLANK>»"
     },
     {
       "t": "S",
-      "v": "[EventName=HOST/AltHost][EventName=HOST/AltHost]Як кажуть у пісні: «Віддай мені <BLANK>, своїми руками»",
+      "v": "[EventName=HOST/AltHost][EventName=HOST/AltHost]Як кажуть у пісні: «Тримай мене ніжно, одною <BLANK>»",
       "n": "PromptText"
     },
     {

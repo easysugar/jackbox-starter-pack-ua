@@ -29,11 +29,11 @@
       "t": "A",
       "v": "prompt",
       "n": "PromptAudio",
-      "s": "[EventName=HOST/AltHost][EventName=HOST/AltHost]Неприпустима заміна сиру в піці.\n"
+      "s": "[EventName=HOST/AltHost][EventName=HOST/AltHost]Неприпустима заміна рису в суші.\n"
     },
     {
       "t": "S",
-      "v": "[EventName=HOST/AltHost][EventName=HOST/AltHost]Неприпустима заміна сиру в піці.\n",
+      "v": "[EventName=HOST/AltHost][EventName=HOST/AltHost]Неприпустима заміна рису в суші.\n",
       "n": "PromptText"
     },
     {

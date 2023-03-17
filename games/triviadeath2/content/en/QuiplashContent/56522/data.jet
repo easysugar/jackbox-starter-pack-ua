@@ -29,11 +29,11 @@
       "t": "A",
       "v": "prompt",
       "n": "PromptAudio",
-      "s": "[EventName=HOST/AltHost][EventName=HOST/AltHost]Якщо я помру уві сні, Боже, то забери ще й <BLANK>\n"
+      "s": "[EventName=HOST/AltHost][EventName=HOST/AltHost]Якщо я помру, Боже, то забери ще й <BLANK>\n"
     },
     {
       "t": "S",
-      "v": "[EventName=HOST/AltHost][EventName=HOST/AltHost]Якщо я помру уві сні, Боже, то забери ще й <BLANK>\n",
+      "v": "[EventName=HOST/AltHost][EventName=HOST/AltHost]Якщо я помру, Боже, то забери ще й <BLANK>\n",
       "n": "PromptText"
     },
     {

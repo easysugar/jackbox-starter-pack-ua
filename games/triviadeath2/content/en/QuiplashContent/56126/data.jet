@@ -29,11 +29,11 @@
       "t": "A",
       "v": "prompt",
       "n": "PromptAudio",
-      "s": "[EventName=HOST/AltHost][EventName=HOST/AltHost]Дивацьке завдання, яке можуть задати під час гри в Сміхрясь, наприклад?"
+      "s": "[EventName=HOST/AltHost][EventName=HOST/AltHost]Дивацьке завдання, яке можуть задати під час гри в Сміхрясь, мабуть?"
     },
     {
       "t": "S",
-      "v": "[EventName=HOST/AltHost][EventName=HOST/AltHost]Дивацьке завдання, яке можуть задати під час гри в Сміхрясь, наприклад?",
+      "v": "[EventName=HOST/AltHost][EventName=HOST/AltHost]Дивацьке завдання, яке можуть задати під час гри в Сміхрясь, мабуть?",
       "n": "PromptText"
     },
     {
