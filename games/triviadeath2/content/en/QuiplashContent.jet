@@ -427,7 +427,7 @@
       "id": "56068",
       "includesPlayerName": false,
       "isValid": "",
-      "prompt": "[EventName=HOST/AltHost]Навіть не говори до мене, поки в мене не було <BLANK>",
+      "prompt": "[EventName=HOST/AltHost]Навіть не говори до мене, поки в мене не буде <BLANK>",
       "safetyQuips": [],
       "us": false,
       "x": false
