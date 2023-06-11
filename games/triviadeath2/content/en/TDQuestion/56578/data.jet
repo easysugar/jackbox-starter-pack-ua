@@ -9,7 +9,7 @@
       "t": "A",
       "v": "introAudio",
       "n": "Intro",
-      "s": "Hey, does anyone know an effective method for getting brain tissue out of a polyester ski mask?  I’m asking for a friend.  "
+      "s": "Гей, хтось знає дієвий спосіб відчистити тканини мозку з пластикової лижної маски? Це я для друга питаю."
     },
     {
       "t": "B",
@@ -20,7 +20,7 @@
       "t": "A",
       "v": "questionAudio",
       "n": "Q",
-      "s": "Тканина мозку складається з сірої речовини та"
+      "s": "Тканина мозку складається з сірої речовини та ще речовини якого кольору?"
     },
     {
       "t": "B",

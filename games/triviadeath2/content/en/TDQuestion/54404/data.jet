@@ -9,7 +9,7 @@
       "t": "A",
       "v": "introAudio",
       "n": "Intro",
-      "s": "Look, I know this question gets asked on Jeopardy! all the time, but I have to ask it too..."
+      "s": "Нащо у школі так багато предметів? Щоб у вас було більше шансів вижити, якщо вас схопив у заручники чарівний ведучий вікторин."
     },
     {
       "t": "B",
@@ -20,7 +20,7 @@
       "t": "A",
       "v": "questionAudio",
       "n": "Q",
-      "s": "Що означає ДНК?"
+      "s": "Як розшифровується ДНК?"
     },
     {
       "t": "B",

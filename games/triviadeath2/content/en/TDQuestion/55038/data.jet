@@ -9,7 +9,7 @@
       "t": "A",
       "v": "introAudio",
       "n": "Intro",
-      "s": "(Whispering) Okay... let’s just relax as I slowly brush this hair across your face... who’s hair? Don’t worry about it...."
+      "s": "(Пошепки) Гаразд... просто розслабся, поки я повільно розчешу це волосся по твоєму обличчю... чиє волосся? Не хвилюйся про це...."
     },
     {
       "t": "B",
@@ -20,7 +20,7 @@
       "t": "A",
       "v": "questionAudio",
       "n": "Q",
-      "s": "Що означає «S» у ASMR?"
+      "s": "Що означає \"С\" в АСМР?"
     },
     {
       "t": "B",
